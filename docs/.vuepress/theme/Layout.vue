@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <template slot="page-bottom">
-			<!-- <Feedback /> -->
+			<Feedback />
     </template>
   </Layout>
 </template>
