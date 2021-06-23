@@ -1,6 +1,14 @@
 <template>
-	<div class="theme-container">
-		Read time: {{$page.readingTime.text}}
-		<Content/>
-	</div>
+  <Layout>
+    <template slot="page-bottom">
+			<!-- <Feedback /> -->
+    </template>
+  </Layout>
 </template>
+
+<script>
+import Layout from "@vuepress/theme-default/layouts/Layout.vue";
+export default {
+  components: { Layout },
+};
+</script>
