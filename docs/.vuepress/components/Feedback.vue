@@ -2,8 +2,8 @@
 	<div style="max-width: 740px; margin: 0 auto;">
 		<div style="margin-bottom: 2px;">Was this page helpful?</div>
 		<div v-if="!submitted" style="max-width: 100px; font-size:24px;">
-			<font-awesome-icon class="btn" icon="thumbs-up" v-on:click="submitFeedback(1)" />
-			<font-awesome-icon class="btn" icon="thumbs-down" v-on:click="submitFeedback(-1)" />
+			<div class="btn" v-on:click="submitFeedback(1)">Thumbs up</div>
+			<div class="btn" v-on:click="submitFeedback(-1)">Thumbs down</div>
 		</div>
 		<div v-else>
 			<p>{{message}}</p>
