@@ -19,7 +19,7 @@ This workflow allows you to receive updates for specified tasks in Flow. You can
 
 The final workflow should look like the following image.
 
-![A workflow with the Flow Trigger node](./workflow.png)
+![A workflow with the Flow Trigger node](REDACTED)
 
 
 ### 1. Flow Trigger node

@@ -24,7 +24,7 @@ This workflow allows you to create a new contact in Agile CRM. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the Agile CRM node](./workflow.png)
+![A workflow with the Agile CRM node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to create a new task in Asana. You can also find the [w
 
 The final workflow should look like the following image.
 
-![A workflow with the Asana node](./workflow.png)
+![A workflow with the Asana node](REDACTED)
 
 ### 1. Start node
 

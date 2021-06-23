@@ -19,4 +19,4 @@ Create a [monday.com](https://monday.com/) account.
 4. Click on API and generate an API V2 Token.
 5. Use the token in your monday.com node credentials in n8n.
 
-![Getting Monday.com credentials](./using-access-token.gif)
+![Getting Monday.com credentials](REDACTED)

@@ -23,7 +23,7 @@ This workflow allows you to get articles from Hacker News. You can also find the
 
 The final workflow should look like the following image.
 
-![A workflow with the Hacker News node](./workflow.png)
+![A workflow with the Hacker News node](REDACTED)
 
 ### 1. Start node
 

@@ -19,7 +19,7 @@ This workflow allows you to receive updates for all changes in Pipedrive. You ca
 
 The final workflow should look like the following image.
 
-![A workflow with the Pipedrive Trigger node](./workflow.png)
+![A workflow with the Pipedrive Trigger node](REDACTED)
 
 
 ### 1. Pipedrive Trigger node

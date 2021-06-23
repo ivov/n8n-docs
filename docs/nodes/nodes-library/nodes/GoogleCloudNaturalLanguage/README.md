@@ -26,7 +26,7 @@ This workflow allows you to analyze the sentiment of feedback received via a Typ
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Cloud Natural Language node](./workflow.png)
+![A workflow with the Google Cloud Natural Language node](REDACTED)
 
 ### 1. Typeform Trigger node
 
@@ -38,7 +38,7 @@ This node will trigger the workflow when a feedback form is submitted. Make sure
 4. Click on ***Execute Node*** to run the node.
 
 In the screenshot below, you will notice that the node triggers the workflow when feedback is submitted. We will pass this feedback to the next nodes in the workflow.
-![Using the Typeform Trigger node to trigger the workflow when a feedback form is submitted](./TypeformTrigger_node.png)
+![Using the Typeform Trigger node to trigger the workflow when a feedback form is submitted](REDACTED)
 
 ### 2. Google Cloud Natural Language node (analyzeSentiment: document)
 
@@ -52,7 +52,7 @@ This node will analyze the sentiment of the feedback that we got from the previo
 :::
 In the screenshot below, you will notice that the node analyzes the sentiment of the feedback and gives a score based on that.
 
-![Using the Google Cloud Natural Language node to analyze the sentiment](./GoogleCloudNaturalLanguage_node.png)
+![Using the Google Cloud Natural Language node to analyze the sentiment](REDACTED)
 
 
 ### 3. IF node
@@ -67,7 +67,7 @@ This node will check if the score we got from the previous node is smaller than 
 :::
 In the screenshot below, you will notice that the node checks if the score that we received from the previous node is smaller than `0`.
 
-![Using the IF node to check if the score is smaller than `0` or not](./IF_node.png)
+![Using the IF node to check if the score is smaller than `0` or not](REDACTED)
 
 ### 4. Mattermost node (post: message)
 
@@ -83,7 +83,7 @@ This node will send the feedback and the analysis score to the `Feedback` channe
 :::
 In the screenshot below, you will notice that the node sends the feedback and the analysis score to the `Feedback` channel in Mattermost.
 
-![Using the Mattermost node to send the feedback and the analysis score](./Mattermost_node.png)
+![Using the Mattermost node to send the feedback and the analysis score](REDACTED)
 
 ### 5. NoOp node
 
@@ -92,7 +92,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 1. Create a ***NoOp*** node connected to the 'false' output of the IF node.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Typeform Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered when a new form is submitted.

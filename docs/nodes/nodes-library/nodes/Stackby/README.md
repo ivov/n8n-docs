@@ -27,7 +27,7 @@ This workflow allows you to insert and retrieve data from a table in Stackby. Yo
 
 The final workflow should look like the following image.
 
-![A workflow with the Stackby node](./workflow.png)
+![A workflow with the Stackby node](REDACTED)
 
 ### 1. Start node
 
@@ -47,7 +47,7 @@ We will use the Set node to set the values for the name and id fields for a new 
 
 In the screenshot below, you will notice that the node sets the value for `ID` and `Name`.
 
-![Using the Set node to set data](./Set_node.png)
+![Using the Set node to set data](REDACTED)
 
 ### 3. Stackby node (Append)
 
@@ -63,7 +63,7 @@ Copy the string of characters located after `/stack/` in your Stackby URL. This 
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Stackby node to insert data into a Stackby table](./Stackby_node.png)
+![Using the Stackby node to insert data into a Stackby table](REDACTED)
 
 ### 4. Stackby1 node (List)
 
@@ -79,4 +79,4 @@ This node will list all the records from a table.
 :::
 In the screenshot below, you will notice that the node returns all the entries that are stored in the table.
 
-![Using the Stackby node to read data from a Stackby table](./Stackby1_node.png)
+![Using the Stackby node to read data from a Stackby table](REDACTED)

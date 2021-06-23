@@ -25,7 +25,7 @@ This workflow allows you to insert and update data from a table in Airtable. You
 
 The final workflow should look like the following image.
 
-![A workflow with the Airtable node](./workflow.png)
+![A workflow with the Airtable node](REDACTED)
 
 ### 1. Start node
 
@@ -45,7 +45,7 @@ We will use the Set node to set the values for the name and id fields for a new 
 
 In the screenshot below, you will notice that the node sets the value for `ID` and `Name`.
 
-![Using the Set node to set data to be inserted by the Airtable node](./Set_node.png)
+![Using the Set node to set data to be inserted by the Airtable node](REDACTED)
 
 ### 3. Airtable node (Append)
 
@@ -59,7 +59,7 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)
 
 ### 4. Airtable1 node (List)
 
@@ -77,7 +77,7 @@ This node will list all the records with the name `n8n`. If you want to list rec
 :::
 In the screenshot below, you will notice that the node only returns the record with the name `n8n`.
 
-![Using the Airtable node to read data from an Airtable table](./Airtable1_node.png)
+![Using the Airtable node to read data from an Airtable table](REDACTED)
 
 ### 5. Set1 node
 
@@ -91,7 +91,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 
 In the screenshot below, you will notice that the node sets the value of `Name`. This value is passed to the next node in the workflow.
 
-![Using the Set node to set data to be inserted by the Airtable node](./Set_node.png)
+![Using the Set node to set data to be inserted by the Airtable node](REDACTED)
 
 ### 6. Airtable2 node (Update)
 
@@ -109,7 +109,7 @@ This node will update the Name field of the record that we received from the pre
 :::
 In the screenshot below, you will notice that the node updates the Name field.
 
-![Using the Airtable node to update data of a record](./Airtable2_node.png)
+![Using the Airtable node to update data of a record](REDACTED)
 
 ## FAQs
 

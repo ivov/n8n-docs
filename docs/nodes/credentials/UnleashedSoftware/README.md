@@ -19,4 +19,4 @@ Create an [Unleashed Software](https://www.unleashedsoftware.com/) account.
 3. Use the displayed ***API Id*** and ***API Key*** with your Unleashed API credentials in n8n.
 4. Click on the ***Save*** button to save your credentials.
 
-![Getting Unleashed Software credentials](./using-access-token.gif)
+![Getting Unleashed Software credentials](REDACTED)

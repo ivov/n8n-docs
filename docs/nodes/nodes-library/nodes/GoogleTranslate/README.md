@@ -23,7 +23,7 @@ This workflow allows you to translate text from English to German using the Goog
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Translate node](./workflow.png)
+![A workflow with the Google Translate node](REDACTED)
 
 ### 1. Start node
 
@@ -41,4 +41,4 @@ This node will translate the text `Hello from n8n!` to German. You can enter a d
 
 In the screenshot below, you will notice that the node translates the text `Hello from n8n!` to German.
 
-![Using the Google Translate node to translate text in German](./GoogleTranslate_node.png)
+![Using the Google Translate node to translate text in German](REDACTED)

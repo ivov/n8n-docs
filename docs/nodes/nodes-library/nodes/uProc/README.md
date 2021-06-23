@@ -461,7 +461,7 @@ This workflow allows you to take a screenshot of a website and send it to a Tele
 
 The final workflow should look like the following image.
 
-![A workflow with the uProc node](./workflow.png)
+![A workflow with the uProc node](REDACTED)
 
 ### 1. Start node
 
@@ -483,7 +483,7 @@ This node will return the screenshot of the n8n website. If you want to get the 
 
 In the screenshot below, you will notice that the node returns a URL of the screenshot of the website.
 
-![Using the uProc node to get a screenshot of a website](./uProc_node.png)
+![Using the uProc node to get a screenshot of a website](REDACTED)
 
 ### 3. Telegram node (sendPhoto: message)
 
@@ -500,4 +500,4 @@ This node will send the screenshot that we received from the previous node.
 
 In the screenshot below, you will notice that the node sends the screenshot image to the channel that we specify.
 
-![Using the Telegram node to send the image of the screenshot](./Telegram_node.png)
+![Using the Telegram node to send the image of the screenshot](REDACTED)

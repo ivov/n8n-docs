@@ -19,7 +19,7 @@ This workflow allows you to get new time entries from Clockify. You can also fin
 
 The final workflow should look like the following image.
 
-![A workflow with the Clockify Trigger node](./workflow.png)
+![A workflow with the Clockify Trigger node](REDACTED)
 
 
 ### 1. Clockify Trigger node

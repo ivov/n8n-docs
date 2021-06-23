@@ -23,4 +23,4 @@ Create a [BannerBear](https://www.BannerBear.com/) account.
 6. Use API key in your Bannerbear node credentials in n8n.
 
 
-![Getting Bannerbear credentials](./using-access-token.gif)
+![Getting Bannerbear credentials](REDACTED)

@@ -23,7 +23,7 @@ This workflow allows you to get the data of all leads from Zoho CRM. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Zoho CRM node](./workflow.png)
+![A workflow with the Zoho CRM node](REDACTED)
 
 ### 1. Start node
 

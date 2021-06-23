@@ -22,4 +22,4 @@ Create an [Iterable](https://iterable.com) account.
 6. Click on the ***Copy*** button to copy the API key.
 7. Use this ***API key*** with your Iterable node credentials in n8n.
 
-![Getting Iterable credentials](./using-api-key.gif)
+![Getting Iterable credentials](REDACTED)

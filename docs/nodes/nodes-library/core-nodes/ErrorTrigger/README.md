@@ -21,7 +21,7 @@ This workflow allows you to send an SMS when a workflow fails. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the Error Trigger node](./workflow.png)
+![A workflow with the Error Trigger node](REDACTED)
 
 ### 1. Error Trigger node
 

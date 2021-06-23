@@ -23,7 +23,7 @@ This workflow allows you to generate, retrieve, and download a report using the 
 
 The final workflow should look like the following image.
 
-![A workflow with the SecurityScorecard node](./workflow.png)
+![A workflow with the SecurityScorecard node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will generate a full scorecard report for a company that we specify.
 
 In the screenshot below, you will notice that the node generates a full scorecard report of `n8n.io`.
 
-![Using the SecurityScorecard node to create full scorecard report](./SecurityScorecard_node.png)
+![Using the SecurityScorecard node to create full scorecard report](REDACTED)
 
 ### 3. SecurityScorecard1 node (getAll: report)
 
@@ -56,7 +56,7 @@ This node will return a report from SecurityScorecard.
 
 In the screenshot below, you will notice that the node returns a report from SecurityScroecard.
 
-![Using the SecurityScorecard node to get a report](./SecurityScorecard1_node.png)
+![Using the SecurityScorecard node to get a report](REDACTED)
 
 ### 4. SecurityScorecard2 node (download: report)
 
@@ -72,4 +72,4 @@ This node will download the report that got returned by the previous node.
 
 In the screenshot below, you will notice that the node downloads the report that was returned by the previous node.
 
-![Using the SecurityScorecard node to download a report](./SecurityScorecard2_node.png)
+![Using the SecurityScorecard node to download a report](REDACTED)

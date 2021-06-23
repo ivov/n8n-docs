@@ -31,7 +31,7 @@ This workflow allows you to execute a command that returns the percentage of the
 
 The final workflow should look like the following image.
 
-![A workflow with the Execute Command node](./workflow.png)
+![A workflow with the Execute Command node](REDACTED)
 
 ### 1. Cron node
 
@@ -45,7 +45,7 @@ The Cron node will trigger the workflow twice a day, at 9 AM and 4 PM.
 6. Enter `16` in the ***Hour*** field.
 7. Click on ***Execute Node*** to run the node.
 
-![Using the Cron node to trigger the workflow twice a day](./Cron_node.png)
+![Using the Cron node to trigger the workflow twice a day](REDACTED)
 
 ::: v-pre
 ### 2. Execute Command node
@@ -58,7 +58,7 @@ The Execute Command node will execute the command and return the percentage of h
 
 In the screenshot below, you will notice that the node executes the command and returns the percentage of the hard disk that is full.
 
-![Using the Execute Command node to get the percentage of hard disk used on the host machine](./ExecuteCommand_node.png)
+![Using the Execute Command node to get the percentage of hard disk used on the host machine](REDACTED)
 
 ::: v-pre
 ### 3. IF node
@@ -75,7 +75,7 @@ This node will compare the percentage of the hard disk space used we got from th
 
 In the screenshot below, you will notice that the node returns an output when the percentage of hard disk space used exceeds 80%.
 
-![Using the IF node to check if the percentage of hard disk space used is greater than eighty percent](./IF_node.png)
+![Using the IF node to check if the percentage of hard disk space used is greater than eighty percent](REDACTED)
 
 ### 4. Twilio node (send: sms)
 
@@ -93,7 +93,7 @@ This node sends an SMS to the specified phone number when the usage of hard disk
 
 In the screenshot below, you will notice that the node sends an SMS with the percentage of the hard disk space used that we got from the Execute Command node.
 
-![Using the Twilio node to send an SMS](./Twilio_node.png)
+![Using the Twilio node to send an SMS](REDACTED)
 
 ### 5. NoOp node
 Adding this node here is optional, as the absence of this node won't make a difference to the functioning of the workflow.
@@ -101,7 +101,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 1. Create a ***NoOp*** node connected to the 'false' output of the IF node.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ## FAQs
 

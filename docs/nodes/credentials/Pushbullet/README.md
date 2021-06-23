@@ -22,4 +22,4 @@ Create a [Pushbullet](https://www.pushbullet.com/) account.
 6. Click on the circle button in the OAuth section to connect a Pushbullet account to n8n.
 7. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Pushbullet credentials](./using-oauth.gif)
+![Getting Pushbullet credentials](REDACTED)

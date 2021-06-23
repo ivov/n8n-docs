@@ -24,7 +24,7 @@ This workflow allows you to create, add an attachment, and send a draft using th
 
 The final workflow should look like the following image.
 
-![A workflow with the Microsoft Outlook node](./workflow.png)
+![A workflow with the Microsoft Outlook node](REDACTED)
 
 ### 1. Start node
 
@@ -49,19 +49,19 @@ This node will create a draft message that we will send using the Microsoft Outl
 
 In the screenshot below, you will notice that the node creates a new draft with the subject `Hello from n8n!` and HTML body content.
 
-![Using the Microsoft Outlook node to create a draft](./MicrosoftOutlook_node.png)
+![Using the Microsoft Outlook node to create a draft](REDACTED)
 
 ### 3. HTTP Request node (GET)
 
 This node will fetch the logo of n8n from a URL. We will attach this file to our draft message that we created earlier. If you want to attach a different file, enter the URL of that file instead.
 
-1. Enter `https://n8n.io/n8n-logo.png` in the ***URL*** field.
+1. Enter `httpsREDACTED` in the ***URL*** field.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
 In the screenshot below, you will notice that the node returns the n8n logo. We will attach this file to the draft message that we created using the previous node.
 
-![Using the HTTP Request to get a file](./HTTPRequest_node.png)
+![Using the HTTP Request to get a file](REDACTED)
 
 ### 4. Microsoft Outlook1 node (add: messageAttachment)
 
@@ -77,7 +77,7 @@ This node will attach the file that we received from the previous node to the dr
 :::
 In the screenshot below, you will notice that the node attaches the file to the draft message that we created using the Microsoft Outlook node.
 
-![Using the Microsoft Outlook node to add an attachment to a draft message](./MicrosoftOutlook1_node.png)
+![Using the Microsoft Outlook node to add an attachment to a draft message](REDACTED)
 
 ### 5. Microsoft Outlook2 node (send: draft)
 
@@ -94,4 +94,4 @@ This node will send the draft message that we created using the Microsoft Outloo
 :::
 In the screenshot below, you will notice that the node sends the draft message that we created using the Microsoft Outlook node to a recipient.
 
-![Using the Microsoft Outlook node to send a draft](./MicrosoftOutlook2_node.png)
+![Using the Microsoft Outlook node to send a draft](REDACTED)

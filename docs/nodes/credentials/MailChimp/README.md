@@ -30,7 +30,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 9. Click on the circle button in the OAuth section to connect your Mailchimp account to n8n.
 10. Click the *Save* button to save your credentials.
 
-![Getting Mailchimp credentials](./using-oauth.gif)
+![Getting Mailchimp credentials](REDACTED)
 
 ## Using Access Token
 
@@ -41,4 +41,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 5. Scroll down and create a new key by clicking on 'Create a Key' under the 'Your API keys' section.
 6. Use the API key with your Mailchimp node credentials in n8n.
 
-![Getting Mailchimp credentials](./using-access-token.gif)
+![Getting Mailchimp credentials](REDACTED)

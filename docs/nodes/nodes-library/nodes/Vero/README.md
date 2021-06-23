@@ -24,7 +24,7 @@ This workflow allows you to create a user profile in Vero. You can also find the
 
 The final workflow should look like the following image.
 
-![A workflow with the Vero node](./workflow.png)
+![A workflow with the Vero node](REDACTED)
 
 ### 1. Start node
 

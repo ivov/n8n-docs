@@ -23,7 +23,7 @@ This workflow allows you to create a quote and a transfer, execute the transfer,
 
 The final workflow should look like the following image.
 
-![A workflow with the Wise node](./workflow.png)
+![A workflow with the Wise node](REDACTED)
 
 ### 1. Start node
 
@@ -45,7 +45,7 @@ This node will create a new quote in Wise.
 
 In the screenshot below, you will notice that the node creates a new quote.
 
-![Using the Wise node to create a new quote](./Wise_node.png)
+![Using the Wise node to create a new quote](REDACTED)
 
 ### 3. Wise1 node (create: transfer)
 
@@ -63,7 +63,7 @@ This node will create a new transfer for the quote that we created in the previo
 :::
 In the screenshot below, you will notice that the node creates a new transfer for the quote that we created in the previous node.
 
-![Using the Wise node to create a new transfer](./Wise1_node.png)
+![Using the Wise node to create a new transfer](REDACTED)
 
 ### 4. Wise2 node (execute: transfer)
 
@@ -79,7 +79,7 @@ This node will execute the transfer that we created in the previous node.
 
 In the screenshot below, you will notice that the node returns the executes the transfer that we created in the previous node.
 
-![Using the Wise node to execute a transfer](./Wise2_node.png)
+![Using the Wise node to execute a transfer](REDACTED)
 
 ### 5. Wise3 node (get: transfer)
 
@@ -94,4 +94,4 @@ This node will return the information of the transfer that we executed in the pr
 
 In the screenshot below, you will notice that the node returns the information about the transfer that we executed in the previous node.
 
-![Using the Wise node to get a transfer](./Wise3_node.png)
+![Using the Wise node to get a transfer](REDACTED)

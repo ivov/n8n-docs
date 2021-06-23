@@ -29,7 +29,7 @@ This workflow allows you to create transcription jobs for all your audio and vid
 
 The final workflow should look like the following image.
 
-![A workflow with the AMQP Sender node](./workflow.png)
+![A workflow with the AMQP Sender node](REDACTED)
 
 ### 1. Start node
 
@@ -47,7 +47,7 @@ This node will retrieve all the files from an S3 bucket you specify.
 
 In the screenshot below, you will notice that the node returns information of all the files stored in the bucket you specified.
 
-![Using the AWS S3 node to fetch information of files stored in a bucket](./AWSS3_node.png)
+![Using the AWS S3 node to fetch information of files stored in a bucket](REDACTED)
 
 ### 3. AWS Transcribe node (create: transcriptionJob)
 
@@ -63,4 +63,4 @@ This node will create a transcription job for the files that get returned by the
 :::
 In the screenshot below, you will notice that the node creates a transcription job for the files stored in an S3 bucket.
 
-![Using the AWS Transcribe node to create a transcription job](./AWSTranscribe_node.png)
+![Using the AWS Transcribe node to create a transcription job](REDACTED)

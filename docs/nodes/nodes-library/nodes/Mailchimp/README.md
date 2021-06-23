@@ -24,7 +24,7 @@ This workflow allows you to add a new member to a list in Mailchimp. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailchimp node](./workflow.png)
+![A workflow with the Mailchimp node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to create an affiliate, add metadata, and add the affil
 
 The final workflow should look like the following image.
 
-![A workflow with the Tapfiliate node](./workflow.png)
+![A workflow with the Tapfiliate node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create an affiliate in Tapfiliate.
 
 In the screenshot below, you will notice that the node creates an affiliate in Tapfiliate.
 
-![Using the Tapfiliate node to create a new affiliate](./Tapfiliate_node.png)
+![Using the Tapfiliate node to create a new affiliate](REDACTED)
 
 ### 3. Tapfiliate1 node (add:affiliateMetadata)
 
@@ -60,7 +60,7 @@ This node will add metadata to the affiliate that we created with the previous n
 :::
 In the screenshot below, you will notice that the node adds the metadata to the affiliate that we created with the previous node.
 
-![Using the Tapfiliate node to add metadata](./Tapfiliate1_node.png)
+![Using the Tapfiliate node to add metadata](REDACTED)
 
 ### 4. Tapfiliate2 node (get:contact)
 
@@ -77,4 +77,4 @@ This node will add the affiliate that we created with the Tapfiliate node to an 
 
 In the screenshot below, you will notice that the node adds the affiliate to a program.
 
-![Using the Tapfiliate node to add an affiliate to a program](./Tapfiliate2_node.png)
+![Using the Tapfiliate node to add an affiliate to a program](REDACTED)

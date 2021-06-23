@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a work item from Kitemaker. 
 
 The final workflow should look like the following image.
 
-![A workflow with the Kitemaker node](./workflow.png)
+![A workflow with the Kitemaker node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create a work item in Kitemaker.
 
 In the screenshot below, you will notice that the node creates a new work item in Kitemaker.
 
-![Using the Kitemaker node to create a new work item](./Kitemaker_node.png)
+![Using the Kitemaker node to create a new work item](REDACTED)
 
 
 ### 3. Kitemaker1 node (workItem: update)
@@ -59,7 +59,7 @@ This node will update the status of the item that we created using the previous 
 
 In the screenshot below, you will notice that the node updates the status of the item that got created previously.
 
-![Using the Kitemaker node to update a work item](./Kitemaker1_node.png)
+![Using the Kitemaker node to update a work item](REDACTED)
 
 ### 4. Kitemaker2 node (workItem: get)
 
@@ -73,4 +73,4 @@ This node will retrieve the information about the item that we created earlier.
 
 In the screenshot below, you will notice that the node retrieves the information of the work item that we created earlier.
 
-![Using the Kitemaker node to retrieve the information of a work item](./Kitemaker2_node.png)
+![Using the Kitemaker node to retrieve the information of a work item](REDACTED)

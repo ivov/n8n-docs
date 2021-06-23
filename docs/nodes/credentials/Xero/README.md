@@ -22,4 +22,4 @@ Create a [Xero](https://www.xero.com/) account.
 6. Click on the circle button in the OAuth section to connect a Xero account to n8n.
 7. Click the *Save* button to save your credentials.
 
-![Getting Xero Oauth Credentials](./using-oauth.gif)
+![Getting Xero Oauth Credentials](REDACTED)

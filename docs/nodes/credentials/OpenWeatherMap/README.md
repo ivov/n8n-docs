@@ -10,7 +10,7 @@ You can use these credentials to authenticate the following nodes with OpenWeath
 
 ## Prerequisites
 
-Create a [OpenWeatherMap](https://openweathermap.org/) account. 
+Create a [OpenWeatherMap](https://openweathermap.org/) account.
 
 ## Using Access Token
 
@@ -19,4 +19,4 @@ Create a [OpenWeatherMap](https://openweathermap.org/) account.
 3. Copy the API Key that you just generated.
 4. Use this API key with your OpenWeatherMap API node credentials in n8n.
 
-![Getting OpenWeatherMap API credentials](./using-access-token.gif)
+![Getting OpenWeatherMap API credentials](REDACTED)

@@ -21,7 +21,7 @@ This workflow allows you to receive a message on Mattermost when new meeting not
 
 The final workflow should look like the following image.
 
-![A workflow with the Notion Trigger node](./workflow.png)
+![A workflow with the Notion Trigger node](REDACTED)
 
 ### 1. Notion Trigger node
 
@@ -37,7 +37,7 @@ In the screenshot below, you will notice that the node returns the new data from
 
 **Note:** Make sure to add a field with the `Created Time` property type in your Notion database.
 
-![Using the Notion Trigger node to trigger the workflow](./NotionTrigger_node.png)
+![Using the Notion Trigger node to trigger the workflow](REDACTED)
 
 ### 2. IF node
 
@@ -51,7 +51,7 @@ This node will check if the notes belong to the `Marketing` team. If the team is
 :::
 In the screenshot below, you will notice that the node checks the team that we received from the previous node and returns `true` if the value equals `Marketing`.
 
-![Using the IF node to check the team](./IF_node.png)
+![Using the IF node to check the team](REDACTED)
 
 ### 3. Mattermost node (post: message)
 
@@ -71,7 +71,7 @@ Date: {{$json["properties"]["created time"]}}
 :::
 In the screenshot below, you will notice that the node sends a message in Mattermost about the new data that got added to Notion.
 
-![Using the Mattermost node to send a message](./Mattermost_node.png)
+![Using the Mattermost node to send a message](REDACTED)
 
 ### 5. NoOp node
 
@@ -80,7 +80,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 1. Create a ***NoOp*** node connected to the 'false' output of the IF node.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Notion Trigger node.

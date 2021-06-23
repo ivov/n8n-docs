@@ -28,7 +28,7 @@ This workflow allows you to read multiple files from the host machine using the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Read Binary Files node](./workflow.png)
+![A workflow with the Read Binary Files node](REDACTED)
 
 ### 1. Start node
 

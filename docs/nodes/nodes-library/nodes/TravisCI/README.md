@@ -23,7 +23,7 @@ This workflow allows you to trigger a build using the Travis CI node. You can al
 
 The final workflow should look like the following image.
 
-![A workflow with the Travis CI node](./workflow.png)
+![A workflow with the Travis CI node](REDACTED)
 
 ### 1. Start node
 
@@ -38,4 +38,4 @@ The start node exists by default when you create a new workflow.
 4. Enter the branch name in the ***Branch*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the Travis CI node to trigger a build](./TravisCI_node.png)
+![Using the Travis CI node to trigger a build](REDACTED)

@@ -20,4 +20,4 @@ Create a [Mailgun](https://www.mailgun.com/) account.
 4. Click on the eye icon to uncover your API key.
 5. Use the API key with Mailgun node credentials in n8n.
 
-![Getting Mailgun credentials](./using-access-token.gif)
+![Getting Mailgun credentials](REDACTED)

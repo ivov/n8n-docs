@@ -18,4 +18,4 @@ Create an [E-goi](https://www.e-goi.com/) account.
 2. Click on your name on the top right corner and select 'Integrations'.
 3. Copy the ***API key*** that is displayed and use it with your E-goi node credentials in n8n.
 
-![Getting E-goi API credentials](./using-api.gif)
+![Getting E-goi API credentials](REDACTED)

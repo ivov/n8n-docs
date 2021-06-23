@@ -47,7 +47,7 @@ All these packages are under the `/packages` folder in the main n8n folder. We w
 - The folder `credentials` contains all the credentials that the different nodes use. Each node can define multiple credentials. For example, OAuth2 or API Key. Each credential requires different parameters that the user will have to input. The credentials data that the user provides is stored in an encrypted format in n8n's database.
 - The file `package.json` contains all the npm packages that the nodes use. It also contains all the nodes and credentials that are loaded when n8n is started.
 
-<img src="./images/n8n-folder-structure.png" width="500">
+<img src="REDACTED" width="500">
 
 
 ## Creating the node
@@ -57,7 +57,7 @@ All these packages are under the `/packages` folder in the main n8n folder. We w
 3. Within the Autofriend folder, create a file called `AutofriendTrigger.node.ts` (YourNodeNameTrigger.node.ts).
 4. Download and add the Autofriend [icon](https://github.com/n8n-io/n8n/blob/master/packages/nodes-base/nodes/Autopilot/autopilot.svg) to the folder. Name it `autopilot.svg`.
 	- The icon property has to be either a 60x60 pixels PNG or an SVG and must exist in the node’s folder.
-	- An SVG is preferable. In case you have to use a PNG, make sure that it is compressed. A good tool for that is [tinypng](https://tinypng.com).
+	- An SVG is preferable. In case you have to use a PNG, make sure that it is compressed. A good tool for that is [tinypng](httpsREDACTED.com).
 	- A good place to find company icons is [gilbarbara/logos](https://github.com/gilbarbara/logos/tree/master/logos).
 5. Paste the following code in the `AutofriendTrigger.node.ts` file.
 
@@ -121,7 +121,7 @@ export class AutofriendTrigger implements INodeType {
 
 Your directory structure should now look like the following.
 
-![Autofriend's directory structure](./images/autopilot-directory-structure.png)
+![Autofriend's directory structure](REDACTED)
 
 
 ## Adding the node to Editor UI
@@ -130,7 +130,7 @@ n8n uses the properties set in the property `description` to render the node in 
 
 Check the following figure to see how the properties affect the looks of the node.
 
-![Autofriend's appearance in Editor UI](./images/autopilot-appearance.png)
+![Autofriend's appearance in Editor UI](REDACTED)
 
 **Note:** The property description conforms to [INodeTypeDescription](https://github.com/n8n-io/n8n/blob/f2666e92ffed2c3983d08e73b1e45a2bd516b90d/packages/workflow/src/Interfaces.ts#L425).
 
@@ -224,7 +224,7 @@ npm run dev
 
 The node should now look like in the following image.
 
-![Autofriend's required fields](./images/autofriend-fields.png)
+![Autofriend's required fields](REDACTED)
 
 
 ## Creating the UI for credentials
@@ -280,9 +280,9 @@ npm run dev
 
 When you go to the Node Editor view, you should see the following.
 
-![Autofriend's create credentials](./images/autofriend-create-credentials.png)
+![Autofriend's create credentials](REDACTED)
 
-![Autofriend's credentials](./images/autofriend-credentials.png)
+![Autofriend's credentials](REDACTED)
 
 
 ## Understanding the life cycle for the webhook method
@@ -335,7 +335,7 @@ The life cycle methods allow us to create, delete, and check if the webhook exis
 - `create`: This method gets called if the `checkExist` method returns false (if the webhook with the current path does not exist in the external system). This method registers the webhook in the external system and stores the webhook ID in n8n.
 - `delete`: This method gets called when the trigger is either stopped manually or when the workflow is deactivated. It uses the ID previously persisted by either the create or the checkExist method to delete the webhook from the external system.
 
-![Lifecycle flowchart](./images/lifecycle.png)
+![Lifecycle flowchart](REDACTED)
 
 
 ### Wait for new events to trigger the workflow
@@ -461,11 +461,11 @@ async webhook(this: IWebhookFunctions): Promise<IWebhookResponseData> {
 7. Enter the API key in the credentials. Instructions to find the API Key can be found [here](../credentials/autopilot).
 8. Go to the workflow editor, save your workflow, and execute the node.
 
-![Executed node](./images/executed-node.png)
+![Executed node](REDACTED)
 
 9. Log into Autopilot and update a contact. Keep in mind that this should be done within two minutes after you executed the node. After that time frame, the webhook will be unregistered automatically and you will not be able to receive the event. If it takes you longer than that, please execute the node and update the contact again.
 
-![Executed node with results](./images/executed-node-with-results.png)
+![Executed node with results](REDACTED)
 
 The trigger node is now receiving events. Sometimes it might take a bit longer for the payload to arrive.
 

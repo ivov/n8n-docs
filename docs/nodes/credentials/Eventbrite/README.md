@@ -30,7 +30,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 10. Click on the circle button in the OAuth section to connect an Eventbrite account to n8n.
 11. Click the *Save* button to save your credentials.
 
-![Getting Eventbrite OAuth credentials](./using-oauth.gif)
+![Getting Eventbrite OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -39,4 +39,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 3. Copy your private token.
 4. Use provided key with your Eventbrite node credentials in n8n.
 
-![Getting Eventbrite credentials](./using-access-token.gif)
+![Getting Eventbrite credentials](REDACTED)

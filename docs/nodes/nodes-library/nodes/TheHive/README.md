@@ -70,7 +70,7 @@ This workflow allows you to create, update, and get a case in TheHive. You can a
 
 The final workflow should look like the following image.
 
-![A workflow with the TheHive node](./workflow.png)
+![A workflow with the TheHive node](REDACTED)
 
 ### 1. Start node
 
@@ -93,7 +93,7 @@ This node will create a new case in TheHive with the title `n8n` and set its sev
 
 In the screenshot below, you will notice that the node creates a new case with the title `n8n` and `low` severity .
 
-![Using TheHive node to create a new case](./TheHive_node.png)
+![Using TheHive node to create a new case](REDACTED)
 
 ### 3. TheHive node (update: case)
 
@@ -110,7 +110,7 @@ This node will update the case that we created in the previous node. We will upd
 :::
 In the screenshot below, you will notice that the node updates the severity of the case that we created in the previous node.
 
-![Using TheHive node to update the severity of a case](./TheHive1_node.png)
+![Using TheHive node to update the severity of a case](REDACTED)
 
 ### 4. TheHive node (get: case)
 
@@ -125,4 +125,4 @@ This node will return the information of the case that we created in the previou
 :::
 In the screenshot below, you will notice that the node returns the information of the case that we created earlier.
 
-![Using TheHive node to return the information a case](./TheHive2_node.png)
+![Using TheHive node to return the information a case](REDACTED)

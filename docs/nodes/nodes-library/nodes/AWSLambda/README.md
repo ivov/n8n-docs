@@ -23,7 +23,7 @@ This workflow allows you to invoke a function using AWS Lambda. You can also fin
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS Lambda node](./workflow.png)
+![A workflow with the AWS Lambda node](REDACTED)
 
 ### 1. Start node
 

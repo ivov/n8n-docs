@@ -23,7 +23,7 @@ This workflow allows you to add an event to Google Calendar. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Calendar node](./workflow.png)
+![A workflow with the Google Calendar node](REDACTED)
 
 ### 1. Start node
 

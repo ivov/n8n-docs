@@ -23,7 +23,7 @@ This workflow allows you to get all mailboxes from Help Scout. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the Help Scout node](./workflow.png)
+![A workflow with the Help Scout node](REDACTED)
 
 ### 1. Start node
 

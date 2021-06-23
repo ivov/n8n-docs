@@ -30,7 +30,7 @@ This workflow allows you to create, update, and get an issue on Taiga. You can a
 
 The final workflow should look like the following image.
 
-![A workflow with the Taiga node](./workflow.png)
+![A workflow with the Taiga node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the subject of the issue in the ***Subject*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the Taiga node to create an issue](./Taiga_node.png)
+![Using the Taiga node to create an issue](REDACTED)
 
 
 ::: v-pre
@@ -61,7 +61,7 @@ The start node exists by default when you create a new workflow.
 9. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Taiga node to update an issue](./Taiga1_node.png)
+![Using the Taiga node to update an issue](REDACTED)
 
 
 ::: v-pre
@@ -74,4 +74,4 @@ The start node exists by default when you create a new workflow.
 5. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Taiga node to get an issue](./Taiga2_node.png)
+![Using the Taiga node to get an issue](REDACTED)

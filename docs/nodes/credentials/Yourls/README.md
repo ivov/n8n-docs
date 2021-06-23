@@ -20,4 +20,4 @@ Install [Yourls](https://github.com/YOURLS/YOURLS) on your server.
 4. Copy the ***signature token***.
 5. Use this ***Signature*** and the URL of your Yourls instance with your Yourls node credentials in n8n.
 
-![Getting Yourls credentials](./using-api.gif)
+![Getting Yourls credentials](REDACTED)

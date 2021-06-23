@@ -24,7 +24,7 @@ This workflow allows you to get multiple clients' data from Invoice Ninja. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Invoice Ninja node](./workflow.png)
+![A workflow with the Invoice Ninja node](REDACTED)
 
 ### 1. Start node
 

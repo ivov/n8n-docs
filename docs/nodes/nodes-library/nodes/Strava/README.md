@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get an activity in Strava. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Strava node](./workflow.png)
+![A workflow with the Strava node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will create an activity with the name `Morning Run` in Strava. To crea
 
 In the screenshot below, you will notice that the node creates an activity with the name `Morning Run` and type `Run`.
 
-![Using the Strava node to create an activity](./Strava_node.png)
+![Using the Strava node to create an activity](REDACTED)
 
 
 ::: v-pre
@@ -63,7 +63,7 @@ This node will update the activity that we created in the previous node.
 
 In the screenshot below, you will notice that the node adds a description to the activity that we created using the Strava node.
 
-![Using the Strava node to update an activity](./Strava1_node.png)
+![Using the Strava node to update an activity](REDACTED)
 
 
 ::: v-pre
@@ -80,7 +80,7 @@ This node returns the information of the activity that we created using the Stra
 
 In the screenshot below, you will notice that the node returns the information of the activity that we specified in this node.
 
-![Using the Strava node to get an issue](./Strava2_node.png)
+![Using the Strava node to get an issue](REDACTED)
 
 ## Further Reading
 

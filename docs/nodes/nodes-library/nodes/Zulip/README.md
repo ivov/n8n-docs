@@ -23,7 +23,7 @@ This workflow allows you to send a private message on Zulip. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Zulip node](./workflow.png)
+![A workflow with the Zulip node](REDACTED)
 
 ### 1. Start node
 

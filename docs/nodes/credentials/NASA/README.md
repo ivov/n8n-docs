@@ -16,4 +16,4 @@ You can use these credentials to authenticate the following nodes with NASA.
 3. Click on the ***Signup*** button.
 4. Use this ***API Key*** with your NASA node credentials in n8n.
 
-![Getting NASA credentials](./using-api.gif)
+![Getting NASA credentials](REDACTED)

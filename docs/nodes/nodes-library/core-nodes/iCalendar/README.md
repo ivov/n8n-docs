@@ -20,7 +20,7 @@ This workflow allows you to create an event file and send it as an attachment vi
 
 The final workflow should look like the following image.
 
-![A workflow with the Gmail node](./workflow.png)
+![A workflow with the Gmail node](REDACTED)
 
 ### 1. Start node
 
@@ -38,7 +38,7 @@ This node will create an event file. We use this file as an attachment in the ne
 
 In the screenshot below, you will notice that the node creates the event file.
 
-![Using the iCalendar node to create an event file](./iCalendar_node.png)
+![Using the iCalendar node to create an event file](REDACTED)
 
 ### 3. Send Email node
 
@@ -54,4 +54,4 @@ This node will send the event file as an attachment.
 
 In the screenshot below, you will notice that the node sends an email with the event file as an attachment.
 
-![Using the Send Email node to send an email with an attachemnt](./SendEmail_node.png)
+![Using the Send Email node to send an email with an attachemnt](REDACTED)

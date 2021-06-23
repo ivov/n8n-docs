@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a sale is made in Gumroad. You 
 
 The final workflow should look like the following image.
 
-![A workflow with the Gumroad Trigger node](./workflow.png)
+![A workflow with the Gumroad Trigger node](REDACTED)
 
 ### 1. Gumroad Trigger node
 

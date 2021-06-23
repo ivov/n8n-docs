@@ -70,7 +70,7 @@ This workflow allows you to receive the weather information of a city using the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Webhook node](./workflow.png)
+![A workflow with the Webhook node](REDACTED)
 
 ### 1. Webhook node
 
@@ -87,7 +87,7 @@ This node will trigger the workflow. We will make a GET request to the Test URL 
 
 In the screenshot below, you will notice that the node triggers the workflow and receives a query parameter. We will use the value of the query parameter in the next node in the workflow.
 
-![Using the Webhook node to trigger the workflow](./Webhook_node.png)
+![Using the Webhook node to trigger the workflow](REDACTED)
 
 ### 2. OpenWeatherMap node (Current Weather)
 
@@ -101,7 +101,7 @@ This node will return data about the current weather for the city that we receiv
 :::
 In the screenshot below, you will notice that the node returns data about the current weather in Berlin.
 
-![Using the OpenWeatherMap node to get weather updates for Berlin](./OpenWeatherMap_node.png)
+![Using the OpenWeatherMap node to get weather updates for Berlin](REDACTED)
 
 ### 3. Set node
 
@@ -120,7 +120,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node sets the values of `temp` and `description`.
 
-![Using the Set node to set the values for temp and description](./Set_node.png)
+![Using the Set node to set the values for temp and description](REDACTED)
 
 Save the workflow and execute it again by clicking on the ***Execute Workflow*** button in the Editor UI. This time you will receive the temperature and description as the response in the browser.
 
@@ -141,7 +141,7 @@ To get these URLs, follow the steps mentioned below.
 
 Here is a GIF demonstrating how to retrieve the test and production webhook URLs in n8n.
 
-![Retrieving the Test and Production URLs from the Webhook node](./webhook-url.gif)
+![Retrieving the Test and Production URLs from the Webhook node](REDACTED)
 
 ### How to use the HTTP Request node to trigger the Webhook node?
 

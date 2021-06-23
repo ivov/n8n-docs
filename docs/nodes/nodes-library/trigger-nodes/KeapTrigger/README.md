@@ -19,7 +19,7 @@ This workflow allows you to receive updates when new contacts are created in Kea
 
 The final workflow should look like the following image.
 
-![A workflow with the Keap Trigger node](./workflow.png)
+![A workflow with the Keap Trigger node](REDACTED)
 
 
 ### 1. Keap Trigger node

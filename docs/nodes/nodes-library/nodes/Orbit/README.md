@@ -23,7 +23,7 @@ This workflow allows you to create a new member and update their information in 
 
 The final workflow should look like the following image.
 
-![A workflow with the Orbit node](./workflow.png)
+![A workflow with the Orbit node](REDACTED)
 
 ### 1. Start node
 
@@ -45,7 +45,7 @@ This node will create a new member in a workspace in Orbit. We will use the GitH
 
 In the screenshot below, you will notice that the node creates a new member in a workspace in Orbit using the GitHub identity.
 
-![Using the Orbit node to create a new member in a workspace in Orbit](./Orbit_node.png)
+![Using the Orbit node to create a new member in a workspace in Orbit](REDACTED)
 
 ### 3. Orbit1 node (update: member)
 
@@ -63,7 +63,7 @@ This node will update the tags of the member that we created in the previous nod
 :::
 In the screenshot below, you will notice that the node updates the information of the new member that we created in the previous node. The node adds the tags `n8nConf` and `MLH` to the new member.
 
-![Using the Orbit node to add tags to a member](./Orbit1_node.png)
+![Using the Orbit node to add tags to a member](REDACTED)
 
 ### 4. Orbit2 node (create: note)
 
@@ -80,7 +80,7 @@ This node will create a note for the member that we created using the Orbit node
 :::
 In the screenshot below, you will notice that the node creates a note for the member that we created using the Orbit node.
 
-![Using the Orbit node to create a note for a member](./Orbit2_node.png)
+![Using the Orbit node to create a note for a member](REDACTED)
 
 ### 5. Orbit3 node (create: post)
 
@@ -98,7 +98,7 @@ This node will create a post for the member that we created using the Orbit node
 :::
 In the screenshot below, you will notice that the node creates a post for the member that we created using the Orbit node.
 
-![Using the Orbit node to create a post for a member](./Orbit3_node.png)
+![Using the Orbit node to create a post for a member](REDACTED)
 
 ## Further Reading
 

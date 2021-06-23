@@ -21,4 +21,4 @@ Create a [MailerLite](https://MailerLite.com) account.
 4. Click on 'Developer API' in the ***MailerLite API*** section.
 5. Copy the ***API key*** that is displayed and use it with your MailerLite node credentials in n8n.
 
-![Getting MailerLite credentials](./using-api-key.gif)
+![Getting MailerLite credentials](REDACTED)

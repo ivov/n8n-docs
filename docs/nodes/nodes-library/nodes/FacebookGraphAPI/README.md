@@ -33,7 +33,7 @@ This workflow allows you to retrieve the first and last name of a profile on Fac
 
 The final workflow should look like the following image.
 
-![A workflow with the Facebook Graph API node](./workflow.png)
+![A workflow with the Facebook Graph API node](REDACTED)
 
 ### 1. Start node
 

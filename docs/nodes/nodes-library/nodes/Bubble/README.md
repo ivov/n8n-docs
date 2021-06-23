@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get an object from Bubble. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Bubble node](./workflow.png)
+![A workflow with the Bubble node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a new object of the type `Doc` in Bubble. If you want to c
 
 In the screenshot below, you will notice that the node creates a new object of the type `Doc` in Bubble.
 
-![Using the Bubble node to create a new object](./Bubble_node.png)
+![Using the Bubble node to create a new object](REDACTED)
 
 
 ### 3. Bubble1 node (update: object)
@@ -64,7 +64,7 @@ This node will update the object that we created using the previous node.
 
 In the screenshot below, you will notice that the node updates the information of the object that got created previously.
 
-![Using the Bubble node to update the information of an object](./Bubble1_node.png)
+![Using the Bubble node to update the information of an object](REDACTED)
 
 ### 4. Bubble2 node (get: object)
 
@@ -80,4 +80,4 @@ This node will retrieve the information of the object that we created earlier.
 
 In the screenshot below, you will notice that the node retrieves the information of the object that we created earlier.
 
-![Using the Bubble node to retrieve the information of an object](./Bubble2_node.png)
+![Using the Bubble node to retrieve the information of an object](REDACTED)

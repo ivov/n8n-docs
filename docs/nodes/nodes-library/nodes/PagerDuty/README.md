@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get an incident on PagerDuty. Yo
 
 The final workflow should look like the following image.
 
-![A workflow with the PagerDuty node](./workflow.png)
+![A workflow with the PagerDuty node](REDACTED)
 
 ### 1. Start node
 
@@ -39,7 +39,7 @@ The start node exists by default when you create a new workflow.
 4. Enter your email in the ***Email*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the PagerDuty node to create an incident](./PagerDuty_node.png)
+![Using the PagerDuty node to create an incident](REDACTED)
 
 
 ::: v-pre
@@ -56,7 +56,7 @@ The start node exists by default when you create a new workflow.
 9. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the PagerDuty node to update an incident](./PagerDuty1_node.png)
+![Using the PagerDuty node to update an incident](REDACTED)
 
 
 ::: v-pre
@@ -69,7 +69,7 @@ The start node exists by default when you create a new workflow.
 5. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the PagerDuty node to get an incident](./PagerDuty2_node.png)
+![Using the PagerDuty node to get an incident](REDACTED)
 
 
 ## Further Reading

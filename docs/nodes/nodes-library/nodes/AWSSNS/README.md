@@ -23,7 +23,7 @@ This workflow allows you to publish a message using AWS SNS. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS SNS node](./workflow.png)
+![A workflow with the AWS SNS node](REDACTED)
 
 ### 1. Start node
 

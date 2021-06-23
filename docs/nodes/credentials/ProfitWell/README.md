@@ -20,4 +20,4 @@ Create a [ProfitWell](https://www.profitwell.com/) account.
 4. Copy the ***YOUR PRIVATE KEY*** displayed.
 5. Use this ***Private Key*** with your ProfitWell node credentials in n8n.
 
-![Getting ProfitWell credentials](./using-api.gif)
+![Getting ProfitWell credentials](REDACTED)

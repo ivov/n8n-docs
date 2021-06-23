@@ -24,7 +24,7 @@ This workflow allows you to get the value of a key in Redis. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Redis node](./workflow.png)
+![A workflow with the Redis node](REDACTED)
 
 ### 1. Start node
 

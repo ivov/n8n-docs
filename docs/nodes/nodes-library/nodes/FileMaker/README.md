@@ -30,7 +30,7 @@ This workflow allows you to create, update, and retrieve a record from FileMaker
 
 The final workflow should look like the following image.
 
-![A workflow with the FileMaker node](./workflow.png)
+![A workflow with the FileMaker node](REDACTED)
 
 ### 1. Start node
 
@@ -53,7 +53,7 @@ This node will create a new record in FileMaker.
 
 In the screenshot below, you will notice that the node creates a new record in FileMaker.
 
-![Using the FileMaker node to create a new record](./FileMaker_node.png)
+![Using the FileMaker node to create a new record](REDACTED)
 
 ### 3. FileMaker1 node
 
@@ -73,7 +73,7 @@ This node will add a new field to the record that we created in the previous nod
 :::
 In the screenshot below, you will notice that the node adds the `address_country` field to the record that we created in the previous node.
 
-![Using the FileMaker node to update a record](./FileMaker1_node.png)
+![Using the FileMaker node to update a record](REDACTED)
 
 ### 4. FileMaker2 node
 
@@ -89,4 +89,4 @@ This node will get the information about the record that we created earlier.
 
 In the screenshot below, you will notice that the node returns the information of the record.
 
-![Using the FileMaker node to return the information a record](./FileMaker2_node.png)
+![Using the FileMaker node to return the information a record](REDACTED)

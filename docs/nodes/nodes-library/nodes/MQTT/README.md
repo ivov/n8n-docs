@@ -21,7 +21,7 @@ This workflow allows you to send position updates of the ISS every minute to a t
 
 The final workflow should look like the following image.
 
-![A workflow with the MQTT node](./workflow.png)
+![A workflow with the MQTT node](REDACTED)
 
 ### 1. Cron node
 
@@ -33,7 +33,7 @@ The Cron node will trigger the workflow every minute.
 
 In the screenshot below, you will notice that the Cron node is configured to trigger the workflow every minute.
 
-![Using the Cron node to trigger the workflow every minute](./Cron_node.png)
+![Using the Cron node to trigger the workflow every minute](REDACTED)
 
 ### 2. HTTP Request node (GET)
 
@@ -48,7 +48,7 @@ This node will make a GET request to the API `https://api.wheretheiss.at/v1/sate
 :::
 In the screenshot below, you will notice that the node makes a GET request to the API and returns the information about the location of the ISS.
 
-![Using the HTTP Request node to get the information about the location of the ISS](./HTTPRequest_node.png)
+![Using the HTTP Request node to get the information about the location of the ISS](REDACTED)
 
 ### 3. Set node
 
@@ -75,7 +75,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node uses the data from the previous node and returns the data that we set for the workflow.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ### 4. MQTT node
 
@@ -87,7 +87,7 @@ This node will send the data from the previous node to the `iss-position` topic 
 
 In the screenshot below, you will notice that the node sends the data from the previous node to the `iss-position` topic in MQTT.
 
-![Using the MQTT node to send the data to a topic](./MQTT_node.png)
+![Using the MQTT node to send the data to a topic](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Cron node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Cron node.

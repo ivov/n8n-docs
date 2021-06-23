@@ -27,7 +27,7 @@ This workflow allows you to write a file to the host machine using the Write Bin
 
 The final workflow should look like the following image.
 
-![A workflow with the Write Binary File node](./workflow.png)
+![A workflow with the Write Binary File node](REDACTED)
 
 ### 1. Start node
 
@@ -36,11 +36,11 @@ The start node exists by default when you create a new workflow.
 
 ### 2. HTTP Request node
 
-1. Enter `https://docs.n8n.io/assets/img/n8n-logo.png` in the ***URL*** field.
-2. Select the 'File' option from the ***Response Format*** dropdown list. 
+1. Enter `httpsREDACTED` in the ***URL*** field.
+2. Select the 'File' option from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
-![Using the HTTP Request node to get an image](./HTTPRequest_node.png)
+![Using the HTTP Request node to get an image](REDACTED)
 
 
 ### 3. Write Binary File node

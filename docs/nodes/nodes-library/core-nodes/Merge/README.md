@@ -44,7 +44,7 @@ This workflow allows you to merge greetings for the users based on their associa
 
 The final workflow should look like the following image.
 
-![A workflow with the HTML Extract node](./workflow.png)
+![A workflow with the HTML Extract node](REDACTED)
 
 ### 1. Start node
 
@@ -78,7 +78,7 @@ return [
 ```
 2. Click on ***Execute Node*** to run the node.
 
-![Generate users information using the Function node](./Function_node.png)
+![Generate users information using the Function node](REDACTED)
 
 ::: v-pre
 ### 3. Function1 node
@@ -103,7 +103,7 @@ return [
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Generate greetings information using the Function node](./Function1_node.png)
+![Generate greetings information using the Function node](REDACTED)
 
 ::: v-pre
 ### 4. Merge node (mergeByKey)
@@ -114,7 +114,7 @@ return [
 4. Click on ***Execute Node*** to run the node.
 :::
 
-![Merge user information and greetings information using the Merge node](./Merge_node.png)
+![Merge user information and greetings information using the Merge node](REDACTED)
 
 
 ## Further Reading

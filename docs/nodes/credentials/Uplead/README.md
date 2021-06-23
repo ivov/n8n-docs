@@ -20,4 +20,4 @@ Create an [UpLead](https://uplead.com/) account.
 4. Scroll down and click on the *Generate New API Key*.
 5. Use the API Key with your UpLead node credentials in n8n.
 
-![Getting UpLead credentials](./using-access-token.gif)
+![Getting UpLead credentials](REDACTED)

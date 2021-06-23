@@ -23,7 +23,7 @@ This workflow allows you to retrieve a contact from HubSpot. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the HubSpot node](./workflow.png)
+![A workflow with the HubSpot node](REDACTED)
 
 ### 1. Start node
 

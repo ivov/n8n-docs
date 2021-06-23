@@ -23,7 +23,7 @@ This workflow allows you to get information about a company with UpLead. You can
 
 The final workflow should look like the following image.
 
-![A workflow with the UpLead node](./workflow.png)
+![A workflow with the UpLead node](REDACTED)
 
 ### 1. Start node
 

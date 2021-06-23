@@ -19,7 +19,7 @@ This workflow allows you to receive a Mattermost message when new data gets adde
 
 The final workflow should look like the following image.
 
-![A workflow with the Airtable Trigger node](./workflow.png)
+![A workflow with the Airtable Trigger node](REDACTED)
 
 ### 1. Airtable Trigger node
 
@@ -34,7 +34,7 @@ The Airtable Trigger node will trigger the workflow when new data gets added to 
 
 In the screenshot below, you will notice that the node returns the new data from Airtable. This output gets passed on to the next node in the workflow.
 
-![Using the Airtable Trigger node to trigger the workflow](./AirtableTrigger_node.png)
+![Using the Airtable Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Mattermost node (post: message)
 
@@ -54,7 +54,7 @@ Name: {{$node["Airtable Trigger"].json["fields"]["name"]}}
 :::
 In the screenshot below, you will notice that the node sends a message in Mattermost about the new data that got added to Airtable.
 
-![Using the Mattermost node to send a message of the new data](./Mattermost_node.png)
+![Using the Mattermost node to send a message of the new data](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Airtable Trigger node.

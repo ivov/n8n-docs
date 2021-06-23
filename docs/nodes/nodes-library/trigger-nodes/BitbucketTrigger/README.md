@@ -19,7 +19,7 @@ This workflow allows you to receive updates when events occur in a Bitbucket rep
 
 The final workflow should look like the following image.
 
-![A workflow with the Bitbucket Trigger node](./workflow.png)
+![A workflow with the Bitbucket Trigger node](REDACTED)
 
 
 ### 1. Bitbucket Trigger node

@@ -24,4 +24,4 @@ Create a [Philips Hue Developer](https://developers.meethue.com/) account.
 8. Click on the circle button in the OAuth section to connect a Philips Hue account to n8n.
 9. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Philips Hue credentials](./using-oauth.gif)
+![Getting Philips Hue credentials](REDACTED)

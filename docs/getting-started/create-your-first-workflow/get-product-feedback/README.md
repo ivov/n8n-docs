@@ -37,7 +37,7 @@ This workflow would use the following nodes.
 
 The final workflow should look like the following image.
 
-![The final workflow](./images/final-workflow.png)
+![The final workflow](REDACTED)
 
 ### 1. Typeform Trigger node
 
@@ -51,7 +51,7 @@ Now save your workflow so that the webhook in the *Typeform Trigger* node can be
 
 After clicking on the ***Execute Node*** button, submit a response to your form in Typeform. Here's a GIF of me following the steps mentioned above.
 
-![Creating the Typeform Trigger node](./images/creating-the-typeform-trigger-node.gif)
+![Creating the Typeform Trigger node](REDACTED)
 
 ### 2. Set node
 
@@ -85,7 +85,7 @@ Toggle ***Keep Only Set*** to true. We set this option to true to ensure that on
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the Set node](./images/creating-the-set-node.gif)
+![Creating the Set node](REDACTED)
 
 ### 3. Airtable node
 
@@ -97,7 +97,7 @@ Enter the table name in the ***Table*** field. We'll let the other fields stay a
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the Airtable node](./images/creating-the-airtable-node.gif)
+![Creating the Airtable node](REDACTED)
 
 ### 4. IF node
 
@@ -113,7 +113,7 @@ For the ***Operation*** field, we'll let it be set to 'Smaller'. For ***Value 2*
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the IF node](./images/creating-the-if-node.gif)
+![Creating the IF node](REDACTED)
 
 ### 5. Trello node
 
@@ -144,9 +144,9 @@ Click on the ***Execute Node*** button on the top right to create a new card in 
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the Trello node](./images/creating-the-trello-node.gif)
+![Creating the Trello node](REDACTED)
 
-![Card created by the workflow](./images/ticket-created-by-the-workflow.png)
+![Card created by the workflow](REDACTED)
 
 ### 6. NoOp node
 
@@ -156,7 +156,7 @@ To test the workflow, click on the ***Execute Workflow*** button at the bottom o
 
 Don't forget to save the workflow and then click on the ***Activate*** toggle on the top right of the screen to set it to true and activate the workflow. Here's a GIF of me following the steps mentioned above.
 
-![Creating the NoOp node](./images/creating-the-noop-node.gif)
+![Creating the NoOp node](REDACTED)
 
 ## Conclusion
 

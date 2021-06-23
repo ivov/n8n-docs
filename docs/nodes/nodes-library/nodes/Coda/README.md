@@ -24,7 +24,7 @@ This workflow allows you to insert data into a new row for a table in Coda. You 
 
 The final workflow should look like the following image.
 
-![A workflow with the Coda node](./workflow.png)
+![A workflow with the Coda node](REDACTED)
 
 ### 1. Start node
 

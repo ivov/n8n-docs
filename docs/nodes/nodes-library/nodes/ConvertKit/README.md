@@ -23,7 +23,7 @@ This workflow allows you to add a subscriber to a form, create a tag and add the
 
 The final workflow should look like the following image.
 
-![A workflow with the ConvertKit node](./workflow.png)
+![A workflow with the ConvertKit node](REDACTED)
 
 ### 1. Start node
 
@@ -36,7 +36,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the email address in the ***Email*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the ConvertKit node to add a subscriber to a form](./ConvertKit_node.png)
+![Using the ConvertKit node to add a subscriber to a form](REDACTED)
 
 
 ::: v-pre
@@ -48,7 +48,7 @@ The start node exists by default when you create a new workflow.
 4. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the ConvertKit node to create a tag](./ConvertKit1_node.png)
+![Using the ConvertKit node to create a tag](REDACTED)
 
 
 ::: v-pre
@@ -63,4 +63,4 @@ The start node exists by default when you create a new workflow.
 7. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the ConvertKit node to add the subscriber to the tag](./ConvertKit2_node.png)
+![Using the ConvertKit node to add the subscriber to the tag](REDACTED)

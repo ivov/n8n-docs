@@ -19,7 +19,7 @@ This workflow allows you to receive updates when responses are created for Surve
 
 The final workflow should look like the following image.
 
-![A workflow with the SurveyMonkey Trigger node](./workflow.png)
+![A workflow with the SurveyMonkey Trigger node](REDACTED)
 
 
 ### 1. SurveyMonkey Trigger node

@@ -22,4 +22,4 @@ Create a [Contentful](https://www.contentful.com/) account.
 6. Use the displayed ***Space ID***, ***Content Delivery API - access token***, and ***Content Preview API - access token*** with your Contentful node API credentials in n8n.
 7. Click on the ***Save*** button to save your credentials.
 
-![Getting Contentful credentials](./using-api-key.gif)
+![Getting Contentful credentials](REDACTED)

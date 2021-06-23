@@ -23,7 +23,7 @@ This workflow allows you to create a release and get all releases using the Sent
 
 The final workflow should look like the following image.
 
-![A workflow with the Sentry.io node](./workflow.png)
+![A workflow with the Sentry.io node](REDACTED)
 
 ### 1. Start node
 
@@ -40,7 +40,7 @@ The start node exists by default when you create a new workflow.
 7. Select the project from ***Projects*** dropdown list.
 8. Click on ***Execute Node*** to run the node.
 
-![Using the Sentry.io node to create a release](./Sentry.io_node.png)
+![Using the Sentry.io node to create a release](REDACTED)
 
 
 ::: v-pre
@@ -54,4 +54,4 @@ The start node exists by default when you create a new workflow.
 6. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Sentry.io node to get all releases](./Sentry.io1_node.png)
+![Using the Sentry.io node to get all releases](REDACTED)

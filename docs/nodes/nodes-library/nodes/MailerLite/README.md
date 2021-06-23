@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a subscriber using the Maile
 
 The final workflow should look like the following image.
 
-![A workflow with the MailerLite node](./workflow.png)
+![A workflow with the MailerLite node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a new subscriber in MailerLite. We will add the name of th
 :::
 In the screenshot below, you will notice that the node creates a new subscriber with their name and email.
 
-![Using the MailerLite node to create a room](./MailerLite_node.png)
+![Using the MailerLite node to create a room](REDACTED)
 
 ### 3. MailerLite1 node (update: subscriber)
 
@@ -62,7 +62,7 @@ This node will update the information of the subscriber that we created in the p
 
 In the screenshot below, you will notice that the node updates the information of the subscriber that we created in the previous node. Here, the node has added information about the city of the subscriber.
 
-![Using the MailerLite node to update the subscriber](./MailerLite1_node.png)
+![Using the MailerLite node to update the subscriber](REDACTED)
 
 ### 3. MailerLite2 node (get: subscriber)
 
@@ -78,4 +78,4 @@ This node will return the information of the subscriber that we created using th
 
 In the screenshot below, you will notice that the node returns the information of the subscriber that we created using the MailerLite node.
 
-![Using the MailerLite node to get the information of the subscriber](./MailerLite2_node.png)
+![Using the MailerLite node to get the information of the subscriber](REDACTED)

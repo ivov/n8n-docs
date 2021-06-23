@@ -20,7 +20,7 @@ This workflow allows you to receive a message on Mattermost when your n8n instan
 
 The final workflow should look like the following image.
 
-![A workflow with the Webhook node](./workflow.png)
+![A workflow with the Webhook node](REDACTED)
 
 ### 1. n8n Trigger node
 
@@ -30,7 +30,7 @@ The n8n Trigger node will trigger the workflow whenever n8n starts.
 
 In the screenshot below, you will notice that the node triggers the workflow when the n8n instance starts.
 
-![Using the n8n Trigger node to trigger the workflow](./n8nTrigger_node.png)
+![Using the n8n Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Mattermost node (post: message)
 
@@ -45,7 +45,7 @@ This node will send a message in the `workflow` channel on Mattermost.
 :::
 In the screenshot below, you will notice that the node sends a message to Mattermost.
 
-![Using the Mattermost node to send a message to a channel](./Mattermost_node.png)
+![Using the Mattermost node to send a message to a channel](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the n8n Trigger node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow.

@@ -25,4 +25,4 @@ Install the [WooCommerce](https://woocommerce.com/) plugin on your WordPress web
 8. Click on the ***Generate API Key*** button.
 9. Use your WooCommerce website URL, Consumer key & Consumer secret with your WooCommerce node credentials in n8n.
 
-![Getting WooCommerce credentials](./using-access-token.gif)
+![Getting WooCommerce credentials](REDACTED)

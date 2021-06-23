@@ -30,7 +30,7 @@ This workflow allows you to receive updates when a new contact gets added in Aut
 
 The final workflow should look like the following image.
 
-![A workflow with the Autopilot Trigger node](./workflow.png)
+![A workflow with the Autopilot Trigger node](REDACTED)
 
 ### 1. Autopilot Trigger
 
@@ -42,7 +42,7 @@ The final workflow should look like the following image.
 
 In the screenshot below, you will notice that the node returns the information of the new contact that was added to Autopilot. This output gets passed on to the next node in the workflow.
 
-![Using the Autopilot Trigger node to trigger the workflow](./AutopilotTrigger_node.png)
+![Using the Autopilot Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Set node
 
@@ -64,7 +64,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node uses the data from the previous node and returns the data that we set for the workflow.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ### 3. Airtable node
 
@@ -79,7 +79,7 @@ This node will store the data coming from the previous node in a table in Airtab
 
 In the screenshot below, you will notice that the node adds the information of a new contact from the previous node in a table in Airtable.
 
-![Using the Airtable node to append the information of a subscriber](./Airtable_node.png)
+![Using the Airtable node to append the information of a subscriber](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Autopilot Trigger node.

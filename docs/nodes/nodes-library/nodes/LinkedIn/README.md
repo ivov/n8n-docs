@@ -24,7 +24,7 @@ This workflow allows you to get an image from a URL and post it on LinkedIn. You
 
 The final workflow should look like the following image.
 
-![A workflow with the LinkedIn node](./workflow.png)
+![A workflow with the LinkedIn node](REDACTED)
 
 ### 1. Start node
 
@@ -36,7 +36,7 @@ The start node exists by default when you create a new workflow.
 2. Select ***File*** from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
-![Downloading an image with the HTTP Request node](./HTTPRequest_node.png)
+![Downloading an image with the HTTP Request node](REDACTED)
 
 ### 3. LinkedIn node
 
@@ -47,7 +47,7 @@ The start node exists by default when you create a new workflow.
 5. Select 'Image' from the ***Media Category*** dropdown list.
 6. Click on ***Execute Node*** to run the node.
 
-![Posting with the LinkedIn node](./LinkedIn_node.png)
+![Posting with the LinkedIn node](REDACTED)
 
 ## Further Reading
 

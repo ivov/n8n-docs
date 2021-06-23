@@ -25,7 +25,7 @@ This workflow allows you to create a room, invite members from a different room,
 
 The final workflow should look like the following image.
 
-![A workflow with the Matrix node](./workflow.png)
+![A workflow with the Matrix node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will create a new room called `n8n` on the Matrix server.
 :::
 In the screenshot below, you will notice that the node creates a room `n8n` with an alias `#discussion-n8n:matrix.org`.
 
-![Using the Matrix node to create a room](./Matrix_node.png)
+![Using the Matrix node to create a room](REDACTED)
 
 ### 3. Matrix1 node (me: account)
 
@@ -58,7 +58,7 @@ This node will get your account information from the Matrix server. We are doing
 
 In the screenshot below, you will notice that the node returns your user ID.
 
-![Using the Matrix node to get your account information](./Matrix1_node.png)
+![Using the Matrix node to get your account information](REDACTED)
 
 ### 3. Matrix2 node (getAll: roomMember)
 
@@ -73,7 +73,7 @@ This node will return the information of all the members in a room.
 
 In the screenshot below, you will notice that the node returns the information of all the members in the room that we specified. The output of this node will be passed on to the next nodes in the workflow.
 
-![Using the Matrix node to get the information of the members in a room](./Matrix2_node.png)
+![Using the Matrix node to get the information of the members in a room](REDACTED)
 
 ### 4. IF node
 
@@ -91,7 +91,7 @@ This node will compare your user ID with the user ID of other members. If the us
 
 In the screenshot below, you will notice that the node returns the information of all the members of the room except your own.
 
-![Using the IF node to compare your user id with the user id of the members in a room](./IF_node.png)
+![Using the IF node to compare your user id with the user id of the members in a room](REDACTED)
 
 ### 4. Matrix3 node (invite: room)
 
@@ -111,7 +111,7 @@ This node will send an invitation to the members returned by the previous node t
 
 In the screenshot below, you will notice that the node sends an invite to join the `n8n` room to the members of the other room.
 
-![Using the Matrix node to send an invite to join the room](./Matrix3_node.png)
+![Using the Matrix node to send an invite to join the room](REDACTED)
 
 ### 5. Matrix4 node (create: message)
 
@@ -127,7 +127,7 @@ This node will send a message to the new room that we created using the Matrix n
 
 In the screenshot below, you will notice that the node sends a message to the room that we created with the Matrix node.
 
-![Using the Matrix node to send a message to the room we created](./Matrix4_node.png)
+![Using the Matrix node to send a message to the room we created](REDACTED)
 
 ### 6. NoOp node
 Adding this node here is optional, as the absence of this node won't make a difference to the functioning of the workflow. We've added this as it can sometimes help others with a better understanding of the workflow, visually.
@@ -137,7 +137,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ## Further Reading
 

@@ -19,7 +19,7 @@ This workflow allows you to receive updates for events in AWS SNS. You can also 
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS SNS Trigger node](./workflow.png)
+![A workflow with the AWS SNS Trigger node](REDACTED)
 
 
 ### 1. AWS SNS Trigger node

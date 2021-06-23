@@ -20,7 +20,7 @@ This workflow allows you to get information about the five most recent SpaceX la
 
 The final workflow should look like the following image.
 
-![A workflow with the GraphQL node](./workflow.png)
+![A workflow with the GraphQL node](REDACTED)
 
 ### 1. Start node
 

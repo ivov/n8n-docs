@@ -19,4 +19,4 @@ Create a [Brandfetch](https://brandfetch.io/account) account.
 3. Select a plan and click on the ***Get API Key*** button.
 4. Use the ***App Key*** with your Brandfetch API credentials in n8n.
 
-![Getting Brandfetch credentials](./using-api.gif)
+![Getting Brandfetch credentials](REDACTED)

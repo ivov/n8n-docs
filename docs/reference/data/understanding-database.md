@@ -27,7 +27,7 @@ Below is an example of how n8n stores the credentials in the credentials_entity 
 The ***name*** field contains the credentials name, and the ***data*** field stores the credentials by encrypting them.
 The [Pipedrive](../../nodes/credentials/Pipedrive/README.md) node has two authentication methods - OAuth and Access Token. The ***type*** field indicates the method the credentials belong to. The ***nodeAccess*** field stores information about the nodes that have access to these credentials. In the example below, both the Pipedrive node and the Pipedrive Trigger node have access to the Pipedrive Trial credentials.
 
-![Data stored in the credentials_entity table](./images/credentials_entity.png)
+![Data stored in the credentials_entity table](REDACTED)
 
 ## Execution Entity
 
@@ -50,7 +50,7 @@ Below is an example of how n8n stores the execution information in the `executio
 
 The ***data*** field contains the data returned by the nodes after the execution of the workflow. The ***finished*** field contains the value `1`, indicating that the execution got completed successfully. The example workflow uses a Trigger node to start the workflow. This information gets stored in the ***mode*** field. The ***workflowData*** field stores information about the workflow and static data. The ***workflowId*** field refers to the workflow that got executed.
 
-![Data stored in the execution_entity table](./images/execution_entity.png)
+![Data stored in the execution_entity table](REDACTED)
 
 ## Migrations
 
@@ -66,7 +66,7 @@ Below is an example of how n8n logs the migrations that ran in the `migrations` 
 
 The timestamp when the migration got executed is stored in the ***timestamp*** field. The ***name*** field stores the name of the migration that got executed.
 
-![Logs stored in the migrations table](./images/migrations.png)
+![Logs stored in the migrations table](REDACTED)
 
 ## Webhook Entity
 
@@ -85,7 +85,7 @@ The ***workflowId*** field contains the id of the workflow that contains the Web
 
 Based on your use-case, you can configure the HTTP request method in the Webhook node. The information about the HTTP request method you use with the Webhook node gets stored in the ***method*** field. The ***node*** field stores the name of the node.
 
-![Data stored in the webhook_entity table](./images/webhook_entity.png)
+![Data stored in the webhook_entity table](REDACTED)
 
 ## Workflow Entity
 
@@ -109,4 +109,4 @@ The ***name*** field contains the workflow name. The ***active*** field has the 
 
 The ***connections*** field stores information about the connection between the nodes. We can notice that the Start node is connected to the Set node. The ***settings*** field stores information about the additional setting of the workflow. In the example, we can notice that the timezone was changed and set to Asia/Calcutta, and an error workflow was also configured for this workflow. This example workflow doesn't store static data. If a workflow stores data, the ***staticData*** field would contain that information.
 
-![Data stored in the workflow_entity table](./images/workflow_entity.png)
+![Data stored in the workflow_entity table](REDACTED)

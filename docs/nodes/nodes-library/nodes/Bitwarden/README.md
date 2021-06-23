@@ -24,7 +24,7 @@ This workflow allows you to create a group, add members to the group, and get th
 
 The final workflow should look like the following image.
 
-![A workflow with the Bitwarden node](./workflow.png)
+![A workflow with the Bitwarden node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a new group called `documentation` in Bitwarden.
 
 In the screenshot below, you will notice that the node creates a new group in Bitwarden.
 
-![Using the Bitwarden node to create a new group](./Bitwarden_node.png)
+![Using the Bitwarden node to create a new group](REDACTED)
 
 ### 3. Bitwarden1 node (getAll: member)
 
@@ -56,7 +56,7 @@ This node will get all the members from Bitwarden.
 
 In the screenshot below, you will notice that the node retrieves all the members from Bitwarden.
 
-![Using the Bitwarden node to get all the members](./Bitwarden1_node.png)
+![Using the Bitwarden node to get all the members](REDACTED)
 
 ### 4. Bitwarden2 node (updateMembers: group)
 
@@ -74,7 +74,7 @@ This node will update all the members in the group that we created earlier.
 
 In the screenshot below, you will notice that the node updates the members of the group.
 
-![Using the Bitwarden node to update members in a group](./Bitwarden2_node.png)
+![Using the Bitwarden node to update members in a group](REDACTED)
 
 ### 5. Bitwarden3 node (getMembers: group)
 
@@ -90,4 +90,4 @@ This node will get all the members in the group that we created earlier.
 
 In the screenshot below, you will notice that the node retrieves the members in the group.
 
-![Using the Bitwarden node to get members in a group](./Bitwarden3_node.png)
+![Using the Bitwarden node to get members in a group](REDACTED)

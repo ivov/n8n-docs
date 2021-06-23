@@ -23,4 +23,4 @@ Create a [Mindee](https://mindee.com) account.
 7. Click on ***Add new key***.
 8. Use this API key with your Mindee node credentials in n8n.
 
-![Getting Mindee credentials](./using-api-key.gif)
+![Getting Mindee credentials](REDACTED)

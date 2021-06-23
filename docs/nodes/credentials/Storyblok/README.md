@@ -22,7 +22,7 @@ Create a [Storyblok](https://www.storyblok.com/) account.
 6. Click on the ***Create Token*** button.
 7. Use this ***API Key*** with your Storyblok Content API credentials in n8n.
 
-![Getting Storyblok credentials for the Content API](./using-content-api.gif)
+![Getting Storyblok credentials for the Content API](REDACTED)
 
 ## Using API Key to access the Management API
 
@@ -31,7 +31,7 @@ Create a [Storyblok](https://www.storyblok.com/) account.
 3. Click on the ***Generate new Token*** button.
 4. Use this ***API Key*** with your Storyblok Management API credentials in n8n.
 
-![Getting Storyblok credentials for the Management API](./using-management-api.gif)
+![Getting Storyblok credentials for the Management API](REDACTED)
 
 
 ## Further Reference

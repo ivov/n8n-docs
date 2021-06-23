@@ -34,7 +34,7 @@ This workflow allows you to send a message on Mattermost when an order is create
 
 The final workflow should look like the following image.
 
-![A workflow with the WooCommerce Trigger node](./workflow.png)
+![A workflow with the WooCommerce Trigger node](REDACTED)
 
 ### 1. WooCommerce Trigger node
 
@@ -46,7 +46,7 @@ This node will trigger the workflow when an order is created in your WooCommerce
 
 In the screenshot below, you will notice that the node triggers the workflow when a new order gets created.
 
-![Using the WooCommerce Trigger node to trigger the workflow](./WooCommerceTrigger_node.png)
+![Using the WooCommerce Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Mattermost (post: message)
 
@@ -63,7 +63,7 @@ This node will send a message to a Mattermost channel sharing the details of the
 
 In the screenshot below, you will notice that the node sends a message to the `Sales` channel on Mattermost about the order that was created in WooCommerce.
 
-![Using the Mattermost node to send the information of the order to a channel](./Mattermost_node.png)
+![Using the Mattermost node to send the information of the order to a channel](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the WooCommerce Trigger node.

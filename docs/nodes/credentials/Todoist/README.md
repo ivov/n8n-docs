@@ -26,7 +26,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 6. Click on the circle button in the OAuth section to connect a Todoist account to n8n.
 7. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Todoist OAuth credentials](./using-oauth.gif)
+![Getting Todoist OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -36,4 +36,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Scroll down to see your API token.
 5. Use the API token with your Todoist node credentials in n8n.
 
-![Getting Todoist credentials](./using-access-token.gif)
+![Getting Todoist credentials](REDACTED)

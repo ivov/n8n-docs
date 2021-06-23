@@ -23,7 +23,7 @@ This workflow allows you to add a task to Google Tasks. You can also find the [w
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Tasks node](./workflow.png)
+![A workflow with the Google Tasks node](REDACTED)
 
 ### 1. Start node
 

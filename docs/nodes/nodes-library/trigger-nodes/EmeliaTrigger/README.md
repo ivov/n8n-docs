@@ -28,7 +28,7 @@ This workflow allows you to send a message on Mattermost when a lead replies to 
 
 The final workflow should look like the following image.
 
-![A workflow with the Emelia Trigger node](./workflow.png)
+![A workflow with the Emelia Trigger node](REDACTED)
 
 ### 1. Emelia Trigger
 
@@ -41,7 +41,7 @@ The Emelia Trigger node will trigger the workflow when a lead sends a reply to t
 
 In the screenshot below, you will notice that the node triggers the workflow when a lead sends a reply. This output is passed on to the next node in the workflow.
 
-![Using the Emelia Trigger node to trigger the workflow](./EmeliaTrigger_node.png)
+![Using the Emelia Trigger node to trigger the workflow](REDACTED)
 
 ## 2. Mattermost node (post: message)
 
@@ -56,7 +56,7 @@ This node will send a message to the `Leads` channel in Mattermost. If you have 
 :::
 In the screenshot below, you will notice that the node sends a message with a reply to the `Leads` channel in Mattermost.
 
-![Using the Mattermost node to send a message](./Mattermost_node.png)
+![Using the Mattermost node to send a message](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Emelia Trigger node.

@@ -23,7 +23,7 @@ This workflow allows you to create a client in Harvest. You can also find the [w
 
 The final workflow should look like the following image.
 
-![A workflow with the Harvest node](./workflow.png)
+![A workflow with the Harvest node](REDACTED)
 
 ### 1. Start node
 

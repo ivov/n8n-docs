@@ -21,4 +21,4 @@ Create a [Segment](https://segment.com/) account.
 5. Copy write key.
 6. Use session write key for your Segment node credentials in n8n.
 
-![Getting Segment credentials](./using-access-token.gif)
+![Getting Segment credentials](REDACTED)

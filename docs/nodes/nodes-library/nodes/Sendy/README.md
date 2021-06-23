@@ -23,7 +23,7 @@ This workflow allows you to add a subscriber to a list and create and send a cam
 
 The final workflow should look like the following image.
 
-![A workflow with the Sendy node](./workflow.png)
+![A workflow with the Sendy node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will add a subscriber to a list in Sendy. If you don't already have a 
 
 In the screenshot below, you will notice that the node adds a subscriber with their name to the list that we specify.
 
-![Using the Sendy node to add a subscriber to a list](./Sendy_node.png)
+![Using the Sendy node to add a subscriber to a list](REDACTED)
 
 ### 3. Sendy1 node (create: campaign)
 
@@ -65,4 +65,4 @@ This node will create a campaign with the title 'Welcome to n8n' and send it to 
 :::
 In the screenshot below, you will notice that the node creates the campaign with the title `Welcome to n8n` and sends it to the list that we specify.
 
-![Using the Sendy node to create and send a campaign to a list](./Sendy1_node.png)
+![Using the Sendy node to create and send a campaign to a list](REDACTED)

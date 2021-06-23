@@ -18,7 +18,7 @@ This workflow allows you to receive updates for support in Zendesk. You can also
 
 The final workflow should look like the following image.
 
-![A workflow with the Zendesk Trigger node](./workflow.png)
+![A workflow with the Zendesk Trigger node](REDACTED)
 
 ### 1. Zendesk Trigger node
 

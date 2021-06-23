@@ -23,7 +23,7 @@ This workflow allows you to get entries from a collection in Cockpit. You can al
 
 The final workflow should look like the following image.
 
-![A workflow with the Cockpit node](./workflow.png)
+![A workflow with the Cockpit node](REDACTED)
 
 ### 1. Start node
 

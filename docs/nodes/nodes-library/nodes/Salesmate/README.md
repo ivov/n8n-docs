@@ -23,7 +23,7 @@ This workflow allows you to create a company in Salesmate. You can also find the
 
 The final workflow should look like the following image.
 
-![A workflow with the Salesmate node](./workflow.png)
+![A workflow with the Salesmate node](REDACTED)
 
 ### 1. Start node
 

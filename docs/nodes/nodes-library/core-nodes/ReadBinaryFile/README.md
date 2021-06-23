@@ -26,7 +26,7 @@ This workflow allows you to read a file from the host machine using the Read Bin
 
 The final workflow should look like the following image.
 
-![A workflow with the Read Binary File node](./workflow.png)
+![A workflow with the Read Binary File node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to register your audience to an event on Demio via a Ty
 
 The final workflow should look like the following image.
 
-![A workflow with the Demio node](./workflow.png)
+![A workflow with the Demio node](REDACTED)
 
 ### 1. Typeform Trigger node
 
@@ -42,7 +42,7 @@ This example workflow uses a Typeform to collect name and email address. Create 
 
 In the screenshot below, you will notice that the Typeform Trigger node triggers the workflow and returns the response submitted by a user.
 
-![Using the Typeform Trigger node to trigger the workflow](./TypeformTrigger_node.png)
+![Using the Typeform Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Demio node (register: event)
 
@@ -60,7 +60,7 @@ This node will use the information from the previous node to register the user f
 :::
 In the screenshot below, you will notice that the node registers the user for an event on Demio.
 
-![Using the Demio node to register a user for an event](./Demio_node.png)
+![Using the Demio node to register a user for an event](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Typeform Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered when a new form is submitted.

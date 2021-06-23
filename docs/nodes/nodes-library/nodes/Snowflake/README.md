@@ -24,7 +24,7 @@ This workflow allows you to create a table, insert, and update data in a table i
 
 The final workflow should look like the following image.
 
-![A workflow with the Snowflake node](./workflow.png)
+![A workflow with the Snowflake node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a table named `docs` with `id` and `name` columns.
 
 In the screenshot below, you will notice that the node creates a table named `docs` in Snowflake.
 
-![Using the Snowflake node to create a table](./Snowflake_node.png)
+![Using the Snowflake node to create a table](REDACTED)
 
 
 ### 3. Set node
@@ -60,7 +60,7 @@ We will use the Set node to set the values for the id and name columns for a new
 :::
 In the screenshot below, you will notice that the node sets the value for `id` and `name`.
 
-![Using the Set node to set data to be inserted by the Snowflake node](./Set_node.png)
+![Using the Set node to set data to be inserted by the Snowflake node](REDACTED)
 
 ### 4. Snowflake1 node (Insert)
 
@@ -73,7 +73,7 @@ This node will insert the data that we set in the previous node into the `docs` 
 :::
 In the screenshot below, you will notice that the node inserts the data in the table that we created using the Snowflake node.
 
-![Using the Snowflake node to insert data into a table](./Snowflake1_node.png)
+![Using the Snowflake node to insert data into a table](REDACTED)
 
 ### 5. Set1 node
 
@@ -90,7 +90,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node sets the value of `name`. This value is passed to the next node in the workflow.
 
-![Using the Set node to set data to be updated by the Snowflake node](./Set1_node.png)
+![Using the Set node to set data to be updated by the Snowflake node](REDACTED)
 
 ### 6. Snowflake2 node (Update)
 
@@ -105,4 +105,4 @@ This node will update the value of the `name` column for the id `1`.
 :::
 In the screenshot below, you will notice that the node updates the value of the name field for the record with id `1`.
 
-![Using the Snowflake node to update data](./Snowflake2_node.png)
+![Using the Snowflake node to update data](REDACTED)

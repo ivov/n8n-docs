@@ -23,7 +23,7 @@ This workflow allows you to send an SMS or a Whatsapp message to a specified pho
 
 The final workflow should look like the following image.
 
-![A workflow with the Twilio node](./workflow.png)
+![A workflow with the Twilio node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to get a list of all the orders from Unleashed Software
 
 The final workflow should look like the following image.
 
-![A workflow with the Unleashed Software node](./workflow.png)
+![A workflow with the Unleashed Software node](REDACTED)
 
 ### 1. Start node
 
@@ -37,4 +37,4 @@ The start node exists by default when you create a new workflow.
 4. Select 'Completed' from the ***Order Status*** dropdown list.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the Unleashed Software node to get the list of completed sales order](./UnleashedSoftware_node.png)
+![Using the Unleashed Software node to get the list of completed sales order](REDACTED)

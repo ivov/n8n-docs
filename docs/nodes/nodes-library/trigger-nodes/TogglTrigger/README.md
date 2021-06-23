@@ -19,7 +19,7 @@ This workflow allows you to get new time entries from Toggl. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Toggl Trigger node](./workflow.png)
+![A workflow with the Toggl Trigger node](REDACTED)
 
 
 ### 1. Toggl Trigger node

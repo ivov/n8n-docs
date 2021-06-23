@@ -25,7 +25,7 @@ This workflow allows you to create a table and insert data into it in CrateDB. Y
 
 The final workflow should look like the following image.
 
-![A workflow with the CrateDB node](./workflow.png)
+![A workflow with the CrateDB node](REDACTED)
 
 ### 1. Start node
 
@@ -39,7 +39,7 @@ The start node exists by default when you create a new workflow.
 4. Click on the ***Node*** tab and toggle ***Always Output Data*** to true.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the CreateDB node to create a table](./CrateDB_node.png)
+![Using the CreateDB node to create a table](REDACTED)
 
 ### 3. Set node
 
@@ -50,7 +50,7 @@ The start node exists by default when you create a new workflow.
 5. Enter the value for the name in the ***Value*** field.
 6. Click on ***Execute Node*** to run the node.
 
-![Using the Set node to set data to be inserted by the CrateDB node](./Set_node.png)
+![Using the Set node to set data to be inserted by the CrateDB node](REDACTED)
 
 ### 4. CrateDB1 node (Insert)
 
@@ -59,7 +59,7 @@ The start node exists by default when you create a new workflow.
 3. Enter `id, name` in the ***Columns*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the CrateDB node to insert data into a table](./CrateDB1_node.png)
+![Using the CrateDB node to insert data into a table](REDACTED)
 
 ## FAQs
 

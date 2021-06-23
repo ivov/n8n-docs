@@ -23,7 +23,7 @@ This workflow allows you to send a message to a Discord channel using webhooks. 
 
 The final workflow should look like the following image.
 
-![A workflow with the Discord node](./workflow.png)
+![A workflow with the Discord node](REDACTED)
 
 ### 1. Start node
 
@@ -36,4 +36,4 @@ The start node exists by default when you create a new workflow.
 5. Enter your message in the ***Text*** field.
 6. Click on ***Execute Node*** to run the workflow.
 
-![Sending a message to a Discord channel using the Discord node](./Discord_node.png)
+![Sending a message to a Discord channel using the Discord node](REDACTED)

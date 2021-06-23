@@ -23,7 +23,7 @@ This workflow allows you to read RSS feed from two different sources using the S
 
 The final workflow should look like the following image.
 
-![A workflow with the Split In Batches node](./workflow.png)
+![A workflow with the Split In Batches node](REDACTED)
 
 ### 1. Start node
 
@@ -51,7 +51,7 @@ return [
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Function node to return URLs](./Function_node.png)
+![Using the Function node to return URLs](REDACTED)
 
 ::: v-pre
 ### 3. SplitInBatches node
@@ -60,7 +60,7 @@ return [
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Split In Batches node to split the data](./SplitInBatches_node.png)
+![Using the Split In Batches node to split the data](REDACTED)
 
 ::: v-pre
 ### 4. RSS Read node
@@ -70,7 +70,7 @@ return [
 3. Click on ***Execute Node*** to run the workflow.
 :::
 
-![Using the RSS Read node to read data from RSS feed](./RSSFeedRead_node.png)
+![Using the RSS Read node to read data from RSS feed](REDACTED)
 
 ## FAQs
 

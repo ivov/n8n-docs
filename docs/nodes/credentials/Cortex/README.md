@@ -18,4 +18,4 @@ Install [Cortex](https://github.com/TheHive-Project/CortexDocs/blob/master/insta
 3. Scroll down to the ***API Key*** section and click on the ***Reveal*** button.
 4. Use the ***API Key*** and your ***Cortex instance URL*** with your Cortex node credentials in n8n.
 
-![Getting Cortex credentials](./using-api.gif)
+![Getting Cortex credentials](REDACTED)

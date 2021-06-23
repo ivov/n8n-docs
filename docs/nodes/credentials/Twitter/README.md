@@ -31,7 +31,7 @@ Create a [Twitter developer account](https://developer.twitter.com/).
 
 **Note:** If you want to create, like, or retweet a tweet, or send a direct message you have to provide the appropriate App permissions to your Twitter app.
 
-![Getting Twitter credentials](./using-oauth.gif)
+![Getting Twitter credentials](REDACTED)
 
 ## Further Reference
 

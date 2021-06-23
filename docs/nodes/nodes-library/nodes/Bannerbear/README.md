@@ -23,7 +23,7 @@ This workflow allows you to create an image using the Bannerbear welcome templat
 
 The final workflow should look like the following image.
 
-![A workflow with the Bannerbear node](./workflow.png)
+![A workflow with the Bannerbear node](REDACTED)
 
 ### 1. Start node
 

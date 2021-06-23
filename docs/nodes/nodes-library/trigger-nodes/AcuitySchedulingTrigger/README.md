@@ -19,7 +19,7 @@ This workflow allows you to receive updates when a new appointment is scheduled 
 
 The final workflow should look like the following image.
 
-![A workflow with the Acuity Scheduling Trigger node](./workflow.png)
+![A workflow with the Acuity Scheduling Trigger node](REDACTED)
 
 
 ### 1. Acuity Scheduling Trigger node

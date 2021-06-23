@@ -23,7 +23,7 @@ This workflow allows you to get the details of a GitLab repository. You can also
 
 The final workflow should look like the following image.
 
-![A workflow with the GitLab node](./workflow.png)
+![A workflow with the GitLab node](REDACTED)
 
 ### 1. Start node
 

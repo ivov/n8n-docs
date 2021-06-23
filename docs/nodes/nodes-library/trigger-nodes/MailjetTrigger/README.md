@@ -19,7 +19,7 @@ This workflow allows you to receive updates when emails are sent in Mailjet. You
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailjet Trigger node](./workflow.png)
+![A workflow with the Mailjet Trigger node](REDACTED)
 
 
 ### 1. Mailjet Trigger node

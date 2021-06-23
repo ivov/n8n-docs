@@ -23,7 +23,7 @@ This workflow allows you to track an event in Segment. You can also find the [wo
 
 The final workflow should look like the following image.
 
-![A workflow with the Segment node](./workflow.png)
+![A workflow with the Segment node](REDACTED)
 
 ### 1. Start node
 

@@ -30,4 +30,4 @@ Create a [Ghost](https://ghost.org/) account.
 5. Click on the ***Create*** button.
 6. Use this ***URL*** and ***Content API Key*** with your Ghost node credentials in n8n.
 
-![Getting Ghost credentials](./using-api.gif)
+![Getting Ghost credentials](REDACTED)

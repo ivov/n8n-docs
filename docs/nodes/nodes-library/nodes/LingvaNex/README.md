@@ -24,7 +24,7 @@ This workflow allows you to translate cocktail instructions to Italian. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the LingvaNex node](./workflow.png)
+![A workflow with the LingvaNex node](REDACTED)
 
 ### 1. Start node
 
@@ -39,7 +39,7 @@ This node will make a GET request to the API `https://www.thecocktaildb.com/api/
 
 In the screenshot below, you will notice that the node makes a GET request to the API and returns information about a random cocktail.
 
-![Using the HTTP Request node to get the information about a random cocktail](./HTTPRequest_node.png)
+![Using the HTTP Request node to get the information about a random cocktail](REDACTED)
 
 ### 3. LingvaNex node
 
@@ -54,7 +54,7 @@ This node will translate the cocktail instructions that we got from the previous
 :::
 In the screenshot below, you will notice that the node translates the instructions of the cocktail to Italian.
 
-![Using the LingvaNex node to translate the instructions to Italian](./LingvaNex_node.png)
+![Using the LingvaNex node to translate the instructions to Italian](REDACTED)
 
 ## Further Reading
 

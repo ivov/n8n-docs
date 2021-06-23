@@ -49,7 +49,7 @@ This workflow allows you to add a new user to your Notion database when an invit
 
 The final workflow should look like the following image.
 
-![A workflow with the Notion node](./workflow.png)
+![A workflow with the Notion node](REDACTED)
 
 ### 1. Calendly Trigger node
 
@@ -64,7 +64,7 @@ The Calendly node will trigger the workflow when an invite gets created.
 
 In the screenshot below, you will notice that the Calendly Trigger node triggers the workflow when an invite is created.
 
-![Using the Calendly Trigger node to trigger the workflow](./CalendlyTrigger_node.png)
+![Using the Calendly Trigger node to trigger the workflow](REDACTED)
 
 
 ### 2. Notion node (create: databaseRecord)
@@ -90,7 +90,7 @@ This node will create a new record using the information received from the previ
 
 In the screenshot below, you will notice that the node creates a new record from the information that gets received from the previous node.
 
-![Using the Notion node to add a new record in Notion](./Notion_node.png)
+![Using the Notion node to add a new record in Notion](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Calendly Trigger node.

@@ -24,7 +24,7 @@ This workflow allows you to append, lookup, update, and read data from Google Sh
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Sheets node](./workflow.png)
+![A workflow with the Google Sheets node](REDACTED)
 
 ### 1. Start node
 
@@ -53,7 +53,7 @@ This example workflow uses the Set node to generate data that we want to add to 
 
 In the screenshot below, you will notice that the Set node has created data that will be passed to the next nodes in the workflow. Also, the output shows a random three-digit number as the ID, created by the expression.
 
-![Using the Set node to set data to be inserted in the Google Sheets node](./Set_node.png)
+![Using the Set node to set data to be inserted in the Google Sheets node](REDACTED)
 
 
 ### 3. Google Sheets node (Append)
@@ -79,7 +79,7 @@ This Google Sheets node will add the data from the Set node in a new row to the 
 
 In the screenshot below, you will observe that the node adds the data from the Set node to the Google Sheets. You will also notice that the values get added in the format they are set.
 
-![Using the Google Sheets node to insert data into a Google Sheets spreadsheet](./GoogleSheets_node.png)
+![Using the Google Sheets node to insert data into a Google Sheets spreadsheet](REDACTED)
 
 ### 4. Google Sheets1 node (Lookup)
 
@@ -98,7 +98,7 @@ This node will return the entries from the Google Sheets that have `Berlin` as t
 
 In the screenshot below, you will notice that the node returns all the entries that contain Berlin as the City. The output is unformatted and is passed on to the next nodes in the workflow.
 
-![Using the Google Sheets node to lookup for data in the Google Sheets spreadsheet](./GoogleSheets1_node.png)
+![Using the Google Sheets node to lookup for data in the Google Sheets spreadsheet](REDACTED)
 
 ::: v-pre
 ### 5. Set1 node
@@ -125,7 +125,7 @@ We will use expressions to get the data from the previous node and increase the 
 
 In the screenshot below, you will notice that the node uses an expression to get the data from the previous node and increases the rent of the houses by $100. This new data will be passed to the next nodes in the workflow.
 
-![Using the Set node to increase the rent](./Set1_node.png)
+![Using the Set node to increase the rent](REDACTED)
 
 ### 6. Google Sheets2 node (Update)
 
@@ -143,7 +143,7 @@ This node will update the rent for the houses in Berlin with the new rent set in
 
 In the screenshot below, you will notice that this node updates the rent values of the houses in Berlin based on the ID in the Google Sheets. You will also see that the updated values are in the correct format.
 
-![Using the Google Sheets node to update the data to the Google Sheets spreadsheet](./GoogleSheets2_node.png)
+![Using the Google Sheets node to update the data to the Google Sheets spreadsheet](REDACTED)
 
 ### 7. Google Sheets3 node (Read)
 
@@ -160,7 +160,7 @@ This node will read the data from Google Sheets.
 
 In the screenshot below, you will notice that this node returns all the values from the Google Sheets in the appropriate format.
 
-![Using the Google Sheets node to read data from the Google Sheets spreadsheet](./GoogleSheets3_node.png)
+![Using the Google Sheets node to read data from the Google Sheets spreadsheet](REDACTED)
 
 ## FAQs
 

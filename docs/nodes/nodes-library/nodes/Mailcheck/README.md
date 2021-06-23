@@ -25,7 +25,7 @@ This workflow allows you to validate emails stored in Airtable using the Mailche
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailcheck node](./workflow.png)
+![A workflow with the Mailcheck node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ Create a table like [this](https://airtable.com/shrDUFXWoHCuJjYjT) in your Airta
 
 In the screenshot below, you will notice that the node returns all the records from the table.
 
-![Using the Airtable node to list data from an Airtable table](./Airtable_node.png)
+![Using the Airtable node to list data from an Airtable table](REDACTED)
 
 ### 2. Mailcheck node (check: email)
 
@@ -57,7 +57,7 @@ This node will check the emails that got returned by the previous node.
 :::
 In the screenshot below, you will notice that the node checks the email that got returned by the previous node.
 
-![Using the Mailcheck node to check email](./Mailcheck_node.png)
+![Using the Mailcheck node to check email](REDACTED)
 
 ### 3. Set node
 
@@ -76,7 +76,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 
 In the screenshot below, you will notice that the node sets the value for `Valid` and `ID`.
 
-![Using the Set node to set data to be updated by the Airtable node](./Set_node.png)
+![Using the Set node to set data to be updated by the Airtable node](REDACTED)
 
 ### 4. Airtable (Update)
 
@@ -97,4 +97,4 @@ This node will update the Valid field in the table.
 :::
 In the screenshot below, you will notice that the node updates the Valid field in the table.
 
-![Using the Airtable node to update data of a record](./Airtable1_node.png)
+![Using the Airtable node to update data of a record](REDACTED)

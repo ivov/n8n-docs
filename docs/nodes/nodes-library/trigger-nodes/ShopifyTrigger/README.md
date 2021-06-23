@@ -19,7 +19,7 @@ This workflow allows you to receive updates when a new order is created in Shopi
 
 The final workflow should look like the following image.
 
-![A workflow with the Shopify Trigger node](./workflow.png)
+![A workflow with the Shopify Trigger node](REDACTED)
 
 
 ### 1. Shopify Trigger node

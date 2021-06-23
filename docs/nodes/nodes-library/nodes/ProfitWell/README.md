@@ -24,7 +24,7 @@ This workflow allows you to send financial metrics monthly to a Mattermost chann
 
 The final workflow should look like the following image.
 
-![A workflow with the ProfitWell node](./workflow.png)
+![A workflow with the ProfitWell node](REDACTED)
 
 ### 1. Cron node
 
@@ -37,7 +37,7 @@ The Cron node will trigger the workflow on the first day of every month at 9 AM.
 
 In the screenshot below, you will notice that the Cron node is configured to trigger the workflow on the first day of every month at 9 AM.
 
-![Using the Cron node to trigger the workflow every month](./Cron_node.png)
+![Using the Cron node to trigger the workflow every month](REDACTED)
 
 ### 2. ProfitWell node (get: metric)
 
@@ -49,7 +49,7 @@ This node will return monthly financial metrics.
 
 In the screenshot below, you will notice that the node returns montly financial metrics.
 
-![Using the ProfitWell node to get monthly financial metrics](./ProfitWell_node.png)
+![Using the ProfitWell node to get monthly financial metrics](REDACTED)
 
 ### 3. Mattermost node (post: message)
 
@@ -71,7 +71,7 @@ Recurring Revenue: {{$node["ProfitWell"].json["recurring_revenue"]}}
 :::
 In the screenshot below, you will notice that the node sends a message with the metrics that we get from the previous node.
 
-![Using the Mattermost node to send a message with the metrics ](./Mattermost_node.png)
+![Using the Mattermost node to send a message with the metrics ](REDACTED)
 
 
 ::: tip 💡 Activate workflow for production

@@ -29,7 +29,7 @@ This workflow allows you to add a datapoint to Beeminder when a new activity get
 
 The final workflow should look like the following image.
 
-![A workflow with the Beeminder node](./workflow.png)
+![A workflow with the Beeminder node](REDACTED)
 
 ### 1. Strava Trigger node
 
@@ -41,7 +41,7 @@ This node will trigger the workflow whenever a new activity gets added to your S
 
 In the screenshot below, you will notice that the node triggers the workflow when a new activity gets added to Strava.
 
-![Using the Strava Trigger node to trigger the workflow](./StravaTrigger_node.png)
+![Using the Strava Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Beeminder node (create: datapoint)
 
@@ -58,7 +58,7 @@ This node will create a datapoint for the goal `testing`. If you have created a 
 
 In the screenshot below, you will notice that the node creates a datapoint in Beeminder.
 
-![Using the Beeminder node to create a datapoint for a goal](./Beeminder_node.png)
+![Using the Beeminder node to create a datapoint for a goal](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Strava Trigger node.

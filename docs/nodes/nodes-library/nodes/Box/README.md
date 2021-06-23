@@ -23,7 +23,7 @@ This workflow allows you to create a folder on Box. You can also find the [workf
 
 The final workflow should look like the following image.
 
-![A workflow with the Box node](./workflow.png)
+![A workflow with the Box node](REDACTED)
 
 ### 1. Start node
 

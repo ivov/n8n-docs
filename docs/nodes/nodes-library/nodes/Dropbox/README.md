@@ -24,7 +24,7 @@ This workflow allows you to create a folder in Dropbox, upload a file into that 
 
 The final workflow should look like the following image.
 
-![A workflow with the Dropbox node](./workflow.png)
+![A workflow with the Dropbox node](REDACTED)
 
 ### 1. Start node
 
@@ -37,15 +37,15 @@ The Start node exists by default when you create a new workflow.
 3. Enter the name of the new folder in the ***Folder*** field.
 4. Click on ***Execute Node*** to run the workflow.
 
-![Create a folder in Dropbox using the Dropbox node](./Dropbox_node.png)
+![Create a folder in Dropbox using the Dropbox node](REDACTED)
 
 ### 3. HTTP Request node (GET)
 
-1. Enter `https://n8n.io/n8n-logo.png` in the ***URL*** field.
+1. Enter `httpsREDACTED` in the ***URL*** field.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the workflow.
 
-![Get a file to upload in Dropbox using the HTTP Request node](./HTTPRequest_node.png)
+![Get a file to upload in Dropbox using the HTTP Request node](REDACTED)
 
 ### 4. Dropbox1 node (upload: file)
 
@@ -54,7 +54,7 @@ The Start node exists by default when you create a new workflow.
 3. Set the ***Binary Data*** toggle to true.
 4. Click on ***Execute Node*** to run the node.
 
-![Upload a file in Dropbox using the Dropbox node](./Dropbox1_node.png)
+![Upload a file in Dropbox using the Dropbox node](REDACTED)
 
 ### 5. Dropbox2 node (list: folder)
 
@@ -64,4 +64,4 @@ The Start node exists by default when you create a new workflow.
 4. Enter the path of the Dropbox folder you created in the previous steps in the ***Folder Path*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![List the contents of a Dropbox folder using the Dropbox node](./Dropbox2_node.png)
+![List the contents of a Dropbox folder using the Dropbox node](REDACTED)

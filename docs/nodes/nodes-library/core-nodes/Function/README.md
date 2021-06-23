@@ -22,7 +22,7 @@ This workflow allows you to get today's date and day using the Function node. Yo
 
 The final workflow should look like the following image.
 
-![A workflow with the Function node](./workflow.png)
+![A workflow with the Function node](REDACTED)
 
 ### 1. Start node
 

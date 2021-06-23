@@ -25,7 +25,7 @@ This workflow allows you to get activity summary from Oura and store the output 
 
 The final workflow should look like the following image.
 
-![A workflow with the Oura node](./workflow.png)
+![A workflow with the Oura node](REDACTED)
 
 ### 1. Cron node
 
@@ -37,7 +37,7 @@ The Cron node will trigger the workflow every Sunday at 9 AM.
 4. Select 'Sunday' from the ***Weekday*** dropdown list.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the Cron node to trigger the workflow once a week](./Cron_node.png)
+![Using the Cron node to trigger the workflow once a week](REDACTED)
 
 ### 2. Oura node (getActivity: summary)
 
@@ -50,7 +50,7 @@ This node will return the activity summary of a week.
 
 In the screenshot below, you will notice that the node returns the activity summary.
 
-![Using the Oura node to get the activity summary](./Oura_node.png)
+![Using the Oura node to get the activity summary](REDACTED)
 
 ### 3. Set node
 
@@ -74,7 +74,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node uses the data from the previous node and returns the data that we set for the workflow.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ## 4. Airtable node (Append)
 
@@ -88,7 +88,7 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Cron node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Cron node.

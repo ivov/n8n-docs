@@ -21,4 +21,4 @@ Create a [Pushover](https://pushover.net) account.
 5. Click on the ***Create Application*** button.
 6. Use this ***API Key*** with your Pushover node credentials in n8n.
 
-![Getting Pushover credentials](./using-api-key.gif)
+![Getting Pushover credentials](REDACTED)

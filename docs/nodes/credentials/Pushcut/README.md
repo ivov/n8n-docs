@@ -21,4 +21,4 @@ Download the [Pushcut](https://www.pushcut.io) app.
 4. Click on the ***Generate*** button.
 5. Use the ***API Key*** with your Pushcut node credentials in n8n.
 
-![Getting Pushcut credentials](./using-api-key.gif)
+![Getting Pushcut credentials](REDACTED)

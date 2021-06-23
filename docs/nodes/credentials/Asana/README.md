@@ -32,7 +32,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 10. Click on the circle button in the OAuth section to connect an Asana account to n8n.
 11. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Asana credentials](./using-oauth.gif)
+![Getting Asana credentials](REDACTED)
 
 ## Using Access Token
 
@@ -46,4 +46,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 8. Click on the ***Create token*** button.
 9. Copy the token and use it with your Asana node credentials in n8n.
 
-![Getting Asana credentials](./using-access-token.gif)
+![Getting Asana credentials](REDACTED)

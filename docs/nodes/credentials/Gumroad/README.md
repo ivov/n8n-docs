@@ -22,4 +22,4 @@ Create a [Gumroad](https://gumroad.com/) account.
 6. From here, you have access the ability to generate an access token.
 7. Use provided access token with your Gumroad node credentials in n8n.
 
-![Getting Gumroad credentials](./using-access-token.gif)
+![Getting Gumroad credentials](REDACTED)

@@ -19,7 +19,7 @@ This workflow allows you to receive updates when a new contact is created in Hub
 
 The final workflow should look like the following image.
 
-![A workflow with the HubSpot Trigger node](./workflow.png)
+![A workflow with the HubSpot Trigger node](REDACTED)
 
 
 ### 1. HubSpot Trigger node

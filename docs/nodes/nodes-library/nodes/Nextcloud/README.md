@@ -24,7 +24,7 @@ This workflow allows you to create a folder in Nextcloud, upload a file into tha
 
 The final workflow should look like the following image.
 
-![A workflow with the Nextcloud node](./workflow.png)
+![A workflow with the Nextcloud node](REDACTED)
 
 ### 1. Start node
 
@@ -37,15 +37,15 @@ The start node exists by default when you create a new workflow.
 3. Enter a folder name in the ***Folder*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Create a folder in Nextcloud using the Nextcloud node](./Nextcloud_node.png)
+![Create a folder in Nextcloud using the Nextcloud node](REDACTED)
 
 ### 3. HTTP Request node (GET)
 
-1. Enter `https://n8n.io/n8n-logo.png` in the ***URL*** field.
+1. Enter `httpsREDACTED` in the ***URL*** field.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
-![Get a file to upload in Nextcloud using the HTTP Request node](./HTTPRequest_node.png)
+![Get a file to upload in Nextcloud using the HTTP Request node](REDACTED)
 
 ### 4. Nextcloud1 node (upload: file)
 
@@ -54,7 +54,7 @@ The start node exists by default when you create a new workflow.
 3. Set the ***Binary Data*** toggle to true.
 4. Click on ***Execute Node*** to run the node.
 
-![Upload a file in Nextcloud using the Nextcloud node](./Nextcloud1_node.png)
+![Upload a file in Nextcloud using the Nextcloud node](REDACTED)
 
 ### 5. Nextcloud2 node (list: folder)
 
@@ -64,4 +64,4 @@ The start node exists by default when you create a new workflow.
 4. Enter the name of the Nextcloud folder you created in the previous steps in the ***Folder Path*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![List the contents of a Nextcloud folder using the Nextcloud node](./Nextcloud2_node.png)
+![List the contents of a Nextcloud folder using the Nextcloud node](REDACTED)

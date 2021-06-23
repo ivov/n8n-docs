@@ -19,7 +19,7 @@ This workflow allows you to send an SMS to a number whenever you go out. You can
 
 The final workflow should look like the following image.
 
-![A workflow with the Pushcut Trigger node](./workflow.png)
+![A workflow with the Pushcut Trigger node](REDACTED)
 
 ### 1. Pushcut Trigger node
 
@@ -33,7 +33,7 @@ To create an action in the Pushcut app, follow the instructions mentioned in [FA
 
 In the screenshot below, you will notice that the node triggers the workflow whenever the `Leaving Home` action is selected.
 
-![Using the Pushcut Trigger node to trigger the workflow](./PushcutTrigger_node.png)
+![Using the Pushcut Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Twilio node (send: sms)
 
@@ -50,7 +50,7 @@ This node will send an SMS to a specified phone number notifying the recipient t
 
 In the screenshot below, you will notice that the node sends an SMS with the input that we received from the Pushcut Trigger node.
 
-![Using the Twilio node to send an SMS](./Twilio_node.png)
+![Using the Twilio node to send an SMS](REDACTED)
 
 ## FAQs
 

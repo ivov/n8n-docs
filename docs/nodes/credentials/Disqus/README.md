@@ -18,4 +18,4 @@ Create a [Disqus](https://www.disqus.com/) account.
 2. Fill out the application information and click on ***Register my application***.
 3. Click on ***Details*** at the top and use the provided 'API Key' with your Disqus node credentials in n8n.
 
-![Getting Disqus credentials](./using-access-token.gif)
+![Getting Disqus credentials](REDACTED)

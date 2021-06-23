@@ -24,7 +24,7 @@ This workflow allows you to send a cocktail recipe to a specified chat ID every 
 
 The final workflow should look like the following image.
 
-![A workflow with the Telegram node](./workflow.png)
+![A workflow with the Telegram node](REDACTED)
 ### 1. Cron node
 
 The Cron node will trigger the workflow daily at 8 PM.
@@ -35,7 +35,7 @@ The Cron node will trigger the workflow daily at 8 PM.
 
 In the screenshot below, you will notice that the Cron node is configured to trigger the workflow every day at 8 PM.
 
-![Using the Cron node to trigger the workflow daily at 8 PM](./Cron_node.png)
+![Using the Cron node to trigger the workflow daily at 8 PM](REDACTED)
 
 ### 2. HTTP Request node (GET)
 
@@ -46,7 +46,7 @@ This node will make a GET request to the API `https://www.thecocktaildb.com/api/
 
 In the screenshot below, you will notice that the node makes a GET request to the API and returns information about a random cocktail.
 
-![Using the HTTP Request node to get the information about a random cocktail](./HTTPRequest_node.png)
+![Using the HTTP Request node to get the information about a random cocktail](REDACTED)
 
 ### 3. Telegram node (sendPhoto: message)
 
@@ -65,7 +65,7 @@ This node will send a message on Telegram with an image and the recipe of the co
 :::
 In the screenshot below, you will notice that the node sends a message on Telegram with an image and the recipe of the cocktail.
 
-![Using the Telegram node to send a message with an image and instruction of a cocktail](./Telegram_node.png)
+![Using the Telegram node to send a message with an image and instruction of a cocktail](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Cron node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Cron node.

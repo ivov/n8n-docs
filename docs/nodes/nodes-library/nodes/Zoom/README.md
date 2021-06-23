@@ -23,7 +23,7 @@ This workflow allows you to create a meeting in Zoom. You can also find the [wor
 
 The final workflow should look like the following image.
 
-![A workflow with the Zoom node](./workflow.png)
+![A workflow with the Zoom node](REDACTED)
 
 ### 1. Start node
 

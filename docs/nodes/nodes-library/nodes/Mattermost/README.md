@@ -23,7 +23,7 @@ This workflow allows you to create a channel, add a member, and post a message t
 
 The final workflow should look like the following image.
 
-![A workflow with the Mattermost node](./workflow.png)
+![A workflow with the Mattermost node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a new channel named `docs` in Mattermost. If you want to c
 
 In the screenshot below, you will notice that the node creates a new channel named `docs` in Mattermost.
 
-![Using the Mattermost node to create a channel](./Mattermost_node.png)
+![Using the Mattermost node to create a channel](REDACTED)
 
 ### 3. Mattermost1 node (addUser: channel)
 
@@ -58,7 +58,7 @@ This node will add a member to the channel that we created in the previous node.
 :::
 In the screenshot below, you will notice that the node adds a user to the channel that we created in the previous node.
 
-![Using the Mattermost node to add a user to a channel](./Mattermost1_node.png)
+![Using the Mattermost node to add a user to a channel](REDACTED)
 
 ### 4. Mattermost2 node (post: message)
 
@@ -72,7 +72,7 @@ This node will post a message to the channel that we created using the Mattermos
 :::
 In the screenshot below, you will notice that the node posts a message to the channel that we created in the Mattermost node.
 
-![Using the Mattermost node to post a message to a channel](./Mattermost2_node.png)
+![Using the Mattermost node to post a message to a channel](REDACTED)
 
 ## FAQs
 

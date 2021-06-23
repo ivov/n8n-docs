@@ -23,7 +23,7 @@ This workflow allows you to create a campaign, add a contact, and get the campai
 
 The final workflow should look like the following image.
 
-![A workflow with the Emelia node](./workflow.png)
+![A workflow with the Emelia node](REDACTED)
 
 ### 1. Start node
 
@@ -40,7 +40,7 @@ This node will create a new campaign in Emelia.
 
 In the screenshot below, you will notice that the node creates a new campaign.
 
-![Using the Emelia node to create a new campaign](./Emelia_node.png)
+![Using the Emelia node to create a new campaign](REDACTED)
 
 ### 3. Emelia1 node (campaign: addContact)
 
@@ -56,7 +56,7 @@ This node will add a contact to the campaign that we created in the previous nod
 
 In the screenshot below, you will notice that the node adds the contact to the campaign that we created in the previous node.
 
-![Using the Emelia node to add a contact to a campaign](./Emelia1_node.png)
+![Using the Emelia node to add a contact to a campaign](REDACTED)
 
 ### 4. Emelia2 node (campaign: get)
 
@@ -71,4 +71,4 @@ This node will get the information about the campaign that we created earlier.
 
 In the screenshot below, you will notice that the node returns the information of the campaign.
 
-![Using the Emelia node to return the information a campaign](./Emelia2_node.png)
+![Using the Emelia node to return the information a campaign](REDACTED)

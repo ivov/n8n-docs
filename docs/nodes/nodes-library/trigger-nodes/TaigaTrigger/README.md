@@ -18,7 +18,7 @@ This workflow allows you to receive updates when an event occurs in Taiga. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Taiga Trigger node](./workflow.png)
+![A workflow with the Taiga Trigger node](REDACTED)
 
 ### 1. Taiga Trigger node
 

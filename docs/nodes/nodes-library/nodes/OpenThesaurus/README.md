@@ -23,7 +23,7 @@ This workflow allows you to get synonyms of a German word in German. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the OpenThesaurus node](./workflow.png)
+![A workflow with the OpenThesaurus node](REDACTED)
 
 ### 1. Start node
 
@@ -38,4 +38,4 @@ This node will return synonyms of the word `Hallo` in German. If you want to get
 
 In the screenshot below, you will notice that the node returns the synonyms of the word `Hallo`.
 
-![Using the OpenThesaurus node to get the synonyms of the word Hallo](./OpenThesaurus_node.png)
+![Using the OpenThesaurus node to get the synonyms of the word Hallo](REDACTED)

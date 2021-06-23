@@ -44,7 +44,7 @@ This workflow allows you to convert a date from one format to another using the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Date & Time node](./workflow.png)
+![A workflow with the Date & Time node](REDACTED)
 
 ### 1. Start node
 

@@ -75,7 +75,7 @@ module.exports = {
 			{
 				description: $page => getDescription($page.frontmatter.description, $page.frontmatter.permalink),
 				title: ($page, $site) => `${$page.title} | n8n ${$site.title}`,
-				image: () => '/assets/img/n8n-docs.png',
+				// image: () => '/assets/img/n8n-docs.png',
 				modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
 				url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
 			}
@@ -109,7 +109,7 @@ module.exports = {
 			indexName: 'n8n_io',
 		},
 		searchPlaceholder: 'Search...',
-		logo: '/assets/img/n8n-logo.png',
+		// logo: '/assets/img/n8n-logo.png',
 		nav: [
 			{
 				text: 'Getting Started',

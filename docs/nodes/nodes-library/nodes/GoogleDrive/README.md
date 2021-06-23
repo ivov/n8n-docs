@@ -24,7 +24,7 @@ This workflow allows you to download a file from Google Drive. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Drive node](./workflow.png)
+![A workflow with the Google Drive node](REDACTED)
 
 ### 1. Start node
 

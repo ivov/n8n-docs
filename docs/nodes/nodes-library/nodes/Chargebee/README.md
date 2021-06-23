@@ -23,7 +23,7 @@ This workflow allows you to create a new customer in Chargebee. You can also fin
 
 The final workflow should look like the following image.
 
-![A workflow with the Chargebee node](./workflow.png)
+![A workflow with the Chargebee node](REDACTED)
 
 ### 1. Start node
 

@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a new list is created in Affini
 
 The final workflow should look like the following image.
 
-![A workflow with the Affinity Trigger node](./workflow.png)
+![A workflow with the Affinity Trigger node](REDACTED)
 
 ### 1. Affinity Trigger node
 

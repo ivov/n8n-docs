@@ -23,5 +23,5 @@ Create a [PayPal](https://paypal.com/) account.
 6. Return to n8n and enter the Client ID and Client Secret in your PayPal API credentials.
 7. Choose the environment: sandbox or live.
 
-![Getting PayPal credentials](./using-oauth.gif)
+![Getting PayPal credentials](REDACTED)
 

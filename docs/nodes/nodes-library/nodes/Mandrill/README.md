@@ -24,7 +24,7 @@ This workflow allows you to send an email using a template via Mandrill. You can
 
 The final workflow should look like the following image.
 
-![A workflow with the Mandrill node](./workflow.png)
+![A workflow with the Mandrill node](REDACTED)
 
 ### 1. Start node
 

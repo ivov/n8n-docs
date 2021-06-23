@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a product from WooCommerce. 
 
 The final workflow should look like the following image.
 
-![A workflow with the WooCommerce node](./workflow.png)
+![A workflow with the WooCommerce node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a new product in WooCommerce.
 
 In the screenshot below, you will notice that the node creates a new product.
 
-![Using the WooCommerce node to create a new product](./WooCommerce_node.png)
+![Using the WooCommerce node to create a new product](REDACTED)
 
 ### 3. WooCommerce1 node (update: product)
 
@@ -59,7 +59,7 @@ This node will update the product that we created in the previous node. We will 
 :::
 In the screenshot below, you will notice that the node updates the quantity of the product that we created in the previous node.
 
-![Using the WooCommerce node to update the quantity of a product](./WooCommerce1_node.png)
+![Using the WooCommerce node to update the quantity of a product](REDACTED)
 
 ### 4. WooCommerce2 node (get: product)
 
@@ -73,4 +73,4 @@ This node will get the information about the product that we created using the W
 
 In the screenshot below, you will notice that the node returns the information about the product that we created using the WooCommerce node.
 
-![Using the WooCommerce node to get the information of a product](./WooCommerce2_node.png)
+![Using the WooCommerce node to get the information of a product](REDACTED)

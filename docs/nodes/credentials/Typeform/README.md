@@ -24,7 +24,7 @@ Create a [Typeform](https://typeform.com/) account.
 8. Click on the circle button in the OAuth section to connect a Typeform account to n8n.
 9. Click the ***Save*** button to save your credentials.
 
-![Getting TypeForm OAuth credentials](./using-oauth.gif)
+![Getting TypeForm OAuth credentials](REDACTED)
 
 ## Using Access Token
 

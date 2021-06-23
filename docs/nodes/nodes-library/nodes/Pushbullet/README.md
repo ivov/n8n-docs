@@ -24,7 +24,7 @@ This workflow allows you to send daily weather updates via a push notification u
 
 The final workflow should look like the following image.
 
-![A workflow with the Pushbullet node](./workflow.png)
+![A workflow with the Pushbullet node](REDACTED)
 
 ### 1. Cron node
 
@@ -36,7 +36,7 @@ The Cron node will trigger the workflow daily at 9 AM.
 
 In the screenshot below, you will notice that the Cron node is configured to trigger the workflow every day at 9 AM.
 
-![Using the Cron node to trigger the workflow daily at 9 am](./Cron_node.png)
+![Using the Cron node to trigger the workflow daily at 9 am](REDACTED)
 
 ### 2. OpenWeatherMap node (Current Weather)
 
@@ -48,7 +48,7 @@ This node will return data about the current weather in Berlin. To get the weath
 
 In the screenshot below, you will notice that the node returns data about the current weather in Berlin.
 
-![Using the OpenWeatherMap node to get weather updates for Berlin](./OpenWeatherMap_node.png)
+![Using the OpenWeatherMap node to get weather updates for Berlin](REDACTED)
 
 ### 3. Pushbullet node (create: push)
 
@@ -64,4 +64,4 @@ This node will send a push notification with the weather update to the default d
 
 In the screenshot below, you will notice that the node sends a push notification to the default device with the weather update.
 
-![Using the Pushbullet node to send weather updates via a push notification](./Pushbullet_node.png)
+![Using the Pushbullet node to send weather updates via a push notification](REDACTED)

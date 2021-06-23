@@ -36,7 +36,7 @@ This workflow allows you to upload a file to an FTP server and get a list of all
 
 The final workflow should look like the following image.
 
-![A workflow with the FTP node](./workflow.png)
+![A workflow with the FTP node](REDACTED)
 
 ### 1. Start node
 
@@ -48,7 +48,7 @@ The start node exists by default when you create a new workflow.
 2. Select ***File*** from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
-![Downloading a file with the HTTP Request node](./HTTPRequest_node.png)
+![Downloading a file with the HTTP Request node](REDACTED)
 
 ### 3. FTP node (ftp: upload)
 
@@ -57,7 +57,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the path where you would like to upload the file in the ***Path*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Uploading a file with the FTP node](./FTP_node.png)
+![Uploading a file with the FTP node](REDACTED)
 
 ### 4. FTP1 node (ftp: list)
 
@@ -66,4 +66,4 @@ The start node exists by default when you create a new workflow.
 3. Enter the path to the folder where you uploaded the file in the previous step in the ***Path*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Getting a list of files with the FTP node](./FTP1_node.png)
+![Getting a list of files with the FTP node](REDACTED)

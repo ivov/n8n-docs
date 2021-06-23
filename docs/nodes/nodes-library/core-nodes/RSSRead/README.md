@@ -22,7 +22,7 @@ This workflow allows you to read an RSS Feed using the RSS Read node. You can al
 
 The final workflow should look like the following image.
 
-![A workflow with the RSS Read node](./workflow.png)
+![A workflow with the RSS Read node](REDACTED)
 
 ### 1. Start node
 

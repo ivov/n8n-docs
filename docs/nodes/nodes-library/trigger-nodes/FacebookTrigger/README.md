@@ -33,7 +33,7 @@ This workflow allows you to receive a Mattermost message when a user updates the
 
 The final workflow should look like the following image.
 
-![A workflow with the Facebook Trigger node](./workflow.png)
+![A workflow with the Facebook Trigger node](REDACTED)
 
 ### 1. Facebook Trigger node
 
@@ -46,7 +46,7 @@ The Facebook Trigger node will trigger the workflow when a user updates their pr
 
 In the screenshot below, you will notice that the node returns the updated information of the user from Facebook. This output is passed on to the next node in the workflow.
 
-![Using the Facebook Trigger node to trigger the workflow](./FacebookTrigger_node.png)
+![Using the Facebook Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Mattermost node (post: message)
 
@@ -61,7 +61,7 @@ This node will send a message of the updated information in the channel `Informa
 :::
 In the screenshot below, you will notice that the node sends a message about the updated information to the `Information Updated` channel in Mattermost.
 
-![Using the Mattermost node to send a message of the updated information](./Mattermost_node.png)
+![Using the Mattermost node to send a message of the updated information](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Facebook Trigger node.

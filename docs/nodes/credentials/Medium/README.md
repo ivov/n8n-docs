@@ -30,7 +30,7 @@ You can use these credentials to authenticate the following nodes with Medium.
 12. Click on the circle button in the OAuth section to connect a Medium account to n8n.
 13. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Medium OAuth credentials](./using-oauth.gif)
+![Getting Medium OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -43,4 +43,4 @@ You can use these credentials to authenticate the following nodes with Medium.
 7. Copy and paste ***Token*** in the Medium API credentials in n8n.
 8. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Medium Access Token](./using-access-token.gif)
+![Getting Medium Access Token](REDACTED)

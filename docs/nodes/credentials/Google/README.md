@@ -36,7 +36,7 @@ Create a [Google Cloud](https://cloud.google.com/) account.
 5. Click on Create Credentials.
 6. Click on API Key.
 7. Use provided API Key with your Google node credentials in n8n.
-![Getting Google credentials](https://i.imgur.com/r9KX5Gh.gif)  -->
+![Getting Google credentials](httpsREDACTED)  -->
 
 ::: tip ❗️ Note for enabling the API
 You'll need to enable the API of the service you want to use. You can enable the API from the Google Cloud Platform. For example, if you want to use the Google Sheets node, enable the Google Sheets API on the Google Cloud Platform. Refer to the [FAQs](#how-to-enable-an-api) to learn how to enable an API.

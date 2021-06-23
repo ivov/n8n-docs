@@ -19,7 +19,7 @@ This workflow allows you to receive updates when a form is submitted in Mautic u
 
 The final workflow should look like the following image.
 
-![A workflow with the Mautic Trigger node](./workflow.png)
+![A workflow with the Mautic Trigger node](REDACTED)
 
 ### 1. Mautic Trigger node
 
@@ -31,7 +31,7 @@ The Mautic Trigger node will trigger the workflow when a Mautic form is submitte
 
 In the screenshot below, you will notice that the node returns the data that was submitted to the Mautic form. This output is passed on to the next nodes in the workflow.
 
-![Using the Mautic Trigger node to trigger the workflow](./MauticTrigger_node.png)
+![Using the Mautic Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Twilio node (send: sms)
 
@@ -54,7 +54,7 @@ See you there!
 
 In the screenshot below, you will notice that the node sends an SMS to the submitter whose name and phone number are returned by the Mautic Trigger node.
 
-![Using the Twilio node to send an SMS](./Twilio_node.png)
+![Using the Twilio node to send an SMS](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Mautic Trigger node.

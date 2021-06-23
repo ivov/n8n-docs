@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a user using the G Suite Adm
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Sheets node](./workflow.png)
+![A workflow with the Google Sheets node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a user in G Suite with the following information:  first n
 
 In the screenshot below, you will observe that the node has created a new user with the first name `Nathan`, last name `Nat`, domain `n8n.io`, username `nat`, and a password, in G Suite.
 
-![Using the G Suite Admin node to create a user](./GSuiteAdmin_node.png)
+![Using the G Suite Admin node to create a user](REDACTED)
 
 ::: v-pre
 ### 3. G Suite Admin1 node (update: user)
@@ -61,7 +61,7 @@ This node will get the User ID from the previous node and update the user's last
 
 In the screenshot below, you will notice that the node has updated the last name of the user that we created in the previous node.
 
-![Using the G Suite Admin node to update the last name of the user](./GSuiteAdmin1_node.png)
+![Using the G Suite Admin node to update the last name of the user](REDACTED)
 
 ::: v-pre
 ### 4. G Suite Admin2 (get: user)
@@ -77,7 +77,7 @@ This node will get the information of the user we created in the G Suite Admin n
 
 In the screenshot below, you will notice that the node returns the information of the user we created in the G Suite Admin node.
 
-![Using the G Suite Admin node to get the information of the user](./GSuiteAdmin2_node.png)
+![Using the G Suite Admin node to get the information of the user](REDACTED)
 
 ## FAQs
 

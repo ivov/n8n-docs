@@ -23,7 +23,7 @@ This workflow allows you to send an email using AWS SES. You can also find the [
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS SES node](./workflow.png)
+![A workflow with the AWS SES node](REDACTED)
 
 ### 1. Start node
 

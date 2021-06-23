@@ -46,7 +46,7 @@ This workflow allows you to read a spreadsheet file using the Spreadsheet File n
 
 The final workflow should look like the following image.
 
-![A workflow with the Spreadsheet File node](./workflow.png)
+![A workflow with the Spreadsheet File node](REDACTED)
 
 ### 1. Start node
 

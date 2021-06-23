@@ -24,7 +24,7 @@ This workflow allows you to create a channel, invite users to the channel, post 
 
 The final workflow should look like the following image.
 
-![A workflow with the Slack node](./workflow.png)
+![A workflow with the Slack node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a new channel in your Slack workspace. This operation requ
 
 In the screenshot below, you will notice that node creates a new channel in Slack.
 
-![Using the Slack node to create a channel](./Slack_node.png)
+![Using the Slack node to create a channel](REDACTED)
 
 ### 3. Slack1 node (invite: channel)
 
@@ -59,7 +59,7 @@ This node will invite a member to the channel that we created in the previous no
 :::
 In the screenshot below, you will notice that node invites the user to the channel we created using the previous node.
 
-![Using the Slack node to invite a user to a channel](./Slack1_node.png)
+![Using the Slack node to invite a user to a channel](REDACTED)
 
 ### 4. Slack2 node (post: message)
 
@@ -80,7 +80,7 @@ This node will post a message in the channel with an attachment.
 :::
 In the screenshot below, you will notice that node sends a message with an attachment to the channel that we created in the previous node.
 
-![Using the Slack node to send a message with an attachment to a channel](./Slack2_node.png)
+![Using the Slack node to send a message with an attachment to a channel](REDACTED)
 
 ### 5. HTTP Request node (GET)
 
@@ -92,7 +92,7 @@ This node will fetch a file from a URL. You can also use the [Read Binary File](
 
 In the screenshot below, you will notice that the HTTP Request node fetches the file from the URL. This file gets passed on as binary data to the next node in the workflow.
 
-![Using the HTTP Request node to fetch a file from a URL](./HTTPRequest_node.png)
+![Using the HTTP Request node to fetch a file from a URL](REDACTED)
 
 ### 6. Slack3 node (upload: file)
 
@@ -109,7 +109,7 @@ This node will upload the file that we got from the previous node to a channel w
 
 In the screenshot below, you will notice that the node uploads the file to the channel that we created earlier.
 
-![Using the Slack node to upload a file to a channel](./Slack3_node.png)
+![Using the Slack node to upload a file to a channel](REDACTED)
 
 ## FAQs
 

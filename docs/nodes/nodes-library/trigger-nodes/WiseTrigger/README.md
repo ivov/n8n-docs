@@ -27,7 +27,7 @@ This workflow allows you to receive updates from Wise and add information of a t
 
 The final workflow should look like the following image.
 
-![A workflow with the Wise Trigger node](./workflow.png)
+![A workflow with the Wise Trigger node](REDACTED)
 
 ### 1. Wise Trigger node (transferStateChange)
 
@@ -40,7 +40,7 @@ This node will trigger the workflow when the status of your transfer changes.
 
 In the screenshot below, you will notice that the node triggers the workflow when a new order gets created.
 
-![Using the Wise Trigger node to trigger the workflow](./WiseTrigger_node.png)
+![Using the Wise Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Wise node (get: transfer)
 
@@ -55,7 +55,7 @@ This node will get the information about the transfer.
 :::
 In the screenshot below, you will notice that the node returns the information of the transfer.
 
-![Using the Wise node to retrieve the information of the transfer](./Wise_node.png)
+![Using the Wise node to retrieve the information of the transfer](REDACTED)
 
 ### 3. Set node
 
@@ -82,7 +82,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node sets the values of `Transfer ID`, `Date`, `Reference`, and `Amount`. These values are passed to the next node in the workflow.
 
-![Using the Set node to set the values](./Set_node.png)
+![Using the Set node to set the values](REDACTED)
 
 ### 4. Airtable node (Append)
 
@@ -96,7 +96,7 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Wise Trigger node.

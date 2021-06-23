@@ -24,7 +24,7 @@ This workflow allows you to list emails from Airtable and create corresponding l
 
 The final workflow should look like the following image.
 
-![A workflow with the Lemlist node](./workflow.png)
+![A workflow with the Lemlist node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will list all the records from Airtable. Create a table like [this](ht
 
 In the screenshot below, you will notice that the node returns the information of the leads.
 
-![Using the Airtable node to list data from an Airtable table](./Airtable_node.png)
+![Using the Airtable node to list data from an Airtable table](REDACTED)
 
 ### 3. Lemlist node (create: lead)
 
@@ -62,7 +62,7 @@ This node will create new leads for a campaign in Lemlist.
 
 In the screenshot below, you will notice that the node creates new leads in Lemlist.
 
-![Using the Lemlist node to create a new lead](./Lemlist_node.png)
+![Using the Lemlist node to create a new lead](REDACTED)
 
 ### 4. Lemlist node (get: lead)
 
@@ -77,4 +77,4 @@ This node will return the information of the leads that we created in the previo
 
 In the screenshot below, you will notice that the node returns the information about the leads we created in the previous node.
 
-![Using the Lemlist node to get information about the leads](./Lemlist1_node.png)
+![Using the Lemlist node to get information about the leads](REDACTED)

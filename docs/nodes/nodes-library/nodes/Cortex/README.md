@@ -23,7 +23,7 @@ This workflow allows you to analyze a URL and get the job details using the Cort
 
 The final workflow should look like the following image.
 
-![A workflow with the Cortex node](./workflow.png)
+![A workflow with the Cortex node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will analyze a URL. If you want to analyze a different observable type
 
 In the screenshot below, you will notice that the node starts the analysis of the URL.
 
-![Using the Cortex node to analyze a URL](./Cortex_node.png)
+![Using the Cortex node to analyze a URL](REDACTED)
 
 ### 3. Cortex1 node (job: get)
 
@@ -55,4 +55,4 @@ This node will return the job details for the analysis that we executed in the p
 :::
 In the screenshot below, you will notice that the node starts the analysis of the URL.
 
-![Using the Cortex node to get job details](./Cortex1_node.png)
+![Using the Cortex node to get job details](REDACTED)

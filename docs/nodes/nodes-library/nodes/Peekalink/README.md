@@ -25,7 +25,7 @@ This workflow allows you to check if preview for a link is available and return 
 
 The final workflow should look like the following image.
 
-![A workflow with the Peekalink node](./workflow.png)
+![A workflow with the Peekalink node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will check whether a preview for the specified link is available.
 
 In the screenshot below, you will notice that the node returns information about whether a preview for the specified link is available.
 
-![Using the Peekalink node to check whether preview for a given link is available](./Peekalink_node.png)
+![Using the Peekalink node to check whether preview for a given link is available](REDACTED)
 
 ### 3. IF node
 
@@ -58,7 +58,7 @@ This node will check the response from the previous node. If the previous node r
 
 In the screenshot below, you will notice that the node returns the data from the previous node for the `true` branch.
 
-![Using the IF node to check the response from the previous node](./IF_node.png)
+![Using the IF node to check the response from the previous node](REDACTED)
 
 ### 4. Peekalink node (preview)
 
@@ -74,7 +74,7 @@ This node will return the preview of the URL that you specified in the Peekalink
 
 In the screenshot below, you will notice that the node returns the preview of the URL that you specified in the Peekalink node.
 
-![Using the Peekalink node to get the preview of a URL](./Peekalink1_node.png)
+![Using the Peekalink node to get the preview of a URL](REDACTED)
 
 ### 5. NoOp node
 Adding this node here is optional, as the absence of this node won't make a difference to the functioning of the workflow. We've added this as it can sometimes help others with a better understanding of the workflow, visually.
@@ -84,4 +84,4 @@ Adding this node here is optional, as the absence of this node won't make a diff
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)

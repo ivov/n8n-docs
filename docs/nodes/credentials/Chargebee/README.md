@@ -22,4 +22,4 @@ Create a [Chargebee](https://www.chargebee.com/) account.
 5. Use selected API key and Account name in your Chargebee node credentials in n8n.
 
 
-![Getting Chargebee credentials](./using-access-token.gif)
+![Getting Chargebee credentials](REDACTED)

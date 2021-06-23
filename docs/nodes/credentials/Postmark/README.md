@@ -20,4 +20,4 @@ Create a [Postmark](https://postmarkapp.com/) account.
 4. Use the displayed ***Server API token*** with your Postmark API credentials in n8n.
 5. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Postmark credentials](./using-access-token.gif)
+![Getting Postmark credentials](REDACTED)

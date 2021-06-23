@@ -28,7 +28,7 @@ This workflow allows you to receive an email using the IMAP Email node. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the IMAP Email node](./workflow.png)
+![A workflow with the IMAP Email node](REDACTED)
 
 ### 1. IMAP Email node
 

@@ -23,7 +23,7 @@ This workflow allows you to send an alert on SIGNL4. You can also find the [work
 
 The final workflow should look like the following image.
 
-![A workflow with the SIGNL4 node](./workflow.png)
+![A workflow with the SIGNL4 node](REDACTED)
 
 ### 1. Start node
 

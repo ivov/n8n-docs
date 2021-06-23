@@ -23,7 +23,7 @@ This workflow allows you to tweet on Twitter. You can also find the [workflow](h
 
 The final workflow should look like the following image.
 
-![A workflow with the Twitter node](./workflow.png)
+![A workflow with the Twitter node](REDACTED)
 
 ### 1. Start node
 

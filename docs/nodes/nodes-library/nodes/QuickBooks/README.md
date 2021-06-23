@@ -23,7 +23,7 @@ This workflow allows you to create a customer and an invoice, and send the invoi
 
 The final workflow should look like the following image.
 
-![A workflow with the QuickBooks node](./workflow.png)
+![A workflow with the QuickBooks node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will create a new customer in QuickBooks.
 
 In the screenshot below, you will notice that the node creates a new customer.
 
-![Using the QuickBooks node to create a new customer](./QuickBooks_node.png)
+![Using the QuickBooks node to create a new customer](REDACTED)
 
 ### 3. QuickBooks1 node (create:invoice)
 
@@ -67,7 +67,7 @@ This node will create an invoice for the customer that we created in the previou
 :::
 In the screenshot below, you will notice that the node creates an invoice for the customer that we created in the previous node.
 
-![Using the QuickBooks node to create a new invoice](./QuickBooks1_node.png)
+![Using the QuickBooks node to create a new invoice](REDACTED)
 
 ### 4. QuickBooks2 node (send:invoice)
 
@@ -84,4 +84,4 @@ This node will send the invoice that we created in the previous node.
 
 In the screenshot below, you will notice that the node sends the invoice to the customer.
 
-![Using the QuickBooks node to send an invoice to a customer](./QuickBooks2_node.png)
+![Using the QuickBooks node to send an invoice to a customer](REDACTED)

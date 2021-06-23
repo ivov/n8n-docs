@@ -23,7 +23,7 @@ This workflow allows you to create a ticket on Freshdesk. You can also find the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Freshdesk node](./workflow.png)
+![A workflow with the Freshdesk node](REDACTED)
 
 ### 1. Start node
 

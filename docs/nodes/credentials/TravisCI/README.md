@@ -21,4 +21,4 @@ Create a [Travis CI](https://travis-ci.org/) account.
 5. Copy the ***Token*** from the ***API authentication*** section and use it with your Travis API credentials in n8n.
 6. Click on the ***Save*** button to save your credentials.
 
-![Getting Travis CI credentials](./using-access-token.gif)
+![Getting Travis CI credentials](REDACTED)

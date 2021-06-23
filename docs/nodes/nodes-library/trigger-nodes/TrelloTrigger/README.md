@@ -19,7 +19,7 @@ This workflow allows you to receive updates for changes in the specified list in
 
 The final workflow should look like the following image.
 
-![A workflow with the Trello Trigger node](./workflow.png)
+![A workflow with the Trello Trigger node](REDACTED)
 
 
 ### 1. Trello Trigger node

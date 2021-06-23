@@ -23,7 +23,7 @@ This workflow allows you to get information about all workbooks from Microsoft E
 
 The final workflow should look like the following image.
 
-![A workflow with the Microsoft Excel node](./workflow.png)
+![A workflow with the Microsoft Excel node](REDACTED)
 
 ### 1. Start node
 

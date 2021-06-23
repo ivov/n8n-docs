@@ -29,7 +29,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 9. Click on the circle button in the OAuth section to connect your Acuity Scheduling account to n8n.
 10. Click the ***Save*** button to save your credentials.
 
-![Getting Acuity Scheduling OAuth2 credentials](./using-oauth.gif)
+![Getting Acuity Scheduling OAuth2 credentials](REDACTED)
 
 
 ## Using Access Token
@@ -40,4 +40,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Copy the ***User ID*** and ***API Key*** from the pop-up that is displayed.
 5. Use these credentials with your Acuity Scheduling node credentials in n8n.
 
-![Getting Acuity Scheduling credentials](./using-access-token.gif)
+![Getting Acuity Scheduling credentials](REDACTED)

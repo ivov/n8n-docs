@@ -23,4 +23,4 @@ You can use these credentials to authenticate the following nodes with Rocket.Ch
 6. Copy the *Token* and enter that in the *Auth Key* field in n8n.
 7. Copy the *User Id* and enter that in the *User Id* field in n8n.
 
-![Getting Rocket.Chat credentials](./using-access-token.gif)
+![Getting Rocket.Chat credentials](REDACTED)

@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get an item from Webflow. You ca
 
 The final workflow should look like the following image.
 
-![A workflow with the Webflow node](./workflow.png)
+![A workflow with the Webflow node](REDACTED)
 
 ### 1. Start node
 
@@ -53,7 +53,7 @@ This node will create a new collection of the type `Team Members` in Webflow. If
 
 In the screenshot below, you will notice that the node creates a new item for the collection type `Team Members` in Webflow.
 
-![Using the Webflow node to create a new item](./Webflow_node.png)
+![Using the Webflow node to create a new item](REDACTED)
 
 
 ### 3. Webflow1 node (update: item)
@@ -85,13 +85,13 @@ Click on the ***Add Field*** button.
 22. Select the following in the ***Variable Selector*** section: Current Node > Input Data > JSON > _draft. You can also add the following expression: `{{$json["_draft"]}}`.
 23. Click on the ***Add Field*** button.
 24. Select 'Avatar (ImageRef)' from the ***Field ID*** dropdown list. If you're using a different collection type, select the field present in that collection.
-25. Enter `https://n8n.io/n8n-logo.png` in the ***Value*** field.
+25. Enter `httpsREDACTED` in the ***Value*** field.
 26. Click on ***Execute Node*** to run the node.
 :::
 
 In the screenshot below, you will notice that the node updates the item that got created previously.
 
-![Using the Webflow node to update an item](./Webflow1_node.png)
+![Using the Webflow node to update an item](REDACTED)
 
 ### 4. Webflow2 node (get: item)
 
@@ -107,4 +107,4 @@ This node will retrieve the information about the item that we created earlier.
 
 In the screenshot below, you will notice that the node retrieves the information of the item that we created earlier.
 
-![Using the Webflow node to retrieve the information of an item](./Webflow2_node.png)
+![Using the Webflow node to retrieve the information of an item](REDACTED)

@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get a document in the Google Clo
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Cloud Firestore node](./workflow.png)
+![A workflow with the Google Cloud Firestore node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ We will use the Set node to set the name and id.
 
 In the screenshot below, you will notice that node sets the value for name and id.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ### 3. Google Cloud Firestore node (document: create)
 
@@ -59,7 +59,7 @@ This node will create a new document in a collection in Google Cloud Firestore w
 
 In the screenshot below, you will notice that the node creates a new document using the data from the previous node.
 
-![Using the Google Cloud Firestore node to create new document](./GoogleCloudFirestore_node.png)
+![Using the Google Cloud Firestore node to create new document](REDACTED)
 
 ### 4. Set node
 
@@ -78,7 +78,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 
 In the screenshot below, you will notice that the node sets the values of `name` and `document_id`. These values are passed to the next node in the workflow.
 
-![Using the Set node to set the values for name and document_id](./Set1_node.png)
+![Using the Set node to set the values for name and document_id](REDACTED)
 
 ### 5. Google Cloud Firestore1 node (document: upsert)
 
@@ -97,7 +97,7 @@ This node will update the value of the `name` field in the document that we crea
 
 In the screenshot below, you will notice that the node updates the value of the `name` field in the document that we created using the Google Cloud Firestore node.
 
-![Using the Google Cloud Firestore node to update a document](./GoogleCloudFirestore1_node.png)
+![Using the Google Cloud Firestore node to update a document](REDACTED)
 
 ### 6. Google Cloud Firestore node (document: get)
 
@@ -116,4 +116,4 @@ This node will get the document that we created using the Google Cloud Firestore
 
 In the screenshot below, you will notice that the node returns the document that we created using the Google Cloud Firestore node.
 
-![Using the Google Cloud Firestore node to get a document](./GoogleCloudFirestore2_node.png)
+![Using the Google Cloud Firestore node to get a document](REDACTED)

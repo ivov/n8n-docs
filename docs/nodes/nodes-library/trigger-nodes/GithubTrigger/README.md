@@ -19,7 +19,7 @@ This workflow allows you to receive updates for GitHub events. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the GitHub Trigger node](./workflow.png)
+![A workflow with the GitHub Trigger node](REDACTED)
 
 
 ### 1. GitHub Trigger node

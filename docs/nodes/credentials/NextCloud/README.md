@@ -26,7 +26,7 @@ Create a [Nextcloud](https://nextcloud.com/) account.
 10. Click on the circle button in the OAuth section to connect a Nextcloud account to n8n.
 11. Click the *Save* button to save your credentials.
 
-![Getting Nextcloud OAuth credentials](./using-oauth.gif)
+![Getting Nextcloud OAuth credentials](REDACTED)
 
 ## Using Username and Password
 

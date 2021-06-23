@@ -23,7 +23,7 @@ This workflow allows you to get all messages with a certain label, remove the la
 
 The final workflow should look like the following image.
 
-![A workflow with the Gmail node](./workflow.png)
+![A workflow with the Gmail node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will return ten messages with the label `n8n` from Gmail. If you want 
 
 In the screenshot below, you will notice that the node returns ten email messages with the label `n8n`.
 
-![Using the Gmail node to get all messages with a particular label](./Gmail_node.png)
+![Using the Gmail node to get all messages with a particular label](REDACTED)
 
 
 ::: v-pre
@@ -62,7 +62,7 @@ This node will remove the label `n8n` from all the messages that you received in
 :::
 In the screenshot below, you will notice that the node removes the `n8n` label from the messages that we received from the previous node.
 
-![Using the Gmail node to remove a label from the messages](./Gmail1_node.png)
+![Using the Gmail node to remove a label from the messages](REDACTED)
 
 ::: v-pre
 ### 4. Gmail2 node (add: messageLabel)
@@ -78,7 +78,7 @@ This node will add a new label `nodemation` to the messages that we received fro
 :::
 In the screenshot below, you will notice that the node adds a new label `nodemation` to the messages that we received from the Gmail node.
 
-![Using the Gmail node to add a label to the messages](./Gmail2_node.png)
+![Using the Gmail node to add a label to the messages](REDACTED)
 
 ## FAQs
 

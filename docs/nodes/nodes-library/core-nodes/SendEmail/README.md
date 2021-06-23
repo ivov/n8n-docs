@@ -40,7 +40,7 @@ This workflow allows you to send an email using the Send Email node. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Send Email node](./workflow.png)
+![A workflow with the Send Email node](REDACTED)
 
 ### 1. Start node
 

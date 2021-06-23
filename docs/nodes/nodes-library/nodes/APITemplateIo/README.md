@@ -23,7 +23,7 @@ This workflow allows you to create an invoice with the information received via 
 
 The final workflow should look like the following image.
 
-![A workflow with the APITemplate.io node](./workflow.png)
+![A workflow with the APITemplate.io node](REDACTED)
 
 ### 1. Typeform Trigger node
 
@@ -43,7 +43,7 @@ This node will trigger the workflow when a form is submitted. Make sure to creat
 
 In the screenshot below, you will notice that the node triggers the workflow when the form is submitted. We will pass this information to the next nodes in the workflow.
 
-![Using the Typeform Trigger node to trigger the workflow when a form is submitted](./TypeformTrigger_node.png)
+![Using the Typeform Trigger node to trigger the workflow when a form is submitted](REDACTED)
 
 ### 2. APITemplate.io node (create: pdf)
 
@@ -85,7 +85,7 @@ This node will generate an invoice using the information from the previous node.
 
 In the screenshot below, you will notice that the node creates an invoice using the data from the previous node.
 
-![Using the APITemplate.io node to create an invoice](./APITemplate.io_node.png)
+![Using the APITemplate.io node to create an invoice](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Typeform Trigger node.

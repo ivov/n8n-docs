@@ -23,7 +23,7 @@ This workflow allows you to post a message to a channel in Rocket.Chat. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the Rocket.Chat node](./workflow.png)
+![A workflow with the Rocket.Chat node](REDACTED)
 
 ### 1. Start node
 

@@ -29,4 +29,4 @@ Create a [Line](https://line.me/en/) account.
 13. Click on the circle button in the OAuth section to connect a Line account to n8n.
 14. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Line credentials](./using-oauth.gif)
+![Getting Line credentials](REDACTED)

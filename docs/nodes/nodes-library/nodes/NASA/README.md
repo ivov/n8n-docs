@@ -24,7 +24,7 @@ This workflow allows you to send the Astronomy Picture of the day daily to a Tel
 
 The final workflow should look like the following image.
 
-![A workflow with the NASA node](./workflow.png)
+![A workflow with the NASA node](REDACTED)
 
 ### 1. Cron node
 
@@ -36,7 +36,7 @@ The Cron node will trigger the workflow daily at 8 PM.
 
 In the screenshot below, you will notice that the Cron node is configured to trigger the workflow every day at 8 PM.
 
-![Using the Cron node to trigger the workflow daily at 8 pm](./Cron_node.png)
+![Using the Cron node to trigger the workflow daily at 8 pm](REDACTED)
 
 ### 2. NASA node (get:astronomyPictureOfTheDay)
 
@@ -48,7 +48,7 @@ This node will return the Astronomy Picture of the Day.
 
 In the screenshot below, you will notice that the node returns data for the Astronomy Picture of the Day. This data will be used by the next node in the workflow.
 
-![Using the NASA node to get the Astronomy Picture of the Day](./NASA_node.png)
+![Using the NASA node to get the Astronomy Picture of the Day](REDACTED)
 
 ### 3. Telegram node (sendPhoto: message)
 
@@ -68,7 +68,7 @@ This node will send the picture that we receive from the previous node to a chan
 
 In the screenshot below, you will notice that the node sends the image with a caption to the channel that we specifiy.
 
-![Using the Telegram node to send the Astronomy Picture of the Day](./Telegram_node.png)
+![Using the Telegram node to send the Astronomy Picture of the Day](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Cron node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Cron node.

@@ -26,7 +26,7 @@ This workflow allows you to detect a face from an image using the AWS Rekognitio
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS Rekognition node](./workflow.png)
+![A workflow with the AWS Rekognition node](REDACTED)
 
 ### 1. Start node
 
@@ -37,13 +37,13 @@ The Start node exists by default when you create a new workflow.
 
 This example workflow uses the HTTP Request node to fetch an image from a URL. You can also use the [Read Binary File](../../core-nodes/ReadBinaryFile/README.md) node to read an image file from the path you specify.
 
-1. Enter the URL of the image in the ***URL*** field. For example, `https://n8n.io/_nuxt/img/04c67e5.png`.
+1. Enter the URL of the image in the ***URL*** field. For example, `httpsREDACTED`.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
 In the screenshot below, you will notice that the HTTP Request node fetches the image from the URL. This image gets passed on as binary data to the next node in the workflow.
 
-![Using the HTTP Request node to fetch an image from a URL](./HTTPRequest_node.png)
+![Using the HTTP Request node to fetch an image from a URL](REDACTED)
 
 
 ### 3. AWS Rekognition node (analyze: image)
@@ -56,4 +56,4 @@ This node will detect faces in the image that we fetched in the previous node. Y
 
 In the screenshot below, you will observe that the node detects the face in the image that we got from the HTTP Request node.
 
-![Using the AWS Rekognition node to detect faces in an image](./AWSRekognition_node.png)
+![Using the AWS Rekognition node to detect faces in an image](REDACTED)

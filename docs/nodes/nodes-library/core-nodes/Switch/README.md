@@ -45,7 +45,7 @@ This workflow executes four different Set nodes based on the output given by a S
 
 The final workflow should look like the following image.
 
-![A workflow with the Switch node](./workflow.png)
+![A workflow with the Switch node](REDACTED)
 
 ### 1. Start node
 
@@ -76,7 +76,7 @@ return [
 ```
 2. Click on ***Execute Node*** to run the workflow.
 
-![Using the Function node to send data to the Switch node](./Function_node.png)
+![Using the Function node to send data to the Switch node](REDACTED)
 
 
 ### 3. Switch node
@@ -97,7 +97,7 @@ return [
 13. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Switch node to conditionally execute based on the input](./Switch_node.png)
+![Using the Switch node to conditionally execute based on the input](REDACTED)
 
 
 ### 4. Set node (for '0' route)
@@ -110,7 +110,7 @@ return [
 
 **Note:** Notice that only the id with the value 0 made its way to this ***Set*** node.
 
-![Using the Set node to set value for route 1](./Set_node.png)
+![Using the Set node to set value for route 1](REDACTED)
 
 
 ### 5. Set1 node (for '1' route)
@@ -123,7 +123,7 @@ return [
 
 **Note:** Notice that only the id with the value 1 made its way to this ***Set*** node.
 
-![Using the Set node to set value for route 1](./Set1_node.png)
+![Using the Set node to set value for route 1](REDACTED)
 
 ### 6. Set2 node (for '2' route)
 
@@ -135,7 +135,7 @@ return [
 
 **Note:** Notice that only the id with the value 2 made its way to this ***Set*** node.
 
-![Using the Set node to set value for route 2](./Set2_node.png)
+![Using the Set node to set value for route 2](REDACTED)
 
 ### 7. NoOp node (for '3' route)
 
@@ -144,7 +144,7 @@ return [
 
 **Note:** Notice that none of the ids made their way to this node since the values of the all the ids were either 0, 1, or 2.
 
-![Using the NoOp node for route 3](./NoOp_node.png)
+![Using the NoOp node for route 3](REDACTED)
 
 ## Further Reading
 

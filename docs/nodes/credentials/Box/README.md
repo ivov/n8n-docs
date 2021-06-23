@@ -29,4 +29,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 10. Click on the circle button in the OAuth section to connect a Box account to n8n.
 11. Click the *Save* button to save your credentials in n8n.
 
-![Getting Box credentials](./using-oauth.gif)
+![Getting Box credentials](REDACTED)

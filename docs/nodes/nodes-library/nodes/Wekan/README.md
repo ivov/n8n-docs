@@ -23,7 +23,7 @@ This workflow allows you to create a board and two lists called `To Do` and `Don
 
 The final workflow should look like the following image.
 
-![A workflow with the Wekan node](./workflow.png)
+![A workflow with the Wekan node](REDACTED)
 
 ::: v-pre
 ### 1. Start node
@@ -45,7 +45,7 @@ This node will create a board called `Documentation` in Wekan. To create a board
 In the screenshot below, you will notice that the node creates a new board with the title `Documentation`.
 :::
 
-![Using the Wekan node to create a board](./Wekan_node.png)
+![Using the Wekan node to create a board](REDACTED)
 
 ::: v-pre
 ### 3. Wekan1 node (create: list)
@@ -62,7 +62,7 @@ This node will create a list with the title `To Do` in the `Documentation` board
 In the screenshot below, you will notice that the node creates a new list called `To Do` in the `Documentation` board.
 :::
 
-![Using the Wekan node to create a list with the title To Do](./Wekan1_node.png)
+![Using the Wekan node to create a list with the title To Do](REDACTED)
 
 ::: v-pre
 ### 4. Wekan2 node (create: list)
@@ -79,7 +79,7 @@ This node will create a list with the title `Done` in the `Documentation` board,
 In the screenshot below, you will notice that the node creates a new list called `Done` in the `Documentation` board.
 :::
 
-![Using the Wekan node to create a list with the title Done](./Wekan2_node.png)
+![Using the Wekan node to create a list with the title Done](REDACTED)
 
 ::: v-pre
 ### 5. Wekan3 node (create: card)
@@ -99,7 +99,7 @@ This node will create a card in the `Documentation` board under the list titled 
 In the screenshot below, you will notice that the node creates a new card with the title `Document Wekan node` in the `To Do` list of the `Documentation` board.
 :::
 
-![Using the Wekan node to create a card in the To Do list](./Wekan3_node.png)
+![Using the Wekan node to create a card in the To Do list](REDACTED)
 
 ::: v-pre
 ### 6. Wekan4 node (update: card)
@@ -122,7 +122,7 @@ This node will update the list ID of the card created by the previous node and m
 In the screenshot below, you will notice that the node updates the list id of the card that we created in the previous node and moves it from the `To Do` list to the `Done` list.
 :::
 
-![Using the Wekan node to update the card](./Wekan4_node.png)
+![Using the Wekan node to update the card](REDACTED)
 
 
 ## FAQs

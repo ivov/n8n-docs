@@ -19,7 +19,7 @@ This workflow allows you to receive updates for events in Calendly. You can also
 
 The final workflow should look like the following image.
 
-![A workflow with the Calendly Trigger node](./workflow.png)
+![A workflow with the Calendly Trigger node](REDACTED)
 
 
 ### 1. Calendly Trigger node

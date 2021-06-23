@@ -23,7 +23,7 @@ This workflow allows you to create a contact in ActiveCampaign. You can also fin
 
 The final workflow should look like the following image.
 
-![A workflow with the ActiveCampaign node](./workflow.png)
+![A workflow with the ActiveCampaign node](REDACTED)
 
 ### 1. Start node
 

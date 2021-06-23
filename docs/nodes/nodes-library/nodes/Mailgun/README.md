@@ -24,7 +24,7 @@ This workflow allows you to send an email using Mailgun. You can also find the [
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailgun node](./workflow.png)
+![A workflow with the Mailgun node](REDACTED)
 
 ### 1. Start node
 

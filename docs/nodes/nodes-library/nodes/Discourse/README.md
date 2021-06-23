@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get a post using the Discourse n
 
 The final workflow should look like the following image.
 
-![A workflow with the Discourse node](./workflow.png)
+![A workflow with the Discourse node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a post under the `Lounge` category. If you want to create 
 
 In the screenshot below, you will notice that the node creates a new topic under the category `Lounge`.
 
-![Using the Discourse node to create a topic](./Discourse_node.png)
+![Using the Discourse node to create a topic](REDACTED)
 
 ### 3. Discourse1 node (update: post)
 
@@ -58,7 +58,7 @@ This node will update the content of the post that we created in the previous no
 :::
 In the screenshot below, you will notice that the node updates the content of the post that we created in the previous node.
 
-![Using the Discourse node to update a post](./Discourse1_node.png)
+![Using the Discourse node to update a post](REDACTED)
 
 ### 4. Discourse2 node (get: post)
 
@@ -72,4 +72,4 @@ This node will retrieve the post that we updated previously.
 :::
 In the screenshot below, you notice that the node retrieves the post that we created earlier.
 
-![Using the Discourse node to get a post](./Discourse2_node.png)
+![Using the Discourse node to get a post](REDACTED)

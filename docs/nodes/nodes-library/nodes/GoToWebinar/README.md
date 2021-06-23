@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a webinar. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the GoToWebinar node](./workflow.png)
+![A workflow with the GoToWebinar node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will create a new webinar in GoToWebinar.
 
 In the screenshot below, you will notice that the node creates a new webinar.
 
-![Using the GoToWebinar node to create a new webinar](./GoToWebinar_node.png)
+![Using the GoToWebinar node to create a new webinar](REDACTED)
 
 ### 3. GoToWebinar1 node (update: webinar)
 
@@ -62,7 +62,7 @@ This node will update the description of the webinar that we created in the prev
 :::
 In the screenshot below, you will notice that the node updates the description of the webinar that we created in the previous node.
 
-![Using the GoToWebinar node to update a webinar](./GoToWebinar1_node.png)
+![Using the GoToWebinar node to update a webinar](REDACTED)
 
 ### 4. GoToWebinar2 node (get: webinar)
 
@@ -78,4 +78,4 @@ This node will get the information about the webinar that we created earlier.
 
 In the screenshot below, you will notice that the node returns the information about the webinar.
 
-![Using the GoToWebinar node to get information of a webinar](./GoToWebinar2_node.png)
+![Using the GoToWebinar node to get information of a webinar](REDACTED)

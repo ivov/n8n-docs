@@ -24,7 +24,7 @@ This workflow allows you to send a message to a channel on Twake. You can also f
 
 The final workflow should look like the following image.
 
-![A workflow with the Twake node](./workflow.png)
+![A workflow with the Twake node](REDACTED)
 
 ### 1. Start node
 
@@ -38,4 +38,4 @@ The start node exists by default when you create a new workflow.
 3. Enter the content of the message in the ***Content*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the Twake node to send a message](./Twake_node.png)
+![Using the Twake node to send a message](REDACTED)

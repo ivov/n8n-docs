@@ -49,7 +49,7 @@ This workflow executes two different *Set* nodes based on the output given by an
 
 The final workflow should look like the following image.
 
-![A workflow with the IF node](./workflow.png)
+![A workflow with the IF node](REDACTED)
 
 ### 1. Start node
 
@@ -75,7 +75,7 @@ return [
 ```
 2. Click on ***Execute Node*** to run the workflow.
 
-![Using the Function node to send data to the IF node](./Function_node.png)
+![Using the Function node to send data to the IF node](REDACTED)
 
 
 ### 3. IF node
@@ -88,7 +88,7 @@ return [
 5. Click on ***Execute Node*** to run the workflow.
 :::
 
-![Using the IF node to conditionally execute based on the input](./IF_node.png)
+![Using the IF node to conditionally execute based on the input](REDACTED)
 
 
 ### 4. Set node (for 'true' condition)
@@ -101,7 +101,7 @@ return [
 
 **Note:** Notice that only the id with the value 0 made its way to this *Set* node.
 
-![Using the Set node to set a value when the condition is true](./Set_node.png)
+![Using the Set node to set a value when the condition is true](REDACTED)
 
 
 ### 5. Set1 node (for 'false' condition)
@@ -114,7 +114,7 @@ return [
 
 **Note:** Notice that only the id with the value 1 made its way to this *Set* node.
 
-![Using the Set node to set a value when the condition is false](./Set1_node.png)
+![Using the Set node to set a value when the condition is false](REDACTED)
 
 ## Further Reading
 

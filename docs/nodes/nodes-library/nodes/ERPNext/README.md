@@ -29,7 +29,7 @@ This workflow allows you to create, update, and retrieve a document from ERPNext
 
 The final workflow should look like the following image.
 
-![A workflow with the ERPNext node](./workflow.png)
+![A workflow with the ERPNext node](REDACTED)
 
 ### 1. Start node
 
@@ -55,7 +55,7 @@ This node will create a new document in ERPNext.
 
 In the screenshot below, you will notice that the node creates a new item with the name `item 1`.
 
-![Using the ERPNext node to create a new item](./ERPNext_node.png)
+![Using the ERPNext node to create a new item](REDACTED)
 
 ### 3. ERPNext1 node (document: addContact)
 
@@ -73,7 +73,7 @@ This node will add the `Item Tax` property to the item that we created in the pr
 :::
 In the screenshot below, you will notice that the node adds the Item Tax property to the item that we created in the previous node.
 
-![Using the ERPNext node to update an item](./ERPNext1_node.png)
+![Using the ERPNext node to update an item](REDACTED)
 
 ### 4. ERPNext2 node (document: get)
 
@@ -89,4 +89,4 @@ This node will get the information about the item that we created earlier.
 
 In the screenshot below, you will notice that the node returns the information of the item.
 
-![Using the ERPNext node to return the information an item](./ERPNext2_node.png)
+![Using the ERPNext node to return the information an item](REDACTED)

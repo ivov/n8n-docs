@@ -23,7 +23,7 @@ This workflow allows you to create, update and send a message to a channel in Mi
 
 The final workflow should look like the following image.
 
-![A workflow with the Microsoft Teams node](./workflow.png)
+![A workflow with the Microsoft Teams node](REDACTED)
 
 ### 1. Start node
 
@@ -36,7 +36,7 @@ The start node exists by default when you create a new workflow.
 3. Enter a name for the channel in the ***Name*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Create a channel with the Microsoft Teams node](./MicrosoftTeams_node.png)
+![Create a channel with the Microsoft Teams node](REDACTED)
 
 ::: v-pre
 ### 3. Microsoft Teams1 node (update: channel)
@@ -51,7 +51,7 @@ The start node exists by default when you create a new workflow.
 8. Enter a new channel name in the ***Name*** field.
 9. Click on ***Execute Node*** to run the node.
 
-![Update a Channel with the Microsoft Teams node](./MicrosoftTeams1_node.png)
+![Update a Channel with the Microsoft Teams node](REDACTED)
 :::
 
 ::: v-pre
@@ -67,5 +67,5 @@ The start node exists by default when you create a new workflow.
 8. Enter a message in the ***Message*** field.
 9. Click on ***Execute Node*** to run the node.
 
-![Send a message with the Microsoft Teams node](./MicrosoftTeams2_node.png)
+![Send a message with the Microsoft Teams node](REDACTED)
 :::

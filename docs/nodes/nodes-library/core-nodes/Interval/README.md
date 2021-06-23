@@ -18,7 +18,7 @@ The Interval node has two fields:
     - Minutes
     - Hours
 
-![A workflow with the Interval node](./workflow.png)
+![A workflow with the Interval node](REDACTED)
 
 ## Further Reading
 

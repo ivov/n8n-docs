@@ -34,7 +34,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 13. Click on the circle button in the OAuth section of n8n to connect a Webflow account to n8n.
 14. Click on the ***Save*** button to save your credentials.
 
-![Getting Webflow OAuth credentials](./using-oauth.gif)
+![Getting Webflow OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -46,4 +46,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 6. Scroll down and click generate API token.
 7. Use the api token with your Webflow node credentials in n8n.
 
-![Getting Webflow credentials](./using-access-token.gif)
+![Getting Webflow credentials](REDACTED)

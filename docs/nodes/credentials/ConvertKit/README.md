@@ -21,4 +21,4 @@ Create a [ConvertKit](https://convertkit.com/) account.
 4. Use the access token in the ***API Secret*** section with your ConvertKit API credentials in n8n.
 5. Click on the ***Save*** button to save your credentials.
 
-![Getting ConvertKit access token](./using-access-token.gif)
+![Getting ConvertKit access token](REDACTED)

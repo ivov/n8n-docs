@@ -21,4 +21,4 @@ Create a [Mailjet](https://www.mailjet.com/) account.
 4. Under REST API, click on 'Master API Key & Sub API key management'.
 5. Use the API key and Secret Key with Mailjet node credentials in n8n.
 
-![Getting Mailjet credentials](./using-access-token.gif)
+![Getting Mailjet credentials](REDACTED)

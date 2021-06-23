@@ -25,7 +25,7 @@ This workflow allows you to post an article to a publication on Medium. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the Medium node](./workflow.png)
+![A workflow with the Medium node](REDACTED)
 
 ### 1. Start node
 

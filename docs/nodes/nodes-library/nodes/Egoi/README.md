@@ -28,7 +28,7 @@ This workflow allows you to create, update, and get a contact using the E-goi no
 
 The final workflow should look like the following image.
 
-![A workflow with the E-goi node](./workflow.png)
+![A workflow with the E-goi node](REDACTED)
 
 ### 1. Start node
 
@@ -47,7 +47,7 @@ This node will create a new contact in E-goi. We will add the first name of the 
 
 In the screenshot below, you will notice that the node creates a new contact with their first name and email.
 
-![Using the E-goi node to create a new contact](./e-goi_node.png)
+![Using the E-goi node to create a new contact](REDACTED)
 
 ### 3. E-goi1 node (update: contact)
 
@@ -66,7 +66,7 @@ This node will update the information of the contact that we created in the prev
 
 In the screenshot below, you will notice that the node updates the information of the contact that we created in the previous node. Here, the node has updated the first name of the contact.
 
-![Using the E-goi node to update the contact](./e-goi1_node.png)
+![Using the E-goi node to update the contact](REDACTED)
 
 ### 3. E-goi2 node (get: contact)
 
@@ -84,4 +84,4 @@ This node will return the information of the contact that we created using the E
 
 In the screenshot below, you will notice that the node returns the information of the contact that we created using the E-goi node.
 
-![Using the E-goi node to get the information of the contact](./e-goi2_node.png)
+![Using the E-goi node to get the information of the contact](REDACTED)

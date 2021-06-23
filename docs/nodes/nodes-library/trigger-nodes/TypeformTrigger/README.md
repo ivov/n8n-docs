@@ -22,7 +22,7 @@ This workflow allows you to store the response of a form submission to Airtable 
 
 The final workflow should look like the following image.
 
-![A workflow with the Typeform Trigger node](./workflow.png)
+![A workflow with the Typeform Trigger node](REDACTED)
 
 
 ### 1. Typeform Trigger node
@@ -42,7 +42,7 @@ This example workflow uses a Typeform to collect name and email address. Create 
 
 In the screenshot below, you will notice that the Typeform Trigger node triggers the workflow and returns the response submitted by a user.
 
-![Using the Typeform Trigger node to trigger the workflow](./TypeformTrigger_node.png)
+![Using the Typeform Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Set node
 
@@ -61,7 +61,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node sets the values of `Name` and `Email`. These values are passed to the next node in the workflow.
 
-![Using the Set node to set the values](./Set_node.png)
+![Using the Set node to set the values](REDACTED)
 
 ### 3. Airtable node (Append)
 
@@ -75,7 +75,7 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)
 
 ### 4. Slack node (post: message)
 
@@ -94,7 +94,7 @@ Email: {{$node["Set"].json["Email"]}}
 
 In the screenshot below, you will notice that the node sends a message with the new form response on Slack.
 
-![Using the Slack node to send a message to channel](./Slack_node.png)
+![Using the Slack node to send a message to channel](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Typeform Trigger node.

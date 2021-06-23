@@ -24,4 +24,4 @@ Create a [Twake](https://twake.app/) account.
 8. Click on ***Configure*** and copy the Workspace Key.
 9. Use the Workspace Key with your Twake node credentials in n8n.
 
-![Getting Twake workspace key](./using-workspace-key.gif)
+![Getting Twake workspace key](REDACTED)

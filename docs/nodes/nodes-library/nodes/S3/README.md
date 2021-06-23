@@ -26,7 +26,7 @@ This workflow allows you to upload a file to an S3 compatible server and get a l
 
 The final workflow should look like the following image.
 
-![A workflow with the S3 node](./workflow.png)
+![A workflow with the S3 node](REDACTED)
 
 ### 1. Start node
 
@@ -39,7 +39,7 @@ The start node exists by default when you create a new workflow.
 2. Select 'File' from the ***Response Format*** field.
 3. Click on ***Execute Node*** to run the node.
 
-![Using the HTTP Request node to get a file](./HTTPRequest_node.png)
+![Using the HTTP Request node to get a file](REDACTED)
 
 
 ### 3. S3 node (upload: file)
@@ -53,7 +53,7 @@ The start node exists by default when you create a new workflow.
 6. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the S3 node to upload a file to a bucket](./S3_node.png)
+![Using the S3 node to upload a file to a bucket](REDACTED)
 
 ### 4. S node (getAll: file)
 
@@ -63,4 +63,4 @@ The start node exists by default when you create a new workflow.
 4. Toggle ***Return All*** to true.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the S3 node to get a list of all the files in a bucket](./S_node.png)
+![Using the S3 node to get a list of all the files in a bucket](REDACTED)

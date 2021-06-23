@@ -28,4 +28,4 @@ Install [Gotify](https://gotify.net/docs/install) on your server.
 10. Use the App Token, Client Token, and the Host URL with your Gotify API credentials in n8n.
 11. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Gotify credentials](./using-api.gif)
+![Getting Gotify credentials](REDACTED)

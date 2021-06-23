@@ -36,7 +36,7 @@ This workflow allows you to get all the stories that have the slug starting with
 
 The final workflow should look like the following image.
 
-![A workflow with the Storyblok node](./workflow.png)
+![A workflow with the Storyblok node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ The start node exists by default when you create a new workflow.
 
 ### 2. Storyblok node (getAll: story)
 
-This node will get all the stories that have a slug starting with `release`. 
+This node will get all the stories that have a slug starting with `release`.
 
 1. Select 'Management API' from the ***Source*** dropdown list.
 2. You'll have to enter credentials for the Storyblok node. You can find out how to do that [here](../../../credentials/Storyblok/README.md).
@@ -56,7 +56,7 @@ This node will get all the stories that have a slug starting with `release`.
 
 In the screenshot below, you will notice that the node returns all the stories that have a slug starting with `release`.
 
-![Using the Storyblok node to get filtered stories](./Storyblok_node.png)
+![Using the Storyblok node to get filtered stories](REDACTED)
 
 
 ::: v-pre
@@ -76,4 +76,4 @@ This node will publish the stories that were returned by the previous node.
 
 In the screenshot below, you will notice that the node publishes the stories that were returned by the previous node.
 
-![Using the Storyblok node to publish stories](./Storyblok1_node.png)
+![Using the Storyblok node to publish stories](REDACTED)

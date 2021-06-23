@@ -21,4 +21,4 @@ Create a [Rundeck](https://www.rundeck.com/) account.
 5. Click on 'Show Token' to reveal the token you generated.
 5. Use the API token with your Rundeck node credentials in n8n.
 
-![Getting Rundeck credentials](./using-access-token.gif)
+![Getting Rundeck credentials](REDACTED)

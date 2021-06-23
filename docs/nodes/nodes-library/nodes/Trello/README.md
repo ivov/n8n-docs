@@ -23,7 +23,7 @@ This workflow allows you to create a new card in Trello. You can also find the [
 
 The final workflow should look like the following image.
 
-![A workflow with the Trello node](./workflow.png)
+![A workflow with the Trello node](REDACTED)
 
 ### 1. Start node
 

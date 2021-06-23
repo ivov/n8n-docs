@@ -21,4 +21,4 @@ Create a [Paddle](https://paddle.com/) account.
 5. Use the displayed ***vendor_id*** and ***Auth Code*** with your Paddle API credentials in n8n.
 6. Click on the ***Save*** button to save your credentials.
 
-![Getting Paddle credentials](./using-access-token.gif)
+![Getting Paddle credentials](REDACTED)

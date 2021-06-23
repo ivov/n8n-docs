@@ -11,7 +11,7 @@ You can use these credentials to authenticate the following nodes with CircleCI.
 
 ## Prerequisites
 
-Create a [CircleCI](https://circleci.com/) account. 
+Create a [CircleCI](https://circleci.com/) account.
 
 ## Using Access Token
 
@@ -21,4 +21,4 @@ Create a [CircleCI](https://circleci.com/) account.
 4. Type in a name for your token and click on the *Add API Token* button.
 5. Copy the generated API Token and use it with your CircleCI API node credentials in n8n.
 
-![Getting CircleCI credentials](./using-access-token.gif)
+![Getting CircleCI credentials](REDACTED)

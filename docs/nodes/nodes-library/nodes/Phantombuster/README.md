@@ -25,7 +25,7 @@ This workflow allows you to store the output of a phantom in Airtable. You can a
 
 The final workflow should look like the following image.
 
-![A workflow with the Phantombuster node](./workflow.png)
+![A workflow with the Phantombuster node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ Create and launch the [LinkedIn Profile Scraper](https://phantombuster.com/autom
 
 In the screenshot below, you will notice that the node returns the output from the LinkedIn Profile Scraper phantom.
 
-![Using the Phantombuster node to get the output of a phantom](./Phantombuster_node.png)
+![Using the Phantombuster node to get the output of a phantom](REDACTED)
 
 ### 3. Set node
 
@@ -66,7 +66,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node uses the data from the previous node and returns the data that we set for the workflow.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ## 4. Airtable node (Append)
 
@@ -80,4 +80,4 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)

@@ -31,7 +31,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 11. Click on the circle button in the OAuth section of n8n to connect a PagerDuty account to n8n.
 12. Click on the ***Save*** button to save your credentials.
 
-![Getting PagerDuty OAuth credentials](./using-oauth.gif)
+![Getting PagerDuty OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -41,4 +41,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Create a new API key.
 5. Use this API key with your PagerDuty node credentials in n8n.
 
-![Getting PagerDuty credentials](./using-access-token.gif)
+![Getting PagerDuty credentials](REDACTED)

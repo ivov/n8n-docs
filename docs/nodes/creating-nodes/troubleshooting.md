@@ -6,7 +6,7 @@
 
 Ensure that the name in the credentials array matches the name used in the property name of the credentials' class.
 
-![Troubleshooting credentials](./images/troubleshooting-credentials-1.png)
+![Troubleshooting credentials](REDACTED)
 
 
 ## Editor UI

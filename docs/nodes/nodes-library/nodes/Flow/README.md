@@ -23,7 +23,7 @@ This workflow allows you to get all the tasks in Flow. You can also find the [wo
 
 The final workflow should look like the following image.
 
-![A workflow with the Flow node](./workflow.png)
+![A workflow with the Flow node](REDACTED)
 
 ### 1. Start node
 

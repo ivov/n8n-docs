@@ -19,4 +19,4 @@ Create a [Mandrill](https://mandrillapp.com/login/) account.
 3. Click on the *+ New API Key* button and create a new API Key.
 4. Use the key with your Mandrill API credentials in n8n.
 
-![Getting Mandrill credentials](./using-api-key.gif)
+![Getting Mandrill credentials](REDACTED)

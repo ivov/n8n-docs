@@ -24,7 +24,7 @@ This workflow allows you to upload a video, create a playlist, and add the video
 
 The final workflow should look like the following image.
 
-![A workflow with the Gmail node](./workflow.png)
+![A workflow with the Gmail node](REDACTED)
 
 ### 1. Start node
 
@@ -35,7 +35,7 @@ The start node exists by default when you create a new workflow.
 1. Enter the path to the video file you want to upload in the ***File Path*** field.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the Read Binary File node to get the video](./ReadBinaryFile_node.png)
+![Using the Read Binary File node to get the video](REDACTED)
 
 
 ::: v-pre
@@ -50,7 +50,7 @@ The start node exists by default when you create a new workflow.
 7. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the YouTube node to upload a video](./YouTube_node.png)
+![Using the YouTube node to upload a video](REDACTED)
 
 
 ::: v-pre
@@ -63,7 +63,7 @@ The start node exists by default when you create a new workflow.
 5. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the YouTube node to create a playlist](./YouTube1_node.png)
+![Using the YouTube node to create a playlist](REDACTED)
 
 
 ::: v-pre
@@ -77,7 +77,7 @@ The start node exists by default when you create a new workflow.
 6. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the YouTube node to add the video to the playlist](./YouTube2_node.png)
+![Using the YouTube node to add the video to the playlist](REDACTED)
 
 ## Further Reading
 

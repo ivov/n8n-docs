@@ -17,7 +17,7 @@ This workflow allows you to assign values to variables using the Set node. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Set node](./workflow.png)
+![A workflow with the Set node](REDACTED)
 
 ### 1. Start node
 

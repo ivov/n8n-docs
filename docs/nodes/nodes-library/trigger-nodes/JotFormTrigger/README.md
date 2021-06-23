@@ -19,7 +19,7 @@ This workflow allows you to receive updates for form events in JotForm. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the JotForm Trigger node](./workflow.png)
+![A workflow with the JotForm Trigger node](REDACTED)
 
 
 ### 1. JotForm Trigger node

@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a form is submitted in Wufoo. Y
 
 The final workflow should look like the following image.
 
-![A workflow with the Wufoo Trigger node](./workflow.png)
+![A workflow with the Wufoo Trigger node](REDACTED)
 
 ### 1. Wufoo Trigger node
 

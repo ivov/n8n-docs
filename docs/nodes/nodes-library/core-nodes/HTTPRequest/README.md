@@ -44,7 +44,7 @@ This workflow allows you to GET a sample list of users from [reqres.in](https://
 
 The final workflow should look like the following image.
 
-![A workflow with the HTTP Request node](./workflow.png)
+![A workflow with the HTTP Request node](REDACTED)
 
 ### 1. Start node
 
@@ -56,7 +56,7 @@ The start node exists by default when you create a new workflow.
 1. Enter `https://reqres.in/api/users` in the ***URL*** field.
 2. Click on ***Execute Node*** to run the workflow.
 
-![Get a list of sample users using the HTTP Request node](./HTTPRequest_node.png)
+![Get a list of sample users using the HTTP Request node](REDACTED)
 
 
 ### 3. HTTP Request1 node (POST)
@@ -71,7 +71,7 @@ The start node exists by default when you create a new workflow.
 8. Enter `Programmer` in the ***Value*** field.
 9. Click on ***Execute Node*** to run the workflow.
 
-![Create a user using the HTTP Request node](./HTTPRequest1_node.png)
+![Create a user using the HTTP Request node](REDACTED)
 
 
 ### 4. HTTP Request2 node (PATCH)
@@ -86,13 +86,13 @@ The start node exists by default when you create a new workflow.
 8. Enter `The Chosen One` in the ***Value*** field.
 9. Click on ***Execute Node*** to run the workflow.
 
-![Update a user using the HTTP Request node](./HTTPRequest2_node.png)
+![Update a user using the HTTP Request node](REDACTED)
 
 ## FAQs
 
 ### How to fetch a binary file from a URL?
 
-1. Enter the URL of the file in the ***URL*** field. For example, you can enter `https://n8n.io/n8n-logo.png` to fetch the n8n logo.
+1. Enter the URL of the file in the ***URL*** field. For example, you can enter `httpsREDACTED` to fetch the n8n logo.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. (Optional) Change the binary property value in the ***Binary Property*** field. Throughout the workflow, you can refer to the binary data with the value you set in this field.
 4. Click on ***Execute Node*** to run the node.

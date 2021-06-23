@@ -23,7 +23,7 @@ This workflow allows you to create, update and get a task in Microsoft To Do. Yo
 
 The final workflow should look like the following image.
 
-![A workflow with the Microsoft To Do node](./workflow.png)
+![A workflow with the Microsoft To Do node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a task with the importance level `High` in the Tasks list.
 
 In the screenshot below, you will notice that the node creates a new task in Microsoft To Do.
 
-![Create a task with the Microsoft To Do node](./MicrosoftToDo_node.png)
+![Create a task with the Microsoft To Do node](REDACTED)
 
 ### 3. Microsoft To Do1 node (update: task)
 
@@ -63,7 +63,7 @@ This node will update the status of the task that we created in the previous nod
 
 In the screenshot below, you will notice that the node updates the status of the task that we created in the previous node.
 
-![Update the status of a task using the Microsoft To Do node](./MicrosoftToDo1_node.png)
+![Update the status of a task using the Microsoft To Do node](REDACTED)
 
 ### 4. Microsoft To Do2 node (get: task)
 
@@ -80,4 +80,4 @@ This node will get the task that we created earlier.
 
 In the screenshot below, you will notice that the node fetches the information of the task that we created earlier.
 
-![Retrieve the information of tasks using the Microsoft To Do node](./MicrosoftToDo2_node.png)
+![Retrieve the information of tasks using the Microsoft To Do node](REDACTED)

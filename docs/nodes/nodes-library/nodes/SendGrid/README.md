@@ -23,7 +23,7 @@ This workflow allows you to create, update and get a contact using the SendGrid 
 
 The final workflow should look like the following image.
 
-![A workflow with the SendGrid node](./workflow.png)
+![A workflow with the SendGrid node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a contact in SendGrid.
 
 In the screenshot below, you will notice that the node creates contact with their first name.
 
-![Using the SendGrid node to create a new contact](./SendGrid_node.png)
+![Using the SendGrid node to create a new contact](REDACTED)
 
 ### 3. SendGrid1 node (upsert:contact)
 
@@ -61,7 +61,7 @@ This node will update the contact that we created in the previous node.
 :::
 In the screenshot below, you will notice that the node updates the contact that we created in the previous node.
 
-![Using the SendGrid node to update a contact](./SendGrid1_node.png)
+![Using the SendGrid node to update a contact](REDACTED)
 
 ### 4. SendGrid2 node (get:contact)
 
@@ -78,4 +78,4 @@ This node will return the information of the contact that we created using the S
 
 In the screenshot below, you will notice that the node returns the information of the contact that we created using the SendGrid node.
 
-![Using the SendGrid node to get information of a contact](./SendGrid2_node.png)
+![Using the SendGrid node to get information of a contact](REDACTED)

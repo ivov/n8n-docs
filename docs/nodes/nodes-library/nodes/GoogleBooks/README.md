@@ -23,7 +23,7 @@ This workflow allows you to get a volume and add it to your bookshelf using the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Books node](./workflow.png)
+![A workflow with the Google Books node](REDACTED)
 
 ### 1. Start node
 
@@ -40,7 +40,7 @@ This node will retrieve a volume from Google Books.
 
 In the screenshot below, you will observe that the node retrieves the information of the volume that we specify.
 
-![Using the Google Books node to retrieve information of a volume](./GoogleBooks_node.png)
+![Using the Google Books node to retrieve information of a volume](REDACTED)
 
 ### 3. Google Books1 node (add: bookshelfVolume)
 
@@ -57,7 +57,7 @@ This node will add the volume that we got from the previous node to a bookshelf 
 :::
 In the screenshot below, you will notice that this node adds the volume that we got from the previous node to a bookshelf that we specified.
 
-![Using the Google Books node to add a volume to a bookshelf volume](./GoogleBooks1_node.png)
+![Using the Google Books node to add a volume to a bookshelf volume](REDACTED)
 
 ### 4. Google Books2 node (getAll: bookshelfVolume)
 
@@ -74,4 +74,4 @@ This node will return all the volumes in a bookshelf.
 :::
 In the screenshot below, you will notice that this node returns all the volumes in the bookshelf that we specified.
 
-![Using the Google Books node to get all the volumes in a bookshelf](./GoogleBooks2_node.png)
+![Using the Google Books node to get all the volumes in a bookshelf](REDACTED)

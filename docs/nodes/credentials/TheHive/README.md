@@ -19,4 +19,4 @@ Install [TheHive](https://github.com/TheHive-Project/TheHiveDocs/blob/master/ins
 3. Click on the ***Create API Key*** button for the user you want to generate the API Key for.
 4. Use this ***API Key*** and your instance ***URL*** with your TheHive node credentials in n8n.
 
-![Getting TheHive credentials](./using-api.gif)
+![Getting TheHive credentials](REDACTED)

@@ -28,4 +28,4 @@ Create a [Facebook](https://www.facebook.com/) account.
 10. Select 'Get App Token' from the ***User or Page*** dropdown list on the right sidebar.
 11. Use the app secret and the generated access token with your Facebook node credentials in n8n.
 
-![Getting Facebook App credentials](./using-app-access-token.gif)
+![Getting Facebook App credentials](REDACTED)

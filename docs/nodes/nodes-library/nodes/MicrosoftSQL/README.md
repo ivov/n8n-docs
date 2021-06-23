@@ -24,7 +24,7 @@ This workflow allows you to execute an SQL query in Microsoft SQL. You can also 
 
 The final workflow should look like the following image.
 
-![A workflow with the Microsoft SQL node](./workflow.png)
+![A workflow with the Microsoft SQL node](REDACTED)
 
 ### 1. Start node
 

@@ -49,7 +49,7 @@ This workflow allows you to add text to an image downloaded from the internet us
 
 The final workflow should look like the following image.
 
-![A workflow with the Edit Image node](./workflow.png)
+![A workflow with the Edit Image node](REDACTED)
 
 ### 1. Start node
 
@@ -58,11 +58,11 @@ The start node exists by default when you create a new workflow.
 
 ### 2. HTTP Request node
 
-1. Enter `https://docs.n8n.io/assets/img/final-workflow.f380b957.png` in the ***URL*** field.
+1. Enter `httpsREDACTED` in the ***URL*** field.
 2. Select 'File' from the ***Response Format*** dropdown list.
 3. Click on *Execute Node* to run the node.
 
-![Using the HTTP Request node to get an image](./HTTPRequest_node.png)
+![Using the HTTP Request node to get an image](REDACTED)
 
 
 ### 3. Edit Image node
@@ -74,4 +74,4 @@ The start node exists by default when you create a new workflow.
 5. Enter 500 in the ***Position Y*** field.
 6. Click on *Execute Node* to run the node.
 
-![Using the Edit Image node to add text to an image](./EditImage_node.png)
+![Using the Edit Image node to add text to an image](REDACTED)

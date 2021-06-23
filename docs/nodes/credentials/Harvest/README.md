@@ -23,7 +23,7 @@ Create a [Harvest](https://www.getharvest.com/) account.
 7. Click on the circle button in the OAuth section to connect your Harvest account to n8n.
 8. Click on the ***Save*** button to save your credentials.
 
-![Getting Harvest OAuth2 credentials](./using-oauth.gif)
+![Getting Harvest OAuth2 credentials](REDACTED)
 
 ## Using Access Token
 
@@ -33,4 +33,4 @@ Create a [Harvest](https://www.getharvest.com/) account.
 4. Click on the ***Create Personal Access Token*** button.
 5. Use the token with Harvest node credentials in n8n.
 
-![Getting Harvest Access Token credentials](./using-access-token.gif)
+![Getting Harvest Access Token credentials](REDACTED)

@@ -24,4 +24,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 3. Use provided Client Secret and Client ID with your Spotify node credentials in n8n.
 4. Open the app settings and add the n8n provided redirect URL to the app's redirect URI list. Redirect URL Explanation [here](../README.md).
 
-![The Spotify App Dashboard](./dashboard.gif)
+![The Spotify App Dashboard](REDACTED)

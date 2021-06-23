@@ -24,7 +24,7 @@ This workflow allows you to create a coupon on Paddle. You can also find the [wo
 
 The final workflow should look like the following image.
 
-![A workflow with the Paddle node](./workflow.png)
+![A workflow with the Paddle node](REDACTED)
 
 ### 1. Start node
 
@@ -39,4 +39,4 @@ The start node exists by default when you create a new workflow.
 4. Enter the coupon code in the ***Coupon Code*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the Paddle node to create a coupon](./Paddle_node.png)
+![Using the Paddle node to create a coupon](REDACTED)

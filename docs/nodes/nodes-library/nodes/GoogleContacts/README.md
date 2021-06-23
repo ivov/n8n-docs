@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get a contact from Google Contac
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Contacts node](./workflow.png)
+![A workflow with the Google Contacts node](REDACTED)
 
 ### 1. Start node
 
@@ -38,7 +38,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the given name in the ***Given Name*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the Google Contacts node to create a contact](./GoogleContacts_node.png)
+![Using the Google Contacts node to create a contact](REDACTED)
 
 
 ::: v-pre
@@ -58,7 +58,7 @@ The start node exists by default when you create a new workflow.
 12. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Google Contact node to update the contact](./GoogleContacts1_node.png)
+![Using the Google Contact node to update the contact](REDACTED)
 
 
 ::: v-pre
@@ -72,4 +72,4 @@ The start node exists by default when you create a new workflow.
 6. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Google Contacts node to get the contact](./GoogleContacts2_node.png)
+![Using the Google Contacts node to get the contact](REDACTED)

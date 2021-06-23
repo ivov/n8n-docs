@@ -23,7 +23,7 @@ This workflow allows you to create a ticket in Zendesk. You can also find the [w
 
 The final workflow should look like the following image.
 
-![A workflow with the Zendesk node](./workflow.png)
+![A workflow with the Zendesk node](REDACTED)
 
 ### 1. Start node
 

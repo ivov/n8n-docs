@@ -23,7 +23,7 @@ This workflow allows you to create an event in PostHog when a request is made to
 
 The final workflow should look like the following image.
 
-![A workflow with the PostHog node](./workflow.png)
+![A workflow with the PostHog node](REDACTED)
 
 ### 1. Webhook node
 
@@ -38,7 +38,7 @@ This node will trigger the workflow. We will make a GET request to the test webh
 
 In the screenshot below, you will notice that the node triggers the workflow and receives a query parameter. We will use the value of the query parameter in the next node in the workflow.
 
-![Using the Webhook node to trigger the workflow](./Webhook_node.png)
+![Using the Webhook node to trigger the workflow](REDACTED)
 
 ### 2. PostHog node (create:customer)
 
@@ -54,7 +54,7 @@ This node will create a new event in PostHog.
 
 In the screenshot below, you will notice that the node creates a new event in PostHog.
 
-![Using the PostHog node to create a new event](./PostHog_node.png)
+![Using the PostHog node to create a new event](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 This example workflow uses the Webhook node, which is a Trigger node. You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered every time a GET request is sent to the ***Production*** webhook URL.

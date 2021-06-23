@@ -24,7 +24,7 @@ This workflow allows you to send an SMS using the Mocean node. You can also find
 
 The final workflow should look like the following image.
 
-![A workflow with the Mocean node](./workflow.png)
+![A workflow with the Mocean node](REDACTED)
 
 ### 1. Start node
 
@@ -39,4 +39,4 @@ The start node exists by default when you create a new workflow.
 4. Enter the message in the ***Message*** field.
 5. Click on ***Execute Node*** to run the node.
 
-![Using the Mocean node to send an SMS](./Mocean_node.png)
+![Using the Mocean node to send an SMS](REDACTED)

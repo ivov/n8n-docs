@@ -30,7 +30,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 9. Click on the circle button in the OAuth section to connect a GitLab account to n8n.
 10. Click on the ***Save*** button to save your credentials.
 
-![Getting GitLab OAuth credentials](./using-oauth.gif)
+![Getting GitLab OAuth credentials](REDACTED)
 
 
 ## Using Access Token
@@ -45,4 +45,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 8. Use the generated access token with your GitLab node credentials in n8n.
 9. Click on the ***Save*** button to save your credentials.
 
-![Getting GitLab access token](./using-access-token.gif)
+![Getting GitLab access token](REDACTED)

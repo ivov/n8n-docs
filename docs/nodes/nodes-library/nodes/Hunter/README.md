@@ -24,7 +24,7 @@ This workflow allows you to verify the deliverability of an email address using 
 
 The final workflow should look like the following image.
 
-![A workflow with the Hunter node](./workflow.png)
+![A workflow with the Hunter node](REDACTED)
 
 ### 1. Start node
 

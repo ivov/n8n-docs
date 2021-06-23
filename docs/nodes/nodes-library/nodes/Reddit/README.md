@@ -23,7 +23,7 @@ This workflow allows you to create a post a Reddit and add a comment to that pos
 
 The final workflow should look like the following image.
 
-![A workflow with the Reddit node](./workflow.png)
+![A workflow with the Reddit node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create a post under the subreddit `n8n`. If you want to create a 
 
 In the screenshot below, you will notice that the node creates a new post under the subreddit `n8n`.
 
-![Using the Reddit node to create a post](./Reddit_node.png)
+![Using the Reddit node to create a post](REDACTED)
 
 ### 3. Reddit1 node (get: post)
 
@@ -57,7 +57,7 @@ This node will retrieve the post that we created using the previous node.
 :::
 In the screenshot below, you will notice that the node returns the information of the post that we created in the previous node.
 
-![Using the Reddit node to get a post](./Reddit1_node.png)
+![Using the Reddit node to get a post](REDACTED)
 
 ### 4. Reddit node (create: postComment)
 
@@ -72,4 +72,4 @@ This node will add a comment to the post that we created earlier.
 :::
 In the screenshot below, you will notice that the node comments on the post that we created earlier.
 
-![Using the Reddit node to create a comment](./Reddit2_node.png)
+![Using the Reddit node to create a comment](REDACTED)

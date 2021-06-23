@@ -23,7 +23,7 @@ This workflow allows you to create a short URL and get the statistics of the URL
 
 The final workflow should look like the following image.
 
-![A workflow with the Yourls node](./workflow.png)
+![A workflow with the Yourls node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create  a short URL for the link we specify.
 
 In the screenshot below, you will notice that the node creates a short URL for the URL you specified.
 
-![Using the Yourls node to create short URL](./Yourls_node.png)
+![Using the Yourls node to create short URL](REDACTED)
 
 ### 3. Yourls1 node (stats: url)
 
@@ -55,4 +55,4 @@ This node will give us the statistics of the short URL that we specify. We will 
 :::
 In the screenshot below, you will notice that the node gives us the statistics of the short URL that we created in the previous node.
 
-![Using the Yourls node to get the statistics of a short URL](./Yourls1_node.png)
+![Using the Yourls node to get the statistics of a short URL](REDACTED)

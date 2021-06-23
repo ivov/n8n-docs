@@ -38,7 +38,7 @@ This workflow allows you to extract titles and URLs of all the articles from the
 
 The final workflow should look like the following image.
 
-![A workflow with the HTML Extract node](./workflow.png)
+![A workflow with the HTML Extract node](REDACTED)
 
 ### 1. Start node
 
@@ -51,7 +51,7 @@ The start node exists by default when you create a new workflow.
 2. Select 'String' from the ***Response Format*** dropdown list.
 2. Click on ***Execute Node*** to run the node.
 
-![Get the articles from Hackernoon using the HTTP Request node](./HTTPRequest_node.png)
+![Get the articles from Hackernoon using the HTTP Request node](REDACTED)
 
 
 ### 3. HTML Extract node (json: data)
@@ -63,7 +63,7 @@ The start node exists by default when you create a new workflow.
 5. Toggle ***Return Array*** to true.
 6. Click on ***Execute Node*** to run the node.
 
-![Extract title of the articles using the HTML Extract node](./HTMLExtract_node.png)
+![Extract title of the articles using the HTML Extract node](REDACTED)
 
 
 ### 4. HTML Extract1 node (json: item)
@@ -79,7 +79,7 @@ The start node exists by default when you create a new workflow.
 9. Enter `href` in the ***Attribute*** field.
 10. Click on ***Execute Node*** to run the node.
 
-![Extract title and link of the articles using the HTML Extract node](./HTMLExtract1_node.png)
+![Extract title and link of the articles using the HTML Extract node](REDACTED)
 
 
 ## Further Reading

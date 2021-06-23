@@ -24,7 +24,7 @@ This workflow allows you to send an email using Mailjet. You can also find the [
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailjet node](./workflow.png)
+![A workflow with the Mailjet node](REDACTED)
 
 ### 1. Start node
 

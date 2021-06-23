@@ -23,7 +23,7 @@ This workflow allows you to get details of a forum in Disqus. You can also find 
 
 The final workflow should look like the following image.
 
-![A workflow with the Disqus node](./workflow.png)
+![A workflow with the Disqus node](REDACTED)
 
 ### 1. Start node
 

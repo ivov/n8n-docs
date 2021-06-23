@@ -19,7 +19,7 @@ This workflow allows you to receive updates when events occur in Box. You can al
 
 The final workflow should look like the following image.
 
-![A workflow with the Box Trigger node](./workflow.png)
+![A workflow with the Box Trigger node](REDACTED)
 
 
 ### 1. Box Trigger node

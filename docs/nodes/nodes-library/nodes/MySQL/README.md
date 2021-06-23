@@ -24,7 +24,7 @@ This workflow allows you to create a table and insert data in it on a MySQL data
 
 The final workflow should look like the following image.
 
-![A workflow with the MySQL node](./workflow.png)
+![A workflow with the MySQL node](REDACTED)
 
 ### 1. Start node
 
@@ -37,7 +37,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the following SQL query in the ***Query*** field: `CREATE TABLE test (id INT, name VARCHAR(255), PRIMARY KEY (id));`.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the MySQL node to create a table](./MySQL_node.png)
+![Using the MySQL node to create a table](REDACTED)
 
 ### 3. Set node
 
@@ -49,7 +49,7 @@ The start node exists by default when you create a new workflow.
 6. Enter the value for the name in the ***Value*** field.
 7. Click on ***Execute Node*** to run the node.
 
-![Using the Set node to set data to be inserted by the MySQL node](./Set_node.png)
+![Using the Set node to set data to be inserted by the MySQL node](REDACTED)
 
 ### 4. MySQL1 node (Insert)
 
@@ -58,4 +58,4 @@ The start node exists by default when you create a new workflow.
 3. Enter `id, name` in the ***Columns*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the MySQL node to insert data into a table](./MySQL1_node.png)
+![Using the MySQL node to insert data into a table](REDACTED)

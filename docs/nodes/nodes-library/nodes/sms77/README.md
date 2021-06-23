@@ -23,7 +23,7 @@ This workflow allows you to send an SMS to a specified phone number from any pho
 
 The final workflow should look like the following image.
 
-![A workflow with the sms77 node](./workflow.png)
+![A workflow with the sms77 node](REDACTED)
 
 ### 1. Start node
 

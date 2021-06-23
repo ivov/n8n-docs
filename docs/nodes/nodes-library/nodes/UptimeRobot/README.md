@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a monitor using the UptimeRo
 
 The final workflow should look like the following image.
 
-![A workflow with the UptimeRobot node](./workflow.png)
+![A workflow with the UptimeRobot node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will create a new monitor of the type `HTTP(S)`.
 
 In the screenshot below, you will notice that the node returns data about the current weather in Berlin.
 
-![Using the OpenWeatherMap node to get weather updates for Berlin](./UptimeRobot_node.png)
+![Using the OpenWeatherMap node to get weather updates for Berlin](REDACTED)
 
 ### 3. UptimeRobot node (update: monitor)
 
@@ -61,7 +61,7 @@ This node will update the monitor that we created in the previous node.
 
 In the screenshot below, you will notice that the node updates the friendly name of the monitor that we created in the previous node.
 
-![Using the UptimeRobot node to update a monitor](./UptimeRobot1_node.png)
+![Using the UptimeRobot node to update a monitor](REDACTED)
 
 ### 4. UptimeRobot node (get: monitor)
 
@@ -77,4 +77,4 @@ This node will get the information of the monitor that we created in the previou
 
 In the screenshot below, you will notice that the node returns the information of the monitor that we created earlier.
 
-![Using the UptimeRobot node to retrieve information of a monitor](./UptimeRobot2_node.png)
+![Using the UptimeRobot node to retrieve information of a monitor](REDACTED)

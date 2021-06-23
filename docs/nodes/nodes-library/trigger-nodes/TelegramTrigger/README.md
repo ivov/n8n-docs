@@ -33,7 +33,7 @@ This workflow allows you to receive messages using the Telegram Trigger node and
 
 The final workflow should look like the following image.
 
-![A workflow with the Telegram Trigger node](./workflow.png)
+![A workflow with the Telegram Trigger node](REDACTED)
 
 ### 1. Telegram Trigger node
 
@@ -45,7 +45,7 @@ This node will trigger the workflow when a user sends a new message.
 
 In the screenshot below, you will notice that the node triggers the workflow when a user sends a new message.
 
-![Using the Telegram Trigger node to trigger the workflow](./TelegramTrigger_node.png)
+![Using the Telegram Trigger node to trigger the workflow](REDACTED)
 
 ### 2. HTTP Request node (GET)
 
@@ -56,7 +56,7 @@ This node will make a GET request to the API `https://www.thecocktaildb.com/api/
 
 In the screenshot below, you will notice that the node makes a GET request to the API and returns information about a random cocktail.
 
-![Using the HTTP Request node to get the information about a random cocktail](./HTTPRequest_node.png)
+![Using the HTTP Request node to get the information about a random cocktail](REDACTED)
 
 ### 3. Telegram node (sendPhoto: message)
 
@@ -78,7 +78,7 @@ This node will send a reply to the message with the name and image of the cockta
 :::
 In the screenshot below, you will notice that the node sends a reply to the message with the name and image of the cocktail that we got from the previous node.
 
-![Using the Telegram node to send a message with an image and instruction of a cocktail](./Telegram_node.png)
+![Using the Telegram node to send a message with an image and instruction of a cocktail](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Telegram Trigger node.

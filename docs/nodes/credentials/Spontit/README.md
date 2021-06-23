@@ -21,7 +21,7 @@ Create a [Spontit](https://www.spontit.com/) account.
 5. Copy the displayed username.
 6. Use this ***API Key*** and ***Username*** with your Spontit credentials in n8n.
 
-![Getting Spontit credentials](./using-api-key.gif)
+![Getting Spontit credentials](REDACTED)
 
 ## Further Reference
 

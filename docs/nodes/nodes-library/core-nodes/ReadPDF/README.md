@@ -27,7 +27,7 @@ This workflow allows you to read a PDF file using the Read PDF node. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Read PDF node](./workflow.png)
+![A workflow with the Read PDF node](REDACTED)
 
 ### 1. Start node
 

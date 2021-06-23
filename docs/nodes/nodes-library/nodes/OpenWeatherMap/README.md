@@ -22,7 +22,7 @@ This workflow allows you to get the current weather data for a city. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the OpenWeatherMap node](./workflow.png)
+![A workflow with the OpenWeatherMap node](REDACTED)
 
 ### 1. Start node
 

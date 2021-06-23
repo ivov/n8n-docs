@@ -23,7 +23,7 @@ This workflow shows you how to create a new link. You can also find the [workflo
 
 The final workflow should look like the following image.
 
-![A workflow with the Bitly node](./workflow.png)
+![A workflow with the Bitly node](REDACTED)
 
 ### 1. Start node
 

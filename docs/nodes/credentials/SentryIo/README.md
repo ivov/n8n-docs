@@ -26,7 +26,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 6. Click on the circle button in the OAuth section to connect a Sentry.io account to n8n.
 7. Click on the ***Save*** button to save your credentials.
 
-![Getting Sentry.io OAuth credentials](./using-oauth.gif)
+![Getting Sentry.io OAuth credentials](REDACTED)
 
 
 ## Using Access Token
@@ -37,4 +37,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Use the generated access token with your Sentry.io API credentials in n8n.
 5. Click on the ***Save*** button to save your credentials.
 
-![Getting Sentry.io access token](./using-access-token.gif)
+![Getting Sentry.io access token](REDACTED)

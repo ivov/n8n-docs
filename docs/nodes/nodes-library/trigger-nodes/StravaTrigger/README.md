@@ -42,7 +42,7 @@ This workflow allows you to receive updates when a new activity gets created in 
 
 The final workflow should look like the following image.
 
-![A workflow with the Strava Trigger node](./workflow.png)
+![A workflow with the Strava Trigger node](REDACTED)
 
 ### 1. Strava Trigger node
 
@@ -55,7 +55,7 @@ This node will trigger the workflow when a new activity gets created in Strava.
 
 In the screenshot below, you will notice that the node triggers the workflow when a new activity gets created in Strava.
 
-![Using the Strava Trigger node to receive updates when a new activity is created](./StravaTrigger_node.png)
+![Using the Strava Trigger node to receive updates when a new activity is created](REDACTED)
 
 ### 2. Twitter node (create: tweet)
 
@@ -69,7 +69,7 @@ This node will tweet about the activity that gets created in Strava.
 :::
 In the screenshot below, you will notice that this node gets the information of the activity in Strava from the previous node and tweets about it.
 
-![Using the Twitter node to tweet about the activity](./Twitter_node.png)
+![Using the Twitter node to tweet about the activity](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Strava Trigger node.

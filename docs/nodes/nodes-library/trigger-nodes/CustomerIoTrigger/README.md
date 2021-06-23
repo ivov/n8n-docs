@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a subscriber unsubscribes in Cu
 
 The final workflow should look like the following image.
 
-![A workflow with the Customer.io Trigger node](./workflow.png)
+![A workflow with the Customer.io Trigger node](REDACTED)
 
 ### 1. Customer.io Trigger node
 

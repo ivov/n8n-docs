@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get a profile using the Humantic
 
 The final workflow should look like the following image.
 
-![A workflow with the Humantic AI node](./workflow.png)
+![A workflow with the Humantic AI node](REDACTED)
 
 ### 1. Start node
 
@@ -40,7 +40,7 @@ This node will create a new profile for a candidate in Humantic AI. We will crea
 
 In the screenshot below, you will notice that the node creates a new profile using the LinkedIn URL of the candidate.
 
-![Using the Humantic AI node to create a new profile](./HumanticAi_node.png)
+![Using the Humantic AI node to create a new profile](REDACTED)
 
 ### 3. HTTP Request node (GET)
 
@@ -52,7 +52,7 @@ This node will fetch the resume of the candidate from a URL that we specify. We 
 
 In the screenshot below, you will notice that the node fetches the resume of the candidate from the URL we specified.
 
-![Using the HTTP Request node to fetch a resume](./HTTPRequest_node.png)
+![Using the HTTP Request node to fetch a resume](REDACTED)
 
 ### 4. Humantic AI1 node (update: profile)
 
@@ -69,7 +69,7 @@ This node will update the information of the candidate that we created using the
 
 In the screenshot below, you will notice that the node updates the information of the candidate that we created using the Humantic AI node. Here, the node has added the resume of the candidate.
 
-![Using the Humantic AI node to add resume to the candidate's profile](./HumanticAi1_node.png)
+![Using the Humantic AI node to add resume to the candidate's profile](REDACTED)
 
 ### 5. Humantic AI2 node (get: profile)
 
@@ -84,4 +84,4 @@ This node will return the `Hiring` persona for the candidate that we created usi
 :::
 In the screenshot below, you will notice that the node returns the `Hiring` persona for the candidate that we created using the Humantic AI node (column headers are not visible in the screenshot since we've scrolled down to show the data).
 
-![Using the Humantic AI node to get the information of the candidate](./HumanticAi2_node.png)
+![Using the Humantic AI node to get the information of the candidate](REDACTED)

@@ -24,7 +24,7 @@ This workflow allows you to get all contacts from Mautic. You can also find the 
 
 The final workflow should look like the following image.
 
-![A workflow with the Mautic node](./workflow.png)
+![A workflow with the Mautic node](REDACTED)
 
 ### 1. Start node
 

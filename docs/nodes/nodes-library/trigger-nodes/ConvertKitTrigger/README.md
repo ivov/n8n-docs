@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a subscriber is added through a
 
 The final workflow should look like the following image.
 
-![A workflow with the ConvertKit Trigger node](./workflow.png)
+![A workflow with the ConvertKit Trigger node](REDACTED)
 
 ### 1. ConvertKit Trigger node
 

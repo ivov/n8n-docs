@@ -22,4 +22,4 @@ Create a [Flow](https://www.getflow.com/) account.
 5. As you generate your access token, you will also receive an organisation ID.
 6. Use provided access token and organisation ID with your Flow node credentials in n8n.
 
-![Getting Flow credentials](./using-access-token.gif)
+![Getting Flow credentials](REDACTED)

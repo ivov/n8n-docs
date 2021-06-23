@@ -20,4 +20,4 @@ Create a [JotForm](https://www.jotform.com/) account.
 4. Change the Permissions to 'Full Access'.
 5. Use the key with JotForm node credentials in n8n.
 
-![Getting JotForm credentials](./using-access-token.gif)
+![Getting JotForm credentials](REDACTED)

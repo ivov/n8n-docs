@@ -21,7 +21,7 @@ Basic configuration
 },
 ```
 
-<img src="./images/string.png" width="350">
+<img src="REDACTED" width="350">
 
 Variation for inputting passwords
 
@@ -40,7 +40,7 @@ Variation for inputting passwords
 },
 ```
 
-<img src="./images/password.png" width="350">
+<img src="REDACTED" width="350">
 
 Variation with multiple rows
 
@@ -58,7 +58,7 @@ Variation with multiple rows
 },
 ```
 
-<img src="./images/multiple-rows.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Number
@@ -83,7 +83,7 @@ Basic configuration
 },
 ```
 
-<img src="./images/number.png" width="350">
+<img src="REDACTED" width="350">
 
 Variation with decimal points
 
@@ -101,7 +101,7 @@ Variation with decimal points
 },
 ```
 
-<img src="./images/decimal.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Collection
@@ -140,7 +140,7 @@ The `collection` type is used to input a collection of fields. For example, addi
 },
 ```
 
-<img src="./images/collection.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Datetime
@@ -157,7 +157,7 @@ The `dateTime` type provides a calendar from which you can pick a specific date 
 },
 ```
 
-<img src="./images/datetime.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Boolean
@@ -174,7 +174,7 @@ The `boolean` type is used to input a value that is either true or false. It is 
 },
 ```
 
-<img src="./images/boolean.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Color
@@ -190,7 +190,7 @@ The `color` type provides a color palette from which a specific color can be sel
 },
 ```
 
-<img src="./images/color.png" width="300">
+<img src="REDACTED" width="300">
 
 
 ## Options
@@ -217,7 +217,7 @@ The `options` type is used to provide options from which a single one has to be 
 },
 ```
 
-<img src="./images/options.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Multi Options
@@ -244,7 +244,7 @@ The `multiOptions` type is used to provide options from which many can be select
 },
 ```
 
-<img src="./images/multioptions.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## Fixed Collection
@@ -286,7 +286,7 @@ The `fixedCollection? type is used to present groups of fields that are semantic
 },
 ```
 
-<img src="./images/fixed-collection.png" width="350">
+<img src="REDACTED" width="350">
 
 
 ## JSON
@@ -303,4 +303,4 @@ The `json` type is used to input data formatted as JSON.
 },
 ```
 
-<img src="./images/json.png" width="350">
+<img src="REDACTED" width="350">

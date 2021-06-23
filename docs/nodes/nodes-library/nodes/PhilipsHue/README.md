@@ -24,7 +24,7 @@ This workflow allows you to turn on a light and set its brightness using the Phi
 
 The final workflow should look like the following image.
 
-![A workflow with the Philips Hue node](./workflow.png)
+![A workflow with the Philips Hue node](REDACTED)
 
 ### 1. Start node
 

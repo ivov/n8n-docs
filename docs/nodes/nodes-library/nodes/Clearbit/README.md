@@ -23,7 +23,7 @@ This workflow allows you to look up a person using their email in Clearbit. You 
 
 The final workflow should look like the following image.
 
-![A workflow with the Clearbit node](./workflow.png)
+![A workflow with the Clearbit node](REDACTED)
 
 ### 1. Start node
 

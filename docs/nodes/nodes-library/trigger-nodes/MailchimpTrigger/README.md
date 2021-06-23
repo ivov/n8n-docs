@@ -19,7 +19,7 @@ This workflow allows you to receive updates when Subscribe events occur in a Mai
 
 The final workflow should look like the following image.
 
-![A workflow with the Mailchimp Trigger node](./workflow.png)
+![A workflow with the Mailchimp Trigger node](REDACTED)
 
 
 ### 1. Mailchimp Trigger node

@@ -32,7 +32,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 12. Click on the circle button in the OAuth section to connect your Dropbox account to n8n.
 13. Click on the ***Save*** button to save your credentials.
 
-![Getting Dropbox credentials](./using-oauth.gif)
+![Getting Dropbox credentials](REDACTED)
 
 ## Using Access Token
 
@@ -48,4 +48,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 10. Click on the ***Generate*** button.
 11. Use the displayed ***Generated access token*** with your Dropbox credentials in n8n.
 
-![Getting Dropbox credentials](./using-access-token.gif)
+![Getting Dropbox credentials](REDACTED)

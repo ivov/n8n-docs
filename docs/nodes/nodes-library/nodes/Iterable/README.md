@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a user from Iterable. You ca
 
 The final workflow should look like the following image.
 
-![A workflow with the Iterable node](./workflow.png)
+![A workflow with the Iterable node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create a new user in Iterable.
 
 In the screenshot below, you will notice that the node creates a new user in Iterable.
 
-![Using the Iterable node to create a user](./Iterable_node.png)
+![Using the Iterable node to create a user](REDACTED)
 
 ### 3. Iterable1 node (upsert: user)
 
@@ -60,7 +60,7 @@ This node will update the information of the user that we created in the previou
 :::
 In the screenshot below, you will notice that the node updates the information of the user that we created in the previous node.
 
-![Using the Iterable node to update the user information](./Iterable1_node.png)
+![Using the Iterable node to update the user information](REDACTED)
 
 
 
@@ -77,4 +77,4 @@ This node will get the information of the user that we created using the Iterabl
 :::
 In the screenshot below, you will notice that the node gets the information of the user that we created using the Iterable node.
 
-![Using the Iterable node to get the user's information](./Iterable2_node.png)
+![Using the Iterable node to get the user's information](REDACTED)

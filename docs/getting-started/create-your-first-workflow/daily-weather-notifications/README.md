@@ -29,7 +29,7 @@ This workflow would use the following nodes.
 
 The final workflow should look like the following image.
 
-![The final workflow](./images/final-workflow.png)
+![The final workflow](REDACTED)
 
 
 ### 1. Cron node
@@ -40,7 +40,7 @@ Double click on the *Cron* node to enter the Node Editor. Click on the ***Add Cr
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the Cron node](./images/creating-the-cron-node.gif)
+![Creating the Cron node](REDACTED)
 
 
 ### 2. OpenWeatherMap node
@@ -51,7 +51,7 @@ We'll let the different fields stay as they are. I entered `berlin,de` in the **
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the OpenWeatherMap node](./images/creating-the-openweathermap-node.gif)
+![Creating the OpenWeatherMap node](REDACTED)
 
 **Note:** If you receive a 401 error when executing your node, your API key may not have been activated yet. API keys are activated automatically between 10 minutes and 2 hours after successful registration on OpenWeatherMap.
 
@@ -69,7 +69,7 @@ For the ***Operation*** field, we'll let it be set to 'Smaller'. For the ***Valu
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the IF node](./images/creating-the-if-node.gif)
+![Creating the IF node](REDACTED)
 
 
 ### 4. Twilio node
@@ -90,7 +90,7 @@ Wear a sweater today, it is {{$node["OpenWeatherMap"].json["main"]["feels_like"]
 
 Here's a GIF of me following the steps mentioned above.
 
-![Creating the Twilio node](./images/creating-the-twilio-node.gif)
+![Creating the Twilio node](REDACTED)
 
 
 ### 5. NoOp node
@@ -101,11 +101,11 @@ To test the workflow, click on the ***Execute Workflow*** button at the bottom o
 
 Don't forget to save the workflow and then click on the ***Activate*** toggle on the top right of the screen to set it to true and activate the workflow. Here's a GIF of me following the steps mentioned above.
 
-![Creating the NoOp node](./images/creating-the-noop-node.gif)
+![Creating the NoOp node](REDACTED)
 
 I raised the value of ***Value 2*** in the *IF* node from 18 to 27 to see what the SMS would look like. This is how the finished workflow and the SMS looked like.
 
-![Workflow running with true output from the IF node](./images/workflow-running-with-true-output-from-the-if-node.png)
+![Workflow running with true output from the IF node](REDACTED)
 
 ![SMS sent by the workflow](./images/sms-sent-by-the-workflow.jpeg)
 

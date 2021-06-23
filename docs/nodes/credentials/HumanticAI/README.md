@@ -18,4 +18,4 @@ You can use these credentials to authenticate the following nodes with Humantic 
 6. Set a password for your account and click on the ***SET PASSWORD*** button.
 7. Use the provided ***api key*** with your Humantic AI API credentials in n8n.
 
-![Getting Humantic AI credentials](./using-api-key.gif)
+![Getting Humantic AI credentials](REDACTED)

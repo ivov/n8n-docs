@@ -22,7 +22,7 @@ This workflow allows you to create, update, and add a note to a lead in Salesfor
 
 The final workflow should look like the following image.
 
-![A workflow with the Salesforce node](./workflow.png)
+![A workflow with the Salesforce node](REDACTED)
 
 ### 1. Start node
 
@@ -35,7 +35,7 @@ The start node exists by default when you create a new workflow.
 3. Enter the last name of the contact person in the ***Last Name*** field.
 4. Click on ***Execute Node*** to run the node.
 
-![Create a lead with the Salesforce node](./Salesforce_node.png)
+![Create a lead with the Salesforce node](REDACTED)
 
 ::: v-pre
 ### 3. Salesforce1 node (update: lead)
@@ -48,7 +48,7 @@ The start node exists by default when you create a new workflow.
 6. Enter a city name in the ***City*** field.
 7. Click on ***Execute Node*** to run the node.
 
-![Update a lead with the Salesforce node](./Salesforce1_node.png)
+![Update a lead with the Salesforce node](REDACTED)
 :::
 
 ::: v-pre
@@ -61,5 +61,5 @@ The start node exists by default when you create a new workflow.
 5. Enter the note in the ***Title*** field.
 6. Click on ***Execute Node*** to run the node.
 
-![Add a note to a lead with the Salesforce node](./Salesforce2_node.png)
+![Add a note to a lead with the Salesforce node](REDACTED)
 :::

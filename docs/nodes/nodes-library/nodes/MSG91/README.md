@@ -23,7 +23,7 @@ This workflow allows you to send an SMS using MSG91. You can also find the [work
 
 The final workflow should look like the following image.
 
-![A workflow with the MSG91 node](./workflow.png)
+![A workflow with the MSG91 node](REDACTED)
 
 ### 1. Start node
 

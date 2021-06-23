@@ -19,7 +19,7 @@ This workflow allows you to receive updates when new invoices are created in Inv
 
 The final workflow should look like the following image.
 
-![A workflow with the Invoice Ninja Trigger node](./workflow.png)
+![A workflow with the Invoice Ninja Trigger node](REDACTED)
 
 
 ### 1. Invoice Ninja Trigger node

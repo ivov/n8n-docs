@@ -20,4 +20,4 @@ Create a [Freshdesk](https://freshdesk.com/) account.
 4. Find your API key on the right panel.
 5. Use provided API key and your subdomain (i.e n8n) with your Freshdesk node credentials in n8n.
 
-![Getting Freshdesk credentials](./using-access-token.gif)
+![Getting Freshdesk credentials](REDACTED)

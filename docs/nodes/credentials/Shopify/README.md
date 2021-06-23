@@ -23,4 +23,4 @@ Create a [Shopify](https://shopify.com/) account.
 
 **Note:** Use the subdomain without `.myshopify.com` in n8n.
 
-![Getting Shopify credentials](./using-oauth.gif)
+![Getting Shopify credentials](REDACTED)

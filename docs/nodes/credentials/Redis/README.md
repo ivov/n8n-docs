@@ -10,11 +10,11 @@ You can use these credentials to authenticate the following nodes with Redis.
 
 ## Prerequisites
 
-Create an user account on a Redis server. 
+Create an user account on a Redis server.
 
 ## Using Database Connection
 
 1. Retrieve your Redis credentials and connection parameters.
 2. Use the credentials and connection parameters with your Redis node credentials in n8n.
 
-![Getting Redis credentials](./using-database-connection.gif)
+![Getting Redis credentials](REDACTED)

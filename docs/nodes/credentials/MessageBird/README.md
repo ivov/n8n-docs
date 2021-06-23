@@ -10,7 +10,7 @@ You can use these credentials to authenticate the following nodes with MessageBi
 
 ## Prerequisites
 
-Create a [MessageBird](https://www.messagebird.com/en/) account. 
+Create a [MessageBird](https://www.messagebird.com/en/) account.
 
 ## Using Access Token
 
@@ -20,4 +20,4 @@ Create a [MessageBird](https://www.messagebird.com/en/) account.
 4. Click on 'Add access key' and create a new API key.
 5. Use this API key with your MessageBird API node credentials in n8n.
 
-![Getting MessageBird API credentials](./using-access-token.gif)
+![Getting MessageBird API credentials](REDACTED)

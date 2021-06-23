@@ -24,4 +24,4 @@ Create a [Facebook](https://www.facebook.com/) account.
 6. Click on the 'Generate Access Token' button and login with your facebook account.
 6. Use generated access token with your Facebook node credentials in n8n.
 
-![Getting Facebook credentials](./using-access-token.gif)
+![Getting Facebook credentials](REDACTED)

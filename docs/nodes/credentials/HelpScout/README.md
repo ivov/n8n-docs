@@ -30,4 +30,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 9. Click on the circle button in the OAuth section to connect a Help Scout account to n8n.
 10. Click the *Save* button to save your credentials.
 
-![Getting Help Scout OAuth credentials](./using-oauth.gif)
+![Getting Help Scout OAuth credentials](REDACTED)

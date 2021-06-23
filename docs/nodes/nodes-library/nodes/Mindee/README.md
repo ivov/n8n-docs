@@ -30,7 +30,7 @@ This workflow allows you to extract information from an image of a receipt using
 
 The final workflow should look like the following image.
 
-![A workflow with the Mindee node](./workflow.png)
+![A workflow with the Mindee node](REDACTED)
 
 ### 1. Start node
 
@@ -48,7 +48,7 @@ This example workflow uses the HTTP Request node to make a GET request to downlo
 
 In the screenshot below, you will notice that the HTTP Request node downloads the image from the URL. This image (binary data) can now be used by the other nodes in the workflow.
 
-![Using the HTTP Request node to get the file](./HTTPRequest_node.png)
+![Using the HTTP Request node to get the file](REDACTED)
 
 
 ### 3. Mindee node (predict: receipt)
@@ -60,7 +60,7 @@ This node will get the image of the receipt (binary data) from the HTTP Request 
 
 In the screenshot below, you will notice that the node extracts the information from the image that it got from the HTTP Request node.
 
-![Using the Mindee node to extract information from receipt](./Mindee_node.png)
+![Using the Mindee node to extract information from receipt](REDACTED)
 
 ## Further Reading
 

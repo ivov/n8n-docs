@@ -35,7 +35,7 @@ You'll only need to enter the Credentials Name, Access Token URL, and click on t
 15. Click on the circle button in the OAuth section to connect a Salesforce account to n8n.
 16. Click on the ***Save*** button to save your credentials.
 
-![Getting Salesforce OAuth credentials](./using-oauth.gif)
+![Getting Salesforce OAuth credentials](REDACTED)
 
 ## Using OAuth JWT
 

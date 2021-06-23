@@ -25,7 +25,7 @@ This workflow allows you to get analytical metrics of your website using the Goo
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Analytics node](./workflow.png)
+![A workflow with the Google Analytics node](REDACTED)
 
 ### 1. Start node
 
@@ -52,7 +52,7 @@ This node will retrieve the session metrics grouped by country for a given date 
 
 In the screenshot below, you will notice that the node returns the information about the sessions grouped by country.
 
-![Using the Google Analytics node to retrieve analytics of a website](./Analytics_node.png)
+![Using the Google Analytics node to retrieve analytics of a website](REDACTED)
 
 ### 3. Set node
 
@@ -71,7 +71,7 @@ We will use the Set node to set the values for the country and metrics. This dat
 :::
 In the screenshot below, you will notice that the node sets the value for `Country` and `Metric`.
 
-![Using the Set node to set data](./Set_node.png)
+![Using the Set node to set data](REDACTED)
 
 ### 4. Airtable node (Append)
 
@@ -85,4 +85,4 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)

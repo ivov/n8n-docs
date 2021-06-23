@@ -43,7 +43,7 @@ This workflow allows you to store the JSON data received from the [CocktailDB AP
 
 The final workflow should look like the following image.
 
-![A workflow with the Move Binary Data node](./workflow.png)
+![A workflow with the Move Binary Data node](REDACTED)
 
 ### 1. Start node
 
@@ -55,7 +55,7 @@ The start node exists by default when you create a new workflow.
 1. Enter `https://www.thecocktaildb.com/api/json/v1/1/random.php` in the ***URL*** field.
 2. Click on ***Execute Node*** to run the node.
 
-![Get random cocktail data from CocktailDB API using the HTTP Request node](./HTTPRequest_node.png)
+![Get random cocktail data from CocktailDB API using the HTTP Request node](REDACTED)
 
 
 ### 3. Move Binary Data node (JSON to Binary)
@@ -63,7 +63,7 @@ The start node exists by default when you create a new workflow.
 1. Select 'JSON to Binary' from the ***Mode*** dropdown list.
 2. Click on ***Execute Node*** to run the node.
 
-![Convert JSON to binary using the Move Binary Data node](./MoveBinaryData_node.png)
+![Convert JSON to binary using the Move Binary Data node](REDACTED)
 
 
 ### 4. Write Binary File node
@@ -71,4 +71,4 @@ The start node exists by default when you create a new workflow.
 1. Enter the file name in the ***File Name*** field.
 2. Click on ***Execute Node*** to run the node.
 
-![Writing a file to the disk using the Write Binary File node](./WriteBinaryFile_node.png)
+![Writing a file to the disk using the Write Binary File node](REDACTED)

@@ -29,7 +29,7 @@ This workflow allows you to send a message on Mattermost when a lead replies to 
 
 The final workflow should look like the following image.
 
-![A workflow with the Lemlist Trigger node](./workflow.png)
+![A workflow with the Lemlist Trigger node](REDACTED)
 
 ### 1. Lemlist Trigger
 
@@ -43,7 +43,7 @@ The Lemlist Trigger node will trigger the workflow when a lead sends a reply to 
 
 In the screenshot below, you will notice that the node returns the information of the reply that was sent by a lead. This output is passed on to the next node in the workflow.
 
-![Using the Lemlist Trigger node to trigger the workflow](./LemlistTrigger_node.png)
+![Using the Lemlist Trigger node to trigger the workflow](REDACTED)
 
 ## 2. Mattermost node (post: message)
 
@@ -62,7 +62,7 @@ This node will send a message to the `Leads` channel in Mattermost. If you have 
 :::
 In the screenshot below, you will notice that the node sends a message with a reply to the `Leads` channel in Mattermost.
 
-![Using the Mattermost node to send a message](./Mattermost_node.png)
+![Using the Mattermost node to send a message](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the Lemlist Trigger node.

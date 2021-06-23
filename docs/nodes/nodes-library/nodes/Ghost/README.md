@@ -38,7 +38,7 @@ This workflow allows you to create, update, and get a post in Ghost. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Ghost node](./workflow.png)
+![A workflow with the Ghost node](REDACTED)
 
 ### 1. Start node
 
@@ -57,7 +57,7 @@ This node will create a new post with the title `Running ghost with n8n!`. If yo
 
 In the screenshot below, you will notice that the node creates a new post.
 
-![Using the Ghost node to create a new post and publish it](./Ghost_node.png)
+![Using the Ghost node to create a new post and publish it](REDACTED)
 
 ### 3. Ghost1 node (update: post)
 
@@ -75,7 +75,7 @@ This node will update the status of the post that we created in the previous nod
 
 In the screenshot below, you will notice that the node updates the status of the post that we created in the previous node.
 
-![Using the Ghost node to update the status of a post](./Ghost1_node.png)
+![Using the Ghost node to update the status of a post](REDACTED)
 
 ### 4. Ghost2 node (get: post)
 
@@ -91,4 +91,4 @@ This node returns information about the post that we created using the Ghost nod
 
 In the screenshot below, you will notice that the node returns information about the post that we specified.
 
-![Using the Ghost node to get information of a post](./Ghost2_node.png)
+![Using the Ghost node to get information of a post](REDACTED)

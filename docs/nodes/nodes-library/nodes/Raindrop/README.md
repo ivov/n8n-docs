@@ -23,7 +23,7 @@ This workflow allows you to create a collection and create, update, and get a bo
 
 The final workflow should look like the following image.
 
-![A workflow with the Raindrop node](./workflow.png)
+![A workflow with the Raindrop node](REDACTED)
 
 ### 1. Start node
 
@@ -40,7 +40,7 @@ This node will create a new collection in Raindrop.
 
 In the screenshot below, you will notice that the node creates a new collection with the title `n8n-docs`.
 
-![Using the Raindrop node to create a new collection](./Raindrop_node.png)
+![Using the Raindrop node to create a new collection](REDACTED)
 
 ### 3. Raindrop1 node (create: bookmark)
 
@@ -59,7 +59,7 @@ This node will create a new bookmark and add it to the collection that we create
 :::
 In the screenshot below, you will notice that the node creates a new bookmark with the title `Documentation`.
 
-![Using the Raindrop node to create a new bookmark](./Raindrop1_node.png)
+![Using the Raindrop node to create a new bookmark](REDACTED)
 
 ### 4. Raindrop2 node (update: bookmark)
 
@@ -77,7 +77,7 @@ This node will update the bookmark that we created in the previous node.
 
 In the screenshot below, you will notice that the node updates the title of the bookmark that we created in the previous node.
 
-![Using the Raindrop node to update a bookmark](./Raindrop2_node.png)
+![Using the Raindrop node to update a bookmark](REDACTED)
 
 ### 5. Raindrop3 node (get: bookmark)
 
@@ -92,4 +92,4 @@ This node will return the information about the bookmark that we created earlier
 
 In the screenshot below, you will notice that the node returns the information on the bookmark that we created earlier.
 
-![Using the Raindrop node to get a bookmark](./Raindrop3_node.png)
+![Using the Raindrop node to get a bookmark](REDACTED)

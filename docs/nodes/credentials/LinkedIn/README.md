@@ -31,7 +31,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 11. Click on the circle button in the OAuth section to connect a LinkedIn account to n8n.
 12. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting LinkedIn credentials](./using-oauth.gif)
+![Getting LinkedIn credentials](REDACTED)
 
 ## FAQs
 

@@ -23,7 +23,7 @@ This workflow allows you to get a board from monday.com. You can also find the [
 
 The final workflow should look like the following image.
 
-![A workflow with the monday.com node](./workflow.png)
+![A workflow with the monday.com node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to create, update, and get a person from Copper. You ca
 
 The final workflow should look like the following image.
 
-![A workflow with the Copper node](./workflow.png)
+![A workflow with the Copper node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will create a new person in Copper.
 
 In the screenshot below, you will notice that the node creates a new person in Copper.
 
-![Using the Copper node to create a new person](./Copper_node.png)
+![Using the Copper node to create a new person](REDACTED)
 
 
 ### 3. Copper1 node (update: person)
@@ -65,7 +65,7 @@ This node will update the information of the person that we created using the pr
 
 In the screenshot below, you will notice that the node updates the information of the person that got created previously.
 
-![Using the Copper node to update the information of a person](./Copper1_node.png)
+![Using the Copper node to update the information of a person](REDACTED)
 
 ### 4. Copper2 node (get: person)
 
@@ -81,4 +81,4 @@ This node will retrieve the information of the person that we created earlier.
 
 In the screenshot below, you will notice that the node retrieves the information of the person that we created earlier.
 
-![Using the Copper node to retrieve the information of a person](./Copper2_node.png)
+![Using the Copper node to retrieve the information of a person](REDACTED)

@@ -27,7 +27,7 @@ This workflow allows you to receive a message on Mattermost when a workflow is u
 
 The final workflow should look like the following image.
 
-![A workflow with the Webhook node](./workflow.png)
+![A workflow with the Webhook node](REDACTED)
 
 ### 1. Workflow Trigger node
 
@@ -39,7 +39,7 @@ The Workflow Trigger node will trigger the workflow when the workflow gets updat
 
 In the screenshot below, you will notice that the node triggers the workflow when the workflow gets updated.
 
-![Using the Workflow Trigger node to trigger the workflow](./WorkflowTrigger_node.png)
+![Using the Workflow Trigger node to trigger the workflow](REDACTED)
 
 ### 2. Mattermost node (post: message)
 
@@ -54,4 +54,4 @@ This node will send a message in the `workflow` channel on Mattermost.
 :::
 In the screenshot below, you will notice that the node sends a message to Mattermost.
 
-![Using the Mattermost node to send a message to a channel](./Mattermost_node.png)
+![Using the Mattermost node to send a message to a channel](REDACTED)

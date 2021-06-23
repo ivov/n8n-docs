@@ -23,7 +23,7 @@ This workflow allows you to create and update a post in WordPress. You can also 
 
 The final workflow should look like the following image.
 
-![A workflow with the WordPress node](./workflow.png)
+![A workflow with the WordPress node](REDACTED)
 
 ### 1. Start node
 
@@ -35,7 +35,7 @@ The start node exists by default when you create a new workflow.
 2. Enter the title in the ***Title*** field.
 3. Click on ***Execute Node*** to run the workflow.
 
-![Using the WordPress node to create a new post](./WordPress_node.png)
+![Using the WordPress node to create a new post](REDACTED)
 
 ::: v-pre
 ### 3. Wordpress1 node (update: post)
@@ -49,4 +49,4 @@ The start node exists by default when you create a new workflow.
 7. Click on ***Execute Node*** to run the workflow.
 :::
 
-![Using the WordPress node to update the post](./WordPress1_node.png)
+![Using the WordPress node to update the post](REDACTED)

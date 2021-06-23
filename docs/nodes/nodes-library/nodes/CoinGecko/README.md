@@ -26,7 +26,7 @@ This workflow allows you to get the price of BTC in EUR using the CoinGecko node
 
 The final workflow should look like the following image.
 
-![A workflow with the CoinGecko node](./workflow.png)
+![A workflow with the CoinGecko node](REDACTED)
 
 ### 1. Cron node
 
@@ -36,7 +36,7 @@ The Cron node will trigger the workflow every minute.
 2. Select 'Every Minute' from the ***Mode*** dropdown list.
 3. Click on ***Execute Node*** to run the node.
 
-![Using the Cron node to trigger the workflow](./Cron_node.png)
+![Using the Cron node to trigger the workflow](REDACTED)
 
 ### 2. CoinGecko node (price: coin)
 
@@ -48,7 +48,7 @@ This node will get the price of BTC in EUR using the CoinGecko API. Feel free to
 
 In the screenshot below, you will notice that the node fetches the price of 1 BTC in EUR. This information will be passed on to the next nodes in the workflow.
 
-![Using the CoinGecko node to get the price](./CoinGecko_node.png)
+![Using the CoinGecko node to get the price](REDACTED)
 
 
 ::: v-pre
@@ -66,7 +66,7 @@ This node will compare the price that we got from the CoinGecko node. If the pri
 
 In the screenshot below, you will notice that the node returns an output for **true** when the price is greater than 9000.
 
-![Using the IF node to check if the price is larger than 9000](./IF_node.png)
+![Using the IF node to check if the price is larger than 9000](REDACTED)
 
 
 ### 4. Twilio node (send: sms)
@@ -85,7 +85,7 @@ This node sends an SMS to a number when the price is greater than or equal to 90
 
 In the screenshot below, you will notice that the node sends an SMS with the price that we obtained from the CoinGecko node.
 
-![Using the Twilio node to send an SMS](./Twilio_node.png)
+![Using the Twilio node to send an SMS](REDACTED)
 
 ::: v-pre
 ### 5. NoOp node
@@ -96,7 +96,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 2. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ## Further Reading
 

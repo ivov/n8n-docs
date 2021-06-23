@@ -33,7 +33,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 12. Back in n8n, click on the circle button in the OAuth section to connect your HubSpot account to n8n.
 13. Click the ***Save*** button to save your credentials.
 
-![Getting HubSpot OAuth credentials](./using-oauth.gif)
+![Getting HubSpot OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -43,7 +43,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Click on the ***Create key*** button.
 5. Use the key with HubSpot node credentials in n8n.
 
-![Getting HubSpot credentials](./using-access-token.gif)
+![Getting HubSpot credentials](REDACTED)
 
 ## Using Developer API Key (for HubSpot Trigger node)
 
@@ -53,4 +53,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Click on the ***Show key*** button.
 5. Use the displayed Developer API key with your HubSpot Trigger node credentials in n8n.
 
-![Getting HubSpot Developer API key](./using-developer-api-key.gif)
+![Getting HubSpot Developer API key](REDACTED)

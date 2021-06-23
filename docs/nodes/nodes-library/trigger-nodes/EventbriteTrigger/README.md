@@ -19,7 +19,7 @@ This workflow allows you to get updates for an Eventbrite event. You can also fi
 
 The final workflow should look like the following image.
 
-![A workflow with the Eventbrite Trigger node](./workflow.png)
+![A workflow with the Eventbrite Trigger node](REDACTED)
 
 
 ### 1. Eventbrite Trigger node

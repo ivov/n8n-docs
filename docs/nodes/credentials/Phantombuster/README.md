@@ -20,4 +20,4 @@ Create a [Phantombuster](https://www.phantombuster.com/) account.
 4. Click on the ***+ Add third party API key*** button.
 5. Use this ***API Key*** with your Phantombuster node credentials in n8n.
 
-![Getting Phantombuster credentials](./using-api.gif)
+![Getting Phantombuster credentials](REDACTED)

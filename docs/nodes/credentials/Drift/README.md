@@ -28,7 +28,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 8. Click on the circle button in the OAuth section to connect your Drift account to n8n.
 9. Click the ***Save*** button to save your credentials.
 
-![Getting Drift OAuth credentials](./using-oauth.gif)
+![Getting Drift OAuth credentials](REDACTED)
 
 
 ## Using Access Token
@@ -39,4 +39,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 4. Click on "Installing to Drift".
 5. Use token with your Drift Node credentials in n8n.
 
-![Getting Drift credentials](./using-access-token.gif)
+![Getting Drift credentials](REDACTED)

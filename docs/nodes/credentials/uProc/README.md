@@ -19,4 +19,4 @@ Create a [uProc](https://uProc.io) account.
 3. Click on the ***Integrations*** tab.
 4. Use the displayed ***Email*** and ***API Key (real)*** with your uProc node credentials in n8n.
 
-![Getting uProc credentials](./using-api.gif)
+![Getting uProc credentials](REDACTED)

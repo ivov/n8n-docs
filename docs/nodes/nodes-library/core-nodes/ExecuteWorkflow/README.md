@@ -26,7 +26,7 @@ This workflow allows you to execute another workflow on the host machine using t
 
 The final workflow should look like the following image.
 
-![A workflow with the Execute Workflow node](./workflow.png)
+![A workflow with the Execute Workflow node](REDACTED)
 
 ### 1. Start node
 

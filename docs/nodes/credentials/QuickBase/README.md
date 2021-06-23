@@ -24,7 +24,7 @@ Create a [Quick Base](https://www.quickbase.com/) account.
 8. Copy the string of characters located between `https://` and `/db` in your Quick Base URL. This string is the hostname.
 9. Use this ***Hostname*** and ***User Token*** with your Quick Base node credentials in n8n.
 
-![Getting Quick Base credentials](./using-api.gif)
+![Getting Quick Base credentials](REDACTED)
 
 ## Further Reference
 

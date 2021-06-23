@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a customer is created in Help S
 
 The final workflow should look like the following image.
 
-![A workflow with the Help Scout Trigger node](./workflow.png)
+![A workflow with the Help Scout Trigger node](REDACTED)
 
 ### 1. Help Scout Trigger node
 

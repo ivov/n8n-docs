@@ -18,10 +18,10 @@ This workflow allows you to receive server-sent events using the SSE Trigger nod
 
 The final workflow should look like the following image.
 
-![A workflow with the SSE Trigger node](./workflow.png)
+![A workflow with the SSE Trigger node](REDACTED)
 
 
 ### 1. SSE Trigger node
 
-1. Enter the URL in the ***URL*** field. 
+1. Enter the URL in the ***URL*** field.
 2. Click on ***Execute Node*** to run the node.

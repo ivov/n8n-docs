@@ -18,7 +18,7 @@ This workflow allows you to receive updates when an event occurs in Asana. You c
 
 The final workflow should look like the following image.
 
-![A workflow with the Asana Trigger node](./workflow.png)
+![A workflow with the Asana Trigger node](REDACTED)
 
 ### 1. Asana Trigger node
 

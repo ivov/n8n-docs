@@ -26,7 +26,7 @@ This workflow allows you to get the logo, icon, and information of a company and
 
 The final workflow should look like the following image.
 
-![A workflow with the Brandfetch node](./workflow.png)
+![A workflow with the Brandfetch node](REDACTED)
 
 ### 1. Start node
 
@@ -42,7 +42,7 @@ This node will fetch the URL of the logo and icon of n8n. If you want the logo a
 
 In the screenshot below, you will notice that the node retrieves the URL of n8n's logo and icon.
 
-![Using the Brandfetch node to retrieve the URL of the logo and icon of a comapny](./Brandfetch_node.png)
+![Using the Brandfetch node to retrieve the URL of the logo and icon of a comapny](REDACTED)
 
 ### 3. Brandfetch1 node (company)
 
@@ -56,7 +56,7 @@ This node will fetch company data about n8n.
 :::
 In the screenshot below, you will notice that the node returns company data about n8n.
 
-![Using the Brandfetch node to retrieve the company data](./Brandfetch1_node.png)
+![Using the Brandfetch node to retrieve the company data](REDACTED)
 
 ### 4. Set node
 
@@ -79,7 +79,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 :::
 In the screenshot below, you will notice that the node sets the value of `Name`, `Icon URL`, and `Logo URL`. This value is passed to the next node in the workflow.
 
-![Using the Set node to set data to be inserted by the Airtable node](./Set_node.png)
+![Using the Set node to set data to be inserted by the Airtable node](REDACTED)
 
 ### 5. Airtable node (Append)
 
@@ -93,4 +93,4 @@ This node will append the data that we set in the previous node to a table. Crea
 
 In the screenshot below, you will notice that the node appends the data that we had set in the previous node.
 
-![Using the Airtable node to insert data into an Airtable table](./Airtable_node.png)
+![Using the Airtable node to insert data into an Airtable table](REDACTED)

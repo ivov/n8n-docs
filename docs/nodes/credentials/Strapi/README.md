@@ -28,4 +28,4 @@ Install [Strapi](https://strapi.io/documentation/v3.x/getting-started/installati
 12. Click on the ***Save*** button.
 13. Use this email, password, and the URL of your Strapi instance with your Strapi node credentials in n8n.
 
-![Getting Strapi credentials](./using-api.gif)
+![Getting Strapi credentials](REDACTED)

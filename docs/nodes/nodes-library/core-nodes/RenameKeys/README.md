@@ -27,7 +27,7 @@ This workflow allows you to rename a key using the Rename Keys node. You can als
 
 The final workflow should look like the following image.
 
-![A workflow with the Rename Keys node](./workflow.png)
+![A workflow with the Rename Keys node](REDACTED)
 
 ### 1. Start node
 

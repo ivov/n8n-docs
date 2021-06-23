@@ -23,7 +23,7 @@ This workflow allows you to create a new list, add a new contact to that list, u
 
 The final workflow should look like the following image.
 
-![A workflow with the Autopilot node](./workflow.png)
+![A workflow with the Autopilot node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will create a new list called `n8n-docs` in Autopilot.
 
 In the screenshot below, you will notice that the node creates a new list with the name `n8n-docs`.
 
-![Using the Autopilot node to create a new list](./Autopilot_node.png)
+![Using the Autopilot node to create a new list](REDACTED)
 
 ### 3. Autopilot1 node (upsert: contact)
 
@@ -56,7 +56,7 @@ This node creates a new contact and adds it to the list created in the previous 
 :::
 In the screenshot below, you will notice that the node creates a new contact with the email address `harshil@n8n.io` and adds it to the list `n8n-docs` created in the previous node.
 
-![Using the Autopilot node to create a new contact and add it to the list](./Autopilot1_node.png)
+![Using the Autopilot node to create a new contact and add it to the list](REDACTED)
 
 ### 4. Autopilot2 node (update: contact)
 
@@ -72,7 +72,7 @@ This node updates the information of the contact that we created in the previous
 :::
 In the screenshot below, you will notice that the node updates the contact created in the previous node by adding the tag `reviewer` to it.
 
-![Using the Autopilot node to update the contact by adding a tag](./Autopilot2_node.png)
+![Using the Autopilot node to update the contact by adding a tag](REDACTED)
 
 ### 5. Autopilot3 node (getAll: contact)
 
@@ -88,4 +88,4 @@ This node returns all the contacts of the `n8n-docs` list that we created using 
 :::
 In the screenshot below, you will notice that the node returns all the contacts that are present in the list `n8n-docs`.
 
-![Using the Autopilot node to get all the contacts in a list](./Autopilot3_node.png)
+![Using the Autopilot node to get all the contacts in a list](REDACTED)

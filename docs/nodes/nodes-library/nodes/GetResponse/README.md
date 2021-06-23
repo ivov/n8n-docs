@@ -26,7 +26,7 @@ This workflow allows you to get all the contacts from GetResponse and check if t
 
 The final workflow should look like the following image.
 
-![A workflow with the GetResponse node](./workflow.png)
+![A workflow with the GetResponse node](REDACTED)
 
 ### 1. Start node
 
@@ -43,7 +43,7 @@ This node will retrieve all the contacts from GetResponse.
 
 In the screenshot below, you will notice that the node retrieves all the contacts from GetResponse.
 
-![Using the GetResponse node to retrieve all the contacts](./GetResponse_node.png)
+![Using the GetResponse node to retrieve all the contacts](REDACTED)
 
 ### 3. IF node
 
@@ -58,7 +58,7 @@ This node will check if a contact belongs to the `n8n` campaign or not. If a con
 :::
 In the screenshot below, you will notice that the node returns all the contacts that do not belong to the `n8n` campaign.
 
-![Using the IF node to check if a contact belongs to the n8n campaign or not](./IF_node.png)
+![Using the IF node to check if a contact belongs to the n8n campaign or not](REDACTED)
 
 ### 4. GetResponse1 node (update: contact)
 
@@ -75,7 +75,7 @@ This node will update the campaign ID of all the contacts that we get from the t
 :::
 In the screenshot below, you notice that the node updates the campaign ID of all the contacts that do not belong to the `n8n` campaign.
 
-![Using the GetResponse node to update the campaign of the contacts](./GetResponse1_node.png)
+![Using the GetResponse node to update the campaign of the contacts](REDACTED)
 
 ### 5. NoOp node
 
@@ -84,4 +84,4 @@ Adding this node here is optional, as the absence of this node won't make a diff
 1. Create a ***NoOp*** node connected to the 'false' output of the IF node.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)

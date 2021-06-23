@@ -19,7 +19,7 @@ This workflow allows you to receive updates for Jira events. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Jira Trigger node](./workflow.png)
+![A workflow with the Jira Trigger node](REDACTED)
 
 
 ### 1. Jira Trigger node

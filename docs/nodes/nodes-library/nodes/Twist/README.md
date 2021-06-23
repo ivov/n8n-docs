@@ -23,7 +23,7 @@ This workflow allows you to create and update a channel as well as send a messag
 
 The final workflow should look like the following image.
 
-![A workflow with the Twist node](./workflow.png)
+![A workflow with the Twist node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ This node will create a channel `n8n-docs` and add a user to the channel.
 :::
 In the screenshot below, you will notice that the node creates a new channel named `n8n-docs`, and adds a user to the channel.
 
-![Using the Twist node to create a channel](./Twist_node.png)
+![Using the Twist node to create a channel](REDACTED)
 
 ### 3. Twist1 node (update: channel)
 
@@ -61,7 +61,7 @@ This node will update the description of the channel that we created in the prev
 :::
 In the screenshot below, you will notice that the node adds a description to the channel that we created in the previous node.
 
-![Using the Twist node to update the description of a channel](./Twist1_node.png)
+![Using the Twist node to update the description of a channel](REDACTED)
 
 ### 4. Twist2 node (create: messageConversation)
 
@@ -89,7 +89,7 @@ The above message mentions the user `Harshil`. To mention a user in your workspa
 :::
 In the screenshot below, you will notice that the node sends a message to the General conversation and mentions the user.
 
-![Using the Twist node to send a message](./Twist2_node.png)
+![Using the Twist node to send a message](REDACTED)
 
 ## FAQs
 

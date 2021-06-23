@@ -19,7 +19,7 @@ This workflow allows you to receive messages from a queue using the MQTT Trigger
 
 The final workflow should look like the following image.
 
-![A workflow with the MQTT Trigger node](./workflow.png)
+![A workflow with the MQTT Trigger node](REDACTED)
 
 
 ### 1. MQTT Trigger node

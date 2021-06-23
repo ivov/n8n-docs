@@ -19,7 +19,7 @@ This workflow allows you to receive updates when a new account is added by an ad
 
 The final workflow should look like the following image.
 
-![A workflow with the ActiveCampaign Trigger node](./workflow.png)
+![A workflow with the ActiveCampaign Trigger node](REDACTED)
 
 
 ### 1. ActiveCampaign Trigger node

@@ -33,7 +33,7 @@ This workflow allows you to encrypt data using the Crypto node. You can also fin
 
 The final workflow should look like the following image.
 
-![A workflow with the Crypto node](./workflow.png)
+![A workflow with the Crypto node](REDACTED)
 
 ### 1. Start node
 

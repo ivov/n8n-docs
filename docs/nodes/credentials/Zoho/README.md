@@ -27,4 +27,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 7. Click on the circle button in the OAuth section to connect a Zoho CRM account to n8n.
 8. Click the *Save* button to save your credentials.
 
-![Getting Zoho credentials](./getting-oauth-credentials.gif)
+![Getting Zoho credentials](REDACTED)

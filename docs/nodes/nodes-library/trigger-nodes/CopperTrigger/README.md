@@ -19,7 +19,7 @@ This workflow allows you to receive an update when a new project is created in C
 
 The final workflow should look like the following image.
 
-![A workflow with the Copper Trigger node](./workflow.png)
+![A workflow with the Copper Trigger node](REDACTED)
 
 
 ### 1. Copper Trigger node

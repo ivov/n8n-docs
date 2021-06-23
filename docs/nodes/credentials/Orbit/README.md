@@ -19,7 +19,7 @@ Create an [Orbit](https://app.orbit.love/) account.
 3. Click on the ***Copy*** button to copy the API Token.
 4. Use this ***API Token*** in with your Orbit node credentials in n8n.
 
-![Getting Orbit credentials](./using-api.gif)
+![Getting Orbit credentials](REDACTED)
 
 ## Further Reference
 

@@ -25,7 +25,7 @@ This workflow allows you to create, update, and get an entry in Strapi. You can 
 
 The final workflow should look like the following image.
 
-![A workflow with the Strapi node](./workflow.png)
+![A workflow with the Strapi node](REDACTED)
 
 ### 1. Start node
 
@@ -48,7 +48,7 @@ We will use the Set node to set the title, content, and description for an entry
 
 In the screenshot below, you will notice that node sets the value for title, content, and description.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ### 2. Strapi node (create: entry)
 
@@ -62,7 +62,7 @@ This node will create an entry for the content type `posts`. If you have a diffe
 
 In the screenshot below, you will notice that the node creates a new entry in Strapi using the information from the previous node.
 
-![Using the Strapi node to create an entry](./Strapi_node.png)
+![Using the Strapi node to create an entry](REDACTED)
 
 ### 3. Set1 node
 
@@ -80,7 +80,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 
 In the screenshot below, you will notice that the node sets the values of `id` and `slug`. These values are passed to the next node in the workflow.
 
-![Using the Set node to set the values for id and slug](./Set1_node.png)
+![Using the Set node to set the values for id and slug](REDACTED)
 
 ### 4. Strapi1 node (update: entry)
 
@@ -97,7 +97,7 @@ This node will update the slug for the entry that we created using the Strapi no
 
 In the screenshot below, you will notice that the node adds a slug to the entry that we created using the Strapi node.
 
-![Using the Strapi node to update an entry](./Strapi1_node.png)
+![Using the Strapi node to update an entry](REDACTED)
 
 ### 5. Strapi2 node (get: entry)
 
@@ -113,4 +113,4 @@ This node returns information about the entry that we created using the Strapi n
 
 In the screenshot below, you will notice that the node returns information about the entry that we specified.
 
-![Using the Strapi node to get information of an entry](./Strapi2_node.png)
+![Using the Strapi node to get information of an entry](REDACTED)

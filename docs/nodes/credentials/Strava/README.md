@@ -25,4 +25,4 @@ Create a [Strava](https://Strava.com) account.
 8. Click on the ***Save*** button.
 9. Use this ***Client ID*** and ***Client Secret*** with your Strava node credentials in n8n.
 
-![Getting Strava credentials](./using-oauth.gif)
+![Getting Strava credentials](REDACTED)

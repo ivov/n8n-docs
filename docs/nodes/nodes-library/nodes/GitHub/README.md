@@ -23,7 +23,7 @@ This workflow allows you to get the community profile of a GitHub repository. Yo
 
 The final workflow should look like the following image.
 
-![A workflow with the GitHub node](./workflow.png)
+![A workflow with the GitHub node](REDACTED)
 
 ### 1. Start node
 

@@ -23,7 +23,7 @@ This workflow allows you to get upto 100 invoices from Xero. You can also find t
 
 The final workflow should look like the following image.
 
-![A workflow with the Xero node](./workflow.png)
+![A workflow with the Xero node](REDACTED)
 
 ### 1. Start node
 

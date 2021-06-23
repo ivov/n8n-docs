@@ -20,7 +20,7 @@ Create a [Discord](https://www.discord.com/) account.
 4. Name your bot, and click on the ***Copy Webhook URL*** button to copy the webhook URL.
 5. Back in n8n, use the copied webhook URL in your Discord node.
 
-![How to create a webhook in Discord](./create-webhook.gif)
+![How to create a webhook in Discord](REDACTED)
 
 <!-- ## Using OAuth
 
@@ -31,4 +31,4 @@ Create a [Discord](https://www.discord.com/) account.
 5. Enter n8n provided redirect URL in the configuration. ![Redirect URL Explanation here](../README.md).
 
 
-![Getting Discord credentials](./using-oauth.gif) -->
+![Getting Discord credentials](REDACTED) -->

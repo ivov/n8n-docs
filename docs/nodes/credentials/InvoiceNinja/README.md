@@ -21,4 +21,4 @@ Create an [Invoice Ninja](https://www.invoiceninja.com/) account.
 4. Add new token.
 5. Use the key and your instance URL with Invoice Ninja node credentials in n8n.
 
-![Getting Invoice Ninja credentials](./using-access-token.gif)
+![Getting Invoice Ninja credentials](REDACTED)

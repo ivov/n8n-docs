@@ -23,7 +23,7 @@ This workflow allows you to send an SMS with MessageBird. You can also find the 
 
 The final workflow should look like the following image.
 
-![A workflow with the MessageBird node](./workflow.png)
+![A workflow with the MessageBird node](REDACTED)
 
 ### 1. Start node
 

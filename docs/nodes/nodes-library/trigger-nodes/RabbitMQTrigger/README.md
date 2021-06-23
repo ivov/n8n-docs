@@ -21,7 +21,7 @@ This workflow allows you to receive messages from a queue and send an SMS if the
 
 The final workflow should look like the following image.
 
-![A workflow with the RabbitMQ Trigger node](./workflow.png)
+![A workflow with the RabbitMQ Trigger node](REDACTED)
 
 ### 1. RabbitMQ Trigger node
 
@@ -37,7 +37,7 @@ This node will trigger the workflow when a new message is sent to the queue `tem
 
 In the screenshot below, you will notice that the node gets triggered when a new message is sent to the `temp` queue in RabbitMQ.
 
-![Using the RabbitMQ Trigger node to get a message from a queue](./RabbitMQTrigger_node.png)
+![Using the RabbitMQ Trigger node to get a message from a queue](REDACTED)
 
 ### 2. IF node
 
@@ -53,7 +53,7 @@ This node will compare the value of `temp` that we received in the message from 
 
 In the screenshot below, you will notice that the node returns output for **true** when the temperature is greater than 50.
 
-![Using the IF node to check if the temp is larger than 50](./IF_node.png)
+![Using the IF node to check if the temp is larger than 50](REDACTED)
 
 ### 3. Vonage node (send: sms)
 
@@ -75,7 +75,7 @@ The value of temp is {{$node["RabbitMQ"].json["temp"]}}.
 
 In the screenshot below, you will notice that the node sends an SMS with the value of `temp` that we received from the RabbitMQ Trigger node.
 
-![Using the Vonage node to send an SMS](./Vonage_node.png)
+![Using the Vonage node to send an SMS](REDACTED)
 
 ### 4. NoOp node
 Adding this node here is optional, as the absence of this node won't make a difference to the functioning of the workflow.
@@ -83,7 +83,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 1. Create a ***NoOp*** node connected to the 'false' output of the IF node.
 2. Click on ***Execute Node*** to run the node.
 
-![Using the NoOp node](./NoOp_node.png)
+![Using the NoOp node](REDACTED)
 
 ::: tip 💡 Activate workflow for production
 You'll need to save the workflow and then click on the Activate toggle on the top right of the screen to activate the workflow. Your workflow will then be triggered as specified by the settings in the RabbitMQ Trigger node.

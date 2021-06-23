@@ -34,7 +34,7 @@ Create a [Twist](https://twist.com/) account.
 14. Click on the circle button in the OAuth section to connect a Twist account to n8n.
 15. Click the ***Save*** button to save your credentials in n8n.
 
-![Getting Twist credentials](./using-oauth.gif)
+![Getting Twist credentials](REDACTED)
 
 ## FAQs
 

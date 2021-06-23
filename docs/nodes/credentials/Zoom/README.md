@@ -31,7 +31,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 11. Click on the circle button in the OAuth section to connect your Zoom account to n8n.
 12. Click the *Save* button to save your credentials.
 
-![Getting Zoom OAuth credentials](./using-oauth.gif)
+![Getting Zoom OAuth credentials](REDACTED)
 
 ## Using Access Token
 
@@ -42,4 +42,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 5. Go to the 'Activation' tab and click on the *Activate your app* button.
 6. Use the JWT token you copied with your Zoom API credentials in n8n.
 
-![Getting Zoom JWT credentials](./using-access-token.gif)
+![Getting Zoom JWT credentials](REDACTED)

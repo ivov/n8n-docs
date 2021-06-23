@@ -25,7 +25,7 @@ This workflow allows you to insert a document into a MongoDB collection. You can
 
 The final workflow should look like the following image.
 
-![A workflow with the MongoDB node](./workflow.png)
+![A workflow with the MongoDB node](REDACTED)
 
 ### 1. Start node
 

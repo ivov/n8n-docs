@@ -23,7 +23,7 @@ This workflow allows you to get all the entries using the Delivery API of Conten
 
 The final workflow should look like the following image.
 
-![A workflow with the Contentful node](./workflow.png)
+![A workflow with the Contentful node](REDACTED)
 
 ### 1. Start node
 
@@ -36,4 +36,4 @@ The start node exists by default when you create a new workflow.
 3. Toggle ***Return All*** to true.
 4. Click on ***Execute Node*** to run the node.
 
-![Using the Contentful node to get all entries](./Contentful_node.png)
+![Using the Contentful node to get all entries](REDACTED)

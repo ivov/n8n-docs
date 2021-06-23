@@ -19,7 +19,7 @@ This workflow allows you to receive messages for an [ActiveMQ](https://activemq.
 
 The final workflow should look like the following image.
 
-![A workflow with the AMQP Trigger node](./workflow.png)
+![A workflow with the AMQP Trigger node](REDACTED)
 
 
 ### 1. AMQP Trigger node

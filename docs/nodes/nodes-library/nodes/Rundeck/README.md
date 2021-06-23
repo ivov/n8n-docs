@@ -27,7 +27,7 @@ This workflow allows you to execute a job on Rundeck. You can also find the [wor
 
 The final workflow should look like the following image.
 
-![A workflow with the Rundeck node](./workflow.png)
+![A workflow with the Rundeck node](REDACTED)
 
 ### 1. Start node
 

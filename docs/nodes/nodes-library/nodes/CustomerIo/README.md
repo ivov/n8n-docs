@@ -23,7 +23,7 @@ This workflow allows you to create a customer and add them to a segment in Custo
 
 The final workflow should look like the following image.
 
-![A workflow with the Customer.io node](./workflow.png)
+![A workflow with the Customer.io node](REDACTED)
 
 ### 1. Start node
 
@@ -39,7 +39,7 @@ The start node exists by default when you create a new workflow.
 6. Enter the name of the customer in the ***Value*** field.
 7. Click on ***Execute Node*** to run the node.
 
-![Using the Customer.io node to create a new customer](./CustomerIo_node.png)
+![Using the Customer.io node to create a new customer](REDACTED)
 
 ::: v-pre
 ### 3. CustomerIo1 node (add: segment)
@@ -51,4 +51,4 @@ The start node exists by default when you create a new workflow.
 4. Click on ***Execute Node*** to run the node.
 :::
 
-![Using the Customer.io node to add the customer to a segment](./CustomerIo1_node.png)
+![Using the Customer.io node to add the customer to a segment](REDACTED)

@@ -23,7 +23,7 @@ This workflow allows you to create a project, tag, and time entry in Clockify. I
 
 The final workflow should look like the following image.
 
-![A workflow with the Clockify node](./workflow.png)
+![A workflow with the Clockify node](REDACTED)
 
 ### 1. Start node
 
@@ -47,7 +47,7 @@ This node will create a private project with a custom color. It will also add a 
 
 In the screenshot below, you will notice that the node creates a new private project called `n8n-docs`. This project has a custom color `#0000FF` and a note `For n8n-docs`.
 
-![Using the Clockify node to create project](./Clockify_node.png)
+![Using the Clockify node to create project](REDACTED)
 
 
 ::: v-pre
@@ -64,7 +64,7 @@ This node will create a new tag in Clockify.
 
 In the screenshot below, you will notice that the node creates a new tag called `docs` in the n8n workspace in Clockify.
 
-![Using the Clockify node to create a tag](./Clockify1_node.png)
+![Using the Clockify node to create a tag](REDACTED)
 
 
 ::: v-pre
@@ -87,7 +87,7 @@ This node creates a new time entry in Clockify with a description. It also adds 
 
 In the screenshot below, you will notice that the node creates a new time entry with a description and adds the tag that was created in the previous node.
 
-![Using the Clockify node to create a time entry](./Clockify2_node.png)
+![Using the Clockify node to create a time entry](REDACTED)
 
 ::: v-pre
 ### 5. Clockify3 node (update: timeEntry)
@@ -108,4 +108,4 @@ This node will add the project to the time entry that was created by the Clockif
 
 In the screenshot below, you will notice that the node has updated the time entry by adding the project ID we created in the Clockify node.
 
-![Using the Clockify node to update the time entry](./Clockify3_node.png)
+![Using the Clockify node to update the time entry](REDACTED)

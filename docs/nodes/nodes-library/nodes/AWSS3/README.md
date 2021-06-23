@@ -23,7 +23,7 @@ This workflow allows you to create a bucket on AWS S3. You can also find the [wo
 
 The final workflow should look like the following image.
 
-![A workflow with the AWS S3 node](./workflow.png)
+![A workflow with the AWS S3 node](REDACTED)
 
 ### 1. Start node
 

@@ -24,7 +24,7 @@ This workflow allows you to create, update, and get all records in Quick Base. Y
 
 The final workflow should look like the following image.
 
-![A workflow with the Quick Base node](./workflow.png)
+![A workflow with the Quick Base node](REDACTED)
 
 ### 1. Start node
 
@@ -44,7 +44,7 @@ We will use the Set node to set the name and age for a new record.
 
 In the screenshot below, you will notice that node sets the value for name and age.
 
-![Using the Set node to set the data](./Set_node.png)
+![Using the Set node to set the data](REDACTED)
 
 ### 3. Quick Base node (create: record)
 
@@ -62,7 +62,7 @@ This node will create a new record in a table.
 
 In the screenshot below, you will notice that the node creates a new record in Quick Base using the information from the previous node.
 
-![Using the Quick Base node to create an entry](./QuickBase_node.png)
+![Using the Quick Base node to create an entry](REDACTED)
 
 ### 4. Set1 node
 
@@ -80,7 +80,7 @@ We will use the Set node to ensure that only the data that we set in this node g
 
 In the screenshot below, you will notice that the node sets the value of `age` and `Record ID#`. This value is passed to the next node in the workflow.
 
-![Using the Set node to set the values for age and Record ID#](./Set1_node.png)
+![Using the Set node to set the values for age and Record ID#](REDACTED)
 
 ### 5. Quick Base1 node (update: record)
 
@@ -97,7 +97,7 @@ This node will update the age field with the new value that we set in the previo
 
 In the screenshot below, you will notice that the node updates the age field with the new value that we set in the previous node.
 
-![Using the Quick Base node to update an entry](./QuickBase1_node.png)
+![Using the Quick Base node to update an entry](REDACTED)
 
 ### 6. Quick Base2 node (getAll: record)
 
@@ -112,4 +112,4 @@ This node returns all the records from Quick Base.
 
 In the screenshot below, you will notice that the node returns all the records from Quick Base.
 
-![Using the Quick Base node to get all the records](./QuickBase2_node.png)
+![Using the Quick Base node to get all the records](REDACTED)

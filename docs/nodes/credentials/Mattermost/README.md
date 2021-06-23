@@ -25,7 +25,7 @@ You can use these credentials to authenticate the following nodes with Mattermos
 7. Click on the ***Yes, Create*** button.
 8. Use this ***Acess Token*** with your Mattermost node credentials in n8n.
 
-![Generating Access Token](./using-access-token.gif)
+![Generating Access Token](REDACTED)
 
 ## FAQs
 
@@ -47,7 +47,7 @@ A system admin has to grant permissions to the users for the user to create acce
 
 The user can now generate a personal access token by going to  their account settings and following the steps mentioned [above](#using-access-token).
 
-![Granting permission to user](./granting-permission.gif)
+![Granting permission to user](REDACTED)
 
 ## Further Reading
 

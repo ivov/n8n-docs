@@ -23,7 +23,7 @@ This workflow allows you to get all the slides from a presentation and get the t
 
 The final workflow should look like the following image.
 
-![A workflow with the Google Slides node](./workflow.png)
+![A workflow with the Google Slides node](REDACTED)
 
 ### 1. Start node
 
@@ -49,7 +49,7 @@ This Google Slides node will get all the slides from a presentation.
 
 In the screenshot below, you will notice that the node returns all the slides from the presentation.
 
-![Using the Google Slides node to get slides from a presentation](./GoogleSlides_node.png)
+![Using the Google Slides node to get slides from a presentation](REDACTED)
 
 ### 3. Google Slides1 node (getThumbnail: page)
 
@@ -68,4 +68,4 @@ This node will return thumbnails of the pages that were returned by the previous
 :::
 In the screenshot below, you will notice that the node returns thumbnails of the pages that were returned by the previous node.
 
-![Using the Google Slides node to get thumbnails of the slides](./GoogleSlides1_node.png)
+![Using the Google Slides node to get thumbnails of the slides](REDACTED)

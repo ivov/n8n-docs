@@ -18,7 +18,7 @@ This workflow allows you to receive updates when a form submission occurs in you
 
 The final workflow should look like the following image.
 
-![A workflow with the Webflow Trigger node](./workflow.png)
+![A workflow with the Webflow Trigger node](REDACTED)
 
 ### 1. Webflow Trigger node
 

@@ -27,7 +27,7 @@ You'll only need to enter the Credentials Name and click on the circle button in
 7. Enter n8n provided redirect URL. Redirect URL Explanation [here](../README.md).
 
 
-![Getting Bitly credentials](./using-oauth.gif)
+![Getting Bitly credentials](REDACTED)
 
 ## Using Access Token
 
@@ -39,4 +39,4 @@ You'll only need to enter the Credentials Name and click on the circle button in
 6. Use the access token in your Bitly node credentials in n8n.
 
 
-![Getting Bitly credentials](./using-access-token.gif)
+![Getting Bitly credentials](REDACTED)

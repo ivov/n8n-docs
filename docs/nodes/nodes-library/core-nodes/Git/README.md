@@ -24,7 +24,7 @@ This workflow allows you to add, commit, and push changes to a git repository. Y
 
 The final workflow should look like the following image.
 
-![A workflow with the Git node](./workflow.png)
+![A workflow with the Git node](REDACTED)
 
 ### 1. Start node
 
@@ -41,7 +41,7 @@ This node will add the `README.md` file to the staging area. If you want to add 
 
 In the screenshot below, you will notice that the node adds the `README.md` file to the staging area.
 
-![Using the Git node to add a file to the staging area](./Git_node.png)
+![Using the Git node to add a file to the staging area](REDACTED)
 
 ### 3. Git1 node (Commit)
 
@@ -55,7 +55,7 @@ This node will commit all the changes that were added to the staging area by the
 :::
 In the screenshot below, you will notice that the node creates a new commit.
 
-![Using the Git node to commit changes](./Git1_node.png)
+![Using the Git node to commit changes](REDACTED)
 
 ### 4. Git2 node (Log)
 
@@ -68,7 +68,7 @@ This node will return the commit logs of your repository.
 :::
 In the screenshot below, you will notice that the node creates a new commit.
 
-![Using the Git node to log the commits](./Git2_node.png)
+![Using the Git node to log the commits](REDACTED)
 
 ### 5. Git3 node (Push)
 
@@ -83,4 +83,4 @@ This node will push the changes to a cloud repository.
 
 In the screenshot below, you will notice that the node pushes the local changes to a cloud repository.
 
-![Using the Git node to push the changes](./Git3_node.png)
+![Using the Git node to push the changes](REDACTED)
